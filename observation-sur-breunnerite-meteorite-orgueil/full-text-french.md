@@ -1,4 +1,6 @@
-#
+# Observation sur la présence de la breunnérite dans la météorite d'Orgueil.
+
+## Par M. Daubrée.
 
 « C’est dans un résidu pulvérulent provenant du lavage d’un fragment 
 de la météorite d'Orgueil que s’est rencontrée l'espèce minérale dont 
