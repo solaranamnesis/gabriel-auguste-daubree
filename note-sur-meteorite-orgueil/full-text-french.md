@@ -1,4 +1,6 @@
-# 
+# Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
+
+## Par A. Daubrée.
 
 « J'ai l'honneur de mettre sous les yeux de l’Académie l’une des météo- 
 rites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite 
