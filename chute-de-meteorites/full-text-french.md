@@ -1,5 +1,6 @@
-#
+# Complément d'Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
+## Par M. Daubrée.
 
 Le bolide du 14 mai 1864 et la chute de météorites qui a suivi son 
 apparition ont déjà fait l'objet d’un certain nombre de notes qui ont 
