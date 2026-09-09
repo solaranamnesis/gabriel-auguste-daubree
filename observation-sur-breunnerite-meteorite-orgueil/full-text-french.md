@@ -29,8 +29,7 @@ neuse, même dans les parties où la loupe ne peut faire découvrir aucun
 grain discernable de breunnérite, est intimement mélangée de carbonates en 
 quantité trèes-notable. » 
 
-Sur la présence d’un carbonate de magnéste el 
-
+# Sur la présence d’un carbonate de magnéste el 
 
 Jer cristallisé dans la météorite d’Orqueil. Note de M. Des CLrorzraux, 
 présentée par M. Daubrée. 
@@ -80,4 +79,8 @@ velle preuve que l’intérieur de cette pierre n'a jamais dü être porté à u
 
 
 très-haute température. » 
+
+# Analyse chimique de la pierre météorique d'Orgueil.
+
+## Note de M. S. Cloez.
 
