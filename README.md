@@ -6,5 +6,5 @@ Public Domain Works by Gabriel Auguste Daubrée (1814-1896).
 
 English - Plain Text  
 English - PDF  
-French - Plain Text  
+[French - Plain Text](note-sur-meteorite-orgueil/full-text-french.md)  
 French - PDF  
