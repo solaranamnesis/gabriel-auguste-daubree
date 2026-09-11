@@ -33,9 +33,6 @@ un certain nombre d’autres météorites.
 (1) Is ressemblent particulièrement à la variété de pyrite magnétique que présentent 
 és gites aurifères de Moro-Vélho, au Brésil. 
 
-
-| | ( 985 ) 
-
 ». L'examen chimique de cette substance, entrepris par M. $. Cloëz. 
 dont l’habileté et l’exactitude sont bien connues, à conduit à des résultats 
 qu’il a signalés dans une Notice. | 
@@ -97,7 +94,7 @@ masses friables ou pulvérulentes qui peuvent être tombées à la surface de
 notre globe. » 
 
 
-Note sur la composition chimique de la pierre météorique d'Orgueil; par M. S. CLorz. 
+# Note sur la composition chimique de la pierre météorique d'Orgueil; par M. S. CLorz. 
 
 
 « Je dois à l’obligeance de M. le professeur Daubrée d’avoir pu faire un 
@@ -195,8 +192,7 @@ paru intéressant et utile à signaler, avant même d’avoir entierement termin
 mon analyse que je poursuis activement et qui sera bientôt achevée. » 
 
 
-Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir. 
-Lettre de M. Léymerte à M. Daubrée. 
+# Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir. Lettre de M. Léymerte à M. Daubrée. 
 
 
 « Le 14 mai dernier, à 8 heures du soir, un météore a traversé notre 
@@ -293,4 +289,12 @@ nière contenait 2,5 pour 100 de charbon d’après M. Thenard. Il serait in-
 téressant de voir si cette curieuse particularité existe aussi dans la nôtre. 
 C’est aux chimistes qu’il appartient de faire ce genre de recherche et de 
 nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. » 
+
+
+
+# Étude chimique et analyse de l'aérolithe d'Orgueil.
+
+## Par M. Pisani.
+
+
 
