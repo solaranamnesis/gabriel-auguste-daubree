@@ -290,11 +290,16 @@ téressant de voir si cette curieuse particularité existe aussi dans la nôtre.
 C’est aux chimistes qu’il appartient de faire ce genre de recherche et de 
 nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. » 
 
+# Observation sur la présence de la breunnérite dans la météorite d'Orgueil.
 
+## Par M. Daubrée.
+
+...
 
 # Étude chimique et analyse de l'aérolithe d'Orgueil.
 
 ## Par M. Pisani.
 
+...
 
 
