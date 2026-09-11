@@ -1,6 +1,10 @@
-# Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
+# Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
-## Par M. Daubrée.
+## Misc.
+
+## Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
+
+### Par M. Daubrée.
 
 « J'ai l'honneur de mettre sous les yeux de l’Académie l’une des météo- 
 rites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite 
