@@ -382,13 +382,254 @@ très-haute température. »
 
 # Analyse chimique de la pierre météorique d'Orgueil.
 
-## Note de M. S. Cloez.
+## Note de M. S. Cloëz.
 
 ...
 
 # Étude chimique et analyse de l'aérolithe d'Orgueil.
 
-## Par M. Pisani.
+## Note de M. Pisani, présentée par M. Daubrée.
+
+« Dans l'analyse de cet aérolithe présentée dernièrement à l'Académie, M. Cloëz a annoncé la présence du fer oxydulé, ainsi que celle d'un silicate ayant les rapports 2:1 entre l'oxygène de la silice et celui des bases. Les recherches que j'ai l'honneur de présenter aujourd'hui à l'Académie ont eu principalement pour but de m'assurer de la présence du fer oxydulé, ainsi que de la nature du silicate qui dans ce cas n'avait pas les rapports 1:1 du péridot, mais bien ceux 2:1 d'un silicate de magnésie attaquable par les acides, rapports qui n'existent pour aucun silicate connu de ce genre. »
+
+« Avant que de parler de ces deux points, je vais faire connaître le résultat de mes recherches sur divers échantillons de cette météorite que j'ai pu me procurer chez M. Sœmann. D'abord, les pierres ne sont pas toutes identiques quant à leur état d'agrégation, puisque quelques-unes, ainsi que l'a remarqué M. Cloëz et que j'ai pu le constater moi-même, restent longtemps en suspension dans l'eau après qu'elles y ont été délitées et passent en partie à travers les filtres, tandis que d'autres se déposent facilement et filtrent immédiatement clair. Leur état de porosité est si grand, qu'il n'est pas étonnant que la pyrite qu'elles contiennent se soit altérée en partie dans notre atmosphère pour former des sulfates et des hyposulfites, et pour condenser aussi non-seulement beaucoup d'eau, mais peut-être aussi le peu d'ammoniaque qu'on y trouve. Le filtre sur lequel on jette l'aérolithe délayé dans de l'eau acquiert bientôt une réaction acide, ce qui montre la facilité avec laquelle la poudre s'altère au contact de l'air et de l'humidité. »
+
+« Voici d'ailleurs une expérience qui démontre l'extrême avidité de cet aérolithe pour l'eau. Une certaine quantité ayant été séchée à 110 degrés a été laissée pendant quelques heures sur le plateau de la balance ; au bout de ce temps la matière avait repris 7 pour 100 d'eau, ce qui est assez voisin de la quantité d'eau hygroscopique que la pierre elle-même contenait, puisque j'en ai trouvé 9,15 pour 100 en la chauffant dans une étuve à 110 degrés. »
+
+« Les hyposulfites doivent être déjà formés dans la pierre, puisque, si on la met dans l'eau et qu'on filtre immédiatement, on trouve dans la liqueur, non pas des sulfures, mais des hyposulfites. Voici d'ailleurs l'analyse de la partie soluble dans l'eau sur 18,1 gr. de matière non desséchée. »
+
+Partie soluble 3,35 pour 100.
+
+« Elle contient : »
+
+Acide hyposulfureux 0,48  
+Acide sulfurique, 1,40  
+Chlore 0,08  
+Magnésie 0,30  
+Chaux 0,16  
+Potasse 0,16  
+Soude, ammoniaque, etc., et perte 0,77  
+3,35
+
+« L'alcool enlève à la matière épuisée par l'eau une substance d'un blanc jaunâtre dont la quantité a été trouvée de 0,37 pour 100, et qui consiste principalement en soufre. »
+
+« Voici comment je me suis assuré de la présence du fer oxydulé, dans l'aérolithe d'Orgueil. J'ai commencé par le traiter avec de l'acide azotique à chaud, qui a dissous le sulfure de fer et de nickel, et décomposé le silicate en laissant une poudre noire. Cette poudre après lavage et dessiccation était fortement magnétique ; traitée par l'acide chlorhydrique, elle a donné une solution contenant seulement du fer au maximum et au minimum en laissant la silice colorée en noir par la matière organique. En chauffant la silice au contact de l'air pour la rendre blanche et puis en la dissolvant dans de la potasse, on obtient comme résidu un peu de fer chromé. Je me suis assuré aussi que le nickel est combiné à du soufre et non à l'état d'oxyde dans le silicate, comme cela aurait pu être, en traitant la pierre par du sulfure d'ammonium qui a dissous du sulfure de nickel. »
+
+« Quant au silicate, j'y ai trouvé beaucoup plus de magnésie, mais néanmoins on n'obtient pas encore ainsi les rapports d'un péridot, mais plutôt, si l'on considère l'eau combinée, trouvée par M. Cloëz, comme appartenant à l'aérolithe, les rapports d'une serpentine. Ceci d'ailleurs n'est qu'une hypothèse, jusqu'à ce qu'on en ait une preuve plus concluante. La matière s'attaque par l'acide chlorhydrique avec dépôt de silice terreuse. »
+
+« Voici les résultats bruts de l'analyse faite sur la matière séchée à 110 degrés : »
+
+Silice 26,08 
+Magnésie 17 ,00 
+Protoxyde de fer 21 60 
+Peroxyde de fer 8 3o 
+Chaux , ,85 
+Spude 2)2 6 
+Potasse } , g 
+Oxyde de manganèse o, 36 
+Alumine oo 
+Fer chromé -, o 4q 
+Oxyde de nickel (avec cobalt) ... 2 , 26 
+Acide : sulfurique *,5& 
+Acide hyposulfureux o,53 
+Chlore O)0 8 
+Soujfe • •• ,5 )7 5 
+ 
+nombres qu'on peut grouper dé la manière suivante : 
+
+Oxygène. Rapports. 
+
+Silice 26,08 12,90 4 
+
+Magnésie..' i 7 , o 6,80 
+
+Protoxyde de fer. .. 7 , 7 8 i, 7 3 
+
+Chaux »• i,85 o,53 
+
+Soude 2,26 o,58 } 10,17 3 
+
+Potasse 0,19 o,o3 
+
+Oxyde de manganèse ,36 0,08 
+
+Alumine o ,90 6,42 
+
+Fer chromé o 4q 
+
+Feroxydulé (i) *5,T1 
+
+Sulfure de fer nickelifère i3 ,43 
+
+Eau et matières supposées organiques. 13,8g 
+
+I0O,00 
+
+» Il y a donc dans cet aérolithe 56,4a pour 100 de silicates. Si l'on cal- 
+culé l'alumine comme faisant partie d'un peu d'anorthïte, On obtient 
+2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par 
+lévigation de l'àérolilhè, et qu'examine en ce moment M. fies tïbizeaùx, 
+pourront établir s'il existé en effet un feldspath attaquable par les acides 
+dans cette météorite. » 
+
+PHYSIQUE. — Note sur la théorie des condensateurs électriques dans telaï 
+variable des tensions ; par M. J.-M. Gaugalv. 
+
+« Mes recherches antérieures sur les condensateurs formés avec des dié- 
+lectriques solides m'ont conduit à considérer les condensateurs de cette es- 
+pèce comme des condensateurs doubles {Comptes rendus, séance du 19 mai 
+1862). Si cette manière de voir est exacte, les lois qui régissent le mouve- 
+ment de l'électricité dans lé cas des condensateiirs formés avec lès diélec- 
+triques solides, et notamment dans le cas des câbles télégraphiques immer- 
+gés, peuvent être déduites de la théorie dès condensateurs doublés, et par 
+conséquent il devient intéressant d'établir cette -théorie. 
+
+» On trouve dans la plupart des Traités de physique dés' formulés qui 
+représentent là charge des batteries en cascade, mais les physiciens qui éé 
+sont occupés de ce sujet ont toujours supposé que lés condensateurs mis 
+
+
+
+(1) II est à remarquer que si le fer oxydulé se trouvait primitivement à l'état de pro- 
+toxyde dans le silicate, on aurait alors exactement les rapports d'un péridot. 
+
+18.. 
+
+
+
+( i36 ) 
+en batterie communiquaient métalliquemerit les uns avec les autres, et par 
+conséquent ils n'ont considéré que l'état d'équilibre. Lorsque les con- 
+densateurs accouplés ne communiquent entre eux que par l'intermé- 
+diaire d'un mauvais conducteur, cet état d'équilibre . ne s'établit qu'au 
+bout d'un temps appréciable, quelquefois même très-long, et l'on peut 
+demander alors quelle est, pour un instant donné de la période variable, 
+la distribution de l'électricité. Telle est la question que je mè suis proposé 
+de résoudre. 
+
+» Concevons d'abord ,un condensateur simple formé de deux plateaux 
+parallèles A et B, séparés par une lame d'air que l'électricité ne puisse fran- 
+chir, et supposons que le plateau A soit mis en communication métallique 
+avec une source de tension constante, le plateau B communiquant avec la 
+terre par le moyen d'un conducteur médiocre tel qu'un fil de coton : on 
+peut demander quelle est la charge de l'un ou de l'autre plateau au bout 
+du temps Q, le temps étant compté à partir de l'instant où le plateau B est 
+mis en rapport avec la terre. Admettons, pour fixer le langage, que la 
+source soit positive, et désignons par q la quantité d'électricité positive qui 
+reste virtuellement sur le plateau B au bout du temps 0, c'est-à-dire la quan- 
+tité d'électricité positive que ce plateau laisserait échapper si, après le 
+temps 0, on le mettait en communication métallique avec la terre : le flux 
+positif qui serait transmis dans l'unité de temps par le fil de coton, si 
+l'écoulement devenait uniforme et conservait la vitesse qu'il possède au bout 
+
+du temps #, sera exprimé par — - -—■> et l'on aura 
+
+M. -S-** 
+
+en désignant par k un coefficient constant directement proportionnel à la 
+conductibilité du fil de coton, et inversement proportionnel à la force con- 
+densante de l' appareil employé. 
+
+» Le principe dont l'équation précédente est la traduction n'est peut- 
+être pas complètement évident ; mais comme les conséquences qui en ré- 
+sultent ont été vérifiées par des expériences nombreuses et variées, on ne 
+peut pas douter de son exactitude, et il résume en quelque sorte la théorie 
+des condensateurs dans l'état variable des tensions. 
+
+» L'intégration de l'équation (i) donne 
+
+
+
+( *1 ) 
+en représentant par q a la quantité d'électricité positive qui se trouve vir- 
+tuellement sur le plateau B à l'origine du temps. 
+
+» La quantité q une fois connue, il est facile d'obtenir la charge de l'un 
+ou de l'autre des plateaux A, B. 
+
+» 11 résulte immédiatement de l'équation (a) que si l'on note à des inter- 
+valles égaux, de minute en minute, par exemple, les valeurs successives 
+de q, ces valeurs forment une progression géométrique, et il est aisé d'en 
+conclure que si l'on note à des intervalles égaux les accroissements de la 
+charge de l'un ou de l'autre plateau, ces accroissements forment égale- 
+ment des progressions géométriques. Cette loi a été vérifiée de plusieurs 
+
+manières. 
+
+» Maintenant la théorie du condensateur double peut être aisément dé- 
+duite du principe qui m'a servi à établir la théorie du condensateur simple. 
+Concevons un système formé de quatre plateaux métalliques A, B, C, D pa- 
+rallèles et séparés les uns des autres par des lames d'air infranchissables 
+à l'électricité ; supposons que l'on mette le plateau supérieur A en communi- 
+cation métallique avec une source positive de tension constante, que le pla- 
+teau inférieur D soit mis en communication métallique avec la terre, enfin 
+que les plateaux moyens B et C soient mis en communication l'un avec 
+l'autre par l'intermédiaire d'un mauvais conducteur tel qu'un fil de coton : 
+il s'agit de déterminer quel est l'état électrique de l'un quelconque des pla- 
+teaux au bout du temps 0, le temps étant compté à partir de l'instant où les 
+plateaux moyens ont été mis en communication l'un avec l'autre. En rai- 
+sonnant à peu près comme dans le cas du condensateur simple, on trouve 
+que la charge positive q-, accumulée sur le plateau C au bout du temps $, est 
+fournie par l'équation 
+
+» m représente le rapport de la charge influençante à la charge influencée 
+dans le condensateur simple formé des plateaux A et B. 
+' » m' représente le même rapport pour le condensateur formé des pla- 
+teaux C et D. 
+
+» k est un coefficient constant proportionnel à la conductibilité du fil 
+
+de coton qui relie les plateaux B et C. 
+
+» La charge q du plateau C étant connue, il est aisé d'obtenir celle des 
+trois autres plateaux. 
+
+» De l'équation (3) il résulte que si l'on note à des intervalles de temps 
+
+
+
+( '38 ) 
+égaux les accroissemeuts successifs de la charge de l'un quelconque des 
+plateaux, ces accroissements forment une progression géométrique» comme 
+dans le cas du condensateur simple; cette conclusion a été vérifiée par des 
+observations directes. 
+
+» Après avoir déterminé, comme je viens de le dire, la loi suivant la- 
+quelle se constitue graduellement la charge d'un condensateur double, j'ai 
+déterminé par un calcul analogue la loi suivant laquelle s'effectue la dé- 
+charge. Le condensateur double étant chargé à saturation, je suppose 
+qu'on le met en décharge en faisant communiquer métailiquement avec le 
+sol les plateaux A et D, les plateaux moyens B et C ne communiquant entre 
+eux que par l'intermédiaire du fil de coton; il s'agit de déterminer la charge 
+que les plateaux conservent au bout du temps 0. J'ai trouvé que la charge q 
+du plateau C était exprimée par la formule 
+
+W logJ( 2 -m 3 -m' 2 )= _*0(a-m 2 - m '«), 
+
+toutes les lettres conservant la même signification que dans l'équa- 
+tion (3). 
+
+» De la comparaison des formules (3) et. (4) on déduit aisément la loi 
+suivante : Lorsqu'un condensateur double chargé à saturation est mis en dé- 
+charge, chacun de ses plateaux perd dans un temps donné une quantité d'é- 
+lectricité égale à celle qui viendrait dans le même temps s'accumuler sur le 
+mêmeplateau, si l'appareil pris à l'état neutre était mis en charge. Je suppose 
+bien entendu que la tension de la source est la même dans les deux cas, et 
+que l'on effectue la charge et la décharge dans les conditions que j'ai défi- 
+nies. Cette dernière loi, comme les précédentes, a été vérifiée par des 
+expériences directes. 
+
+» Je me suis servi, pour exprimer la force condensante, d'un condensa- 
+teur simple de la formule F = l J_ mi * qui se trouve indiquée dans tous les 
+
+Traités de physique. Je sais que l'exactitude de cette formule a été contes- 
+tée dans ces derniers temps par un éminent physicien d'Allemagne, mais je 
+ne crois pas que les objections mises en avant par ce savant soient fondées ; 
+j'ai vérifié à priori les principes sur lesquels est établie la formule dont il 
+s'agit, j'ai vérifié à posteriori la formule elle-même, et je crois qu'on peut 
+continuer à s'en servir avec toute sécurité. » 
+
+
 
 ...
 
