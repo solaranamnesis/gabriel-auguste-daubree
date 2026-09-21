@@ -20,48 +20,19 @@
 
 « Toutefois la météorite du 14 mai diffère, par plusieurs caractères importants, même de celles que je viens de citer comme les plus analogues, entre autres par la proportion très-notable de chlorures et surtout de chlorhydrate d'ammoniaque qu'elle renferme. Elle surpasse aussi les trois autres météorites charbonneuses par sa teneur en carbone. »
 
-« La présence du carbone dans les météorites a paru d'abord si extraor- 
-dinaire, qu'on a cherché à l'expliquer en supposant qu'elles avaient pu 
-emprunter ce carbone au sol sur lequel elles étaient tombées, S'il restait 
-encore quelque doute à ce sujet, il serait entierement levé aujourd'hui ; 
-car il est facile de reconnaître que le carbone préexistait dans l'intérieur de 
-chacune de ces dernières masses météoriques, au moment du phénomène 
-calorifique qui en a vitrifié la surface. »
+« La présence du carbone dans les météorites a paru d'abord si extraordinaire, qu'on a cherché à l'expliquer en supposant qu'elles avaient pu emprunter ce carbone au sol sur lequel elles étaient tombées. S'il restait encore quelque doute à ce sujet, il serait entièrement levé aujourd'hui ; car il est facile de reconnaître que le carbone préexistait dans l'intérieur de chacune de ces dernières masses météoriques, au moment du phénomène calorifique qui en a vitrifié la surface. »
 
-« De plus, ces morceaux à surface fondue et vitrifiée renferment des 
-substances qui sont facilement volatilisables, comme l'eau et le chlorhy- 
-drate d'ammoniaque. Ces deux circonstances en apparence contradictoires 
-peuvent s'expliquer, ainsi que la fait remarquer M. Wohler pour un cas 
-analogue, si l'on admet que la chaleur qu'elles ont subie a été de si courte 
-durée, qu'ellen'a pu pénétrer dans l'intérieur de la masse, dont la substance 
-est d'ailleurs mauvais conducteur du calorique. Dans le cas qui nous 
-occupe, la chaleur aurait dü être en quelque sorte instantanée, et cepen- 
-dant d'une intensité considérable ; car il n'a pas fallu moins de la chaleur 
-rouge blanc du chalumeau à gaz pour reproduire artificiellement ce vernis 
-de fusion. . 
- » Non-seulement la météorite d'Orgueil est tendre et friable, mais elle 
-se réduit en une poussière impalpable aussitôt qu'elle prend le contact de 
+« De plus, ces morceaux à surface fondue et vitrifiée renferment des substances qui sont facilement volatilisables, comme l'eau et le chlorhydrate d'ammoniaque. Ces deux circonstances en apparence contradictoires peuvent s'expliquer, ainsi que l'a fait remarquer M. Wœhler pour un cas analogue, si l'on admet que la chaleur qu'elles ont subie a été de si courte durée, qu'elle n'a pu pénétrer dans l'intérieur de la masse, dont la substance est d'ailleurs mauvais conducteur du calorique. Dans le cas qui nous occupe, la chaleur aurait dû être en quelque sorte instantanée, et cependant d'une intensité considérable ; car il n'a pas fallu moins de la chaleur rouge blanc du chalumeau à gaz pour reproduire artificiellement ce vernis de fusion. »
+ 
+« Non-seulement la météorite d'Orgueil est tendre et friable, mais elle se réduit en une poussière impalpable aussitôt qu'elle prend le contact de l'eau et que le sel soluble qui lui sert de ciment se trouve dissous. On voit, par conséquent, combien il peut être parfois difficile de distinguer les corps pulvérulents arrivant des espaces planétaires de ceux qui sont enlevés à l'écorce terrestre par les vents, les trombes ou les phénomènes volcaniques. Il peut quelquefois être non moins difficile de retrouver ces corps après leur chute, car une simple pluie suffit pour déliter complétement des météorites, comme celle d'Orgueil, et les rendre méconnaissables. »
 
+« Bien des chutes de ce genre doivent journellement échapper à l'observation. Il importe donc de redoubler d'attention et de rechercher, sans perdre de temps, à la suite de l'apparition et de l'explosion des bolides, les masses friables ou pulvérulentes qui peuvent être tombées à la surface de notre globe. »
 
-( 986) 
+---
 
-l'eau et que le sel soluble qui lui sert de ciment se trouve sen On voit, 
-par conséquent, combien il peut être parfois difficile de distinguer les corps 
-pulvérulents arrivant des espaces planétaires de ceux qui sont enlevés à 
-l'écorce terrestre par les vents, les trombes ou les phénomènes volcaniques. 
-Il peut quelquefois être non moins difficile de retrouver ces corps apres 
-jeur chute, car une simple pluie suffit pour déliter complétement des météo- 
-rites, comme celle d'Orgueil, et les rendre méconnaissables. 
+# Note sur la composition chimique de la pierre météorique d'Orgueil.
 
-» Bien des chutes de ce genre doivent journellement échapper à l'obser- 
-vation. Il importe donc de redoubler d'attention et de rechercher, sans 
-perdre de temps, à la suite de l'apparition et de l'explosion des bolides, les 
-masses friables ou pulvérulentes qui peuvent être tombées à la surface de 
-notre globe. » 
-
-
-# Note sur la composition chimique de la pierre météorique d'Orgueil; par M. S. CLorz. 
-
+## Par M. S. Cloëz.
 
 « Je dois à l'obligeance de M. le professeur Daubrée d'avoir pu faire un 
 examen rapide, mais encore incomplet, de la nature des principaux élé- 
@@ -157,9 +128,9 @@ genre de sels n'avait pas été signalé jusqu'ici dans les météorites ; le fa
 paru intéressant et utile à signaler, avant même d'avoir entierement terminé 
 mon analyse que je poursuis activement et qui sera bientôt achevée. » 
 
+---
 
 # Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir. Lettre de M. Léymerte à M. Daubrée. 
-
 
 « Le 14 mai dernier, à 8 heures du soir, un météore a traversé notre 
 atmosphère de l'ouest à l'est environ, passant près du zénith de Montau- 
@@ -290,6 +261,8 @@ le résultat est consigné ci-après, parait montrer que cette pâte charbon-
 neuse, même dans les parties où la loupe ne peut faire découvrir aucun 
 grain discernable de breunnérite, est intimement mélangée de carbonates en 
 quantité trèes-notable. » 
+
+---
 
 # Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.
 
