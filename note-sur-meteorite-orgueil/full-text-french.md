@@ -1,72 +1,34 @@
 # Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
-## Par Mm. Daubrée, Cloëz, Pisani.
+## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux.
 
 ## Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
 
 ### Par M. Daubrée.
 
-« J'ai l'honneur de mettre sous les yeux de l'Académie l'une des météo- 
-rites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite 
-du bolide dont le spectacle a fait une si vive impression dans une partie de 
-la France. C'est à la fois un devoir et un plaisir d'adresser de vifs remerci- 
-ments aux personnes qui ont répondu avec une si grande obligeance à ma 
-demande, notamment à M. A. Debia, secrétaire de la Société des Sciences, 
-Agriculture et Belles-Lettres de Tarn-et-Garonne et Membre du Conseil 
-général; M. Victor Brun, directeur du Musée d'Histoire naturelle de la 
-ville de Montauban; M. le préfet de Tarn-et-Garonne, et M. Malfré, maire 
-d'Orgueil. 
+« J'ai l'honneur de mettre sous les yeux de l'Académie l'une des météorites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite du bolide dont le spectacle a fait une si vive impression dans une partie de la France. C'est à la fois un devoir et un plaisir d'adresser de vifs remercîments aux personnes qui ont répondu avec une si grande obligeance à ma demande, notamment à M. A. Debia, secrétaire de la Société des Sciences, Agriculture et Belles-Lettres de Tarn-et-Garonne et Membre du Conseil général ; M. Victor Brun, directeur du Musée d'Histoire naturelle de la ville de Montauban ; M. le préfet de Tarn-et-Garonne, et M. Malfré, maire d'Orgueil. »
 
-» Sans décrire ici les caractères physiques qui distinguent tout particu- 
-lièérement la météorite d'Orgueil, je dirai que son aspect rappelle singu- 
-lièrement certains lignites ternes et terreux. 
+« Sans décrire ici les caractères physiques qui distinguent tout particulièrement la météorite d'Orgueil, je dirai que son aspect rappelle singulièrement certains lignites ternes et terreux. »
 
-». Dans cette masse noire on distingue de petits grains d'une substance à 
-éclat métallique et jaune de bronze, que sa densité permet d'isoler compléte- 
-ment par lévigation, En les examinant au microscope avec un grossissement 
-suffisant, j'y ai reconnu des formes cristallines fort nettes, quoique de très- 
-petite dimension (environ + de millimètre de diamètre). Ce sont des tables 
-hexagonales et régulières. Ces petits grains sont d'ailleurs trés-fortement 
-attirables au barreau aimanté, et possèdent tous les caractères physiques 
-et chimiques de la pyrite magnétique où pyrrhotine (1). On sait que cette 
-espèce minérale, découverte, il y a près de quarante ans, par M. Gustave 
-Rose, dans la pierre météorique de Juvinas, a été retrouvée depuis lors dans 
-un certain nombre d'autres météorites. 
+« Dans cette masse noire on distingue de petits grains d'une substance à éclat métallique et jaune de bronze, que sa densité permet d'isoler complétement par lévigation. En les examinant au microscope avec un grossissement suffisant, j'y ai reconnu des formes cristallines fort nettes, quoique de très-petite dimension (environ 1/20 de millimètre de diamètre). Ce sont des tables hexagonales et régulières. Ces petits grains sont d'ailleurs très-fortement attirables au barreau aimanté, et possèdent tous les caractères physiques et chimiques de la _pyrite magnétique_ ou pyrrhotine.* On sait que cette espèce minérale, découverte, il y a près de quarante ans, par M. Gustave Rose, dans la pierre météorique de Juvinas, a été retrouvée depuis lors dans un certain nombre d'autres météorites. »
 
+*) Ils ressemblent particulièrement à la variété de pyrite magnétique que présentent les gîtes aurifères de Moro-Velho, au Brésil.
 
-(1) Is ressemblent particulièrement à la variété de pyrite magnétique que présentent 
-és gites aurifères de Moro-Vélho, au Brésil. 
+« L'examen chimique de cette substance, entrepris par M. S. Cloëz, dont l'habileté et l'exactitude sont bien connues, a conduit à des résultats qu'il a signalés dans une Notice. »
 
-». L'examen chimique de cette substance, entrepris par M. $. Cloëz. 
-dont l'habileté et l'exactitude sont bien connues, à conduit à des résultats 
-qu'il a signalés dans une Notice. | 
+« Je ferai observer que la météorite d'Orgueil diffère de la plupart de celles que l'on connaît. Elle doit en effet être rapportée au type des _météorites charbonneuses_, dont jusqu'à présent trois chutes seulement ont été bien signalées : celle d'Alais (Gard), du 15 mars 1806, dont Thenard et Fourcroy, puis Berzélius, ont fait connaître la composition jusqu'alors sans exemple ; une seconde tombée au cap de Bonne-Espérance, à Cold-Bokkeweld, le 13 octobre 1838 ; enfin une troisième tombée à Kaba, non loin de Debreczin, en Hongrie, le 15 avril 1857. On connaît l'étude pleine d'intérêt dont ces deux dernières ont été l'objet de la part de M. Faraday et de MM. Wœhler et Haidinger. »
 
-» Je ferai observer que la météorite d'Orgueil diffère de la plupart de 
-celles que l'on connaît. Elle doit en effet être rapportée au type des météo- 
-rites charbonneuses, dont jusqu'à présent trois chutes seulement ont été 
-bien signalées : celle d'Alais (Gard), du 15 mars 1806, dont Thenard et 
-Foureroy, puis Berzélius, ont fait connaître la composition jusqu'alors 
-sans exemple; une seconde tombée au cap de Bonne-Espérance, à 
-Cold-Bokkeweld, le 13 octobre 1838; enfin une troisième tombée à Kaba, 
-non loin de Debreczin, en Hongrie, le 15 avril 1857. On connait l'étude 
-pleine d'intérêt dont ces deux dernières ont été l'objet de la part de 
-M. Faraday et de MM. Wœæbhler et Haidinger. 
+« Toutefois la météorite du 14 mai diffère, par plusieurs caractères importants, même de celles que je viens de citer comme les plus analogues, entre autres par la proportion très-notable de chlorures et surtout de chlorhydrate d'ammoniaque qu'elle renferme. Elle surpasse aussi les trois autres météorites charbonneuses par sa teneur en carbone. »
 
-» Toutefois la météorite du 14 mai diffère, par plusieurs caracteres im- 
-portants, même de celles que je viens de citer comme les plus analogues, 
-entre autres par la proportion très-notable de chlorures ét surtout de chlor- 
-hydrate d'ammoniaque qu'elle renferme. Elle surpasse aussi les trois autres 
-météorites charbonneuses par sa teneur en carbone. 
-
-» La présence du carbone dans les météorites a paru d'abord si extraor- 
+« La présence du carbone dans les météorites a paru d'abord si extraor- 
 dinaire, qu'on a cherché à l'expliquer en supposant qu'elles avaient pu 
 emprunter ce carbone au sol sur lequel elles étaient tombées, S'il restait 
 encore quelque doute à ce sujet, il serait entierement levé aujourd'hui ; 
 car il est facile de reconnaître que le carbone préexistait dans l'intérieur de 
 chacune de ces dernières masses météoriques, au moment du phénomène 
-calorifique qui en a vitrifié la surface. 
+calorifique qui en a vitrifié la surface. »
 
-» De plus, ces morceaux à surface fondue et vitrifiée renferment des 
+« De plus, ces morceaux à surface fondue et vitrifiée renferment des 
 substances qui sont facilement volatilisables, comme l'eau et le chlorhy- 
 drate d'ammoniaque. Ces deux circonstances en apparence contradictoires 
 peuvent s'expliquer, ainsi que la fait remarquer M. Wohler pour un cas 
@@ -329,11 +291,9 @@ neuse, même dans les parties où la loupe ne peut faire découvrir aucun
 grain discernable de breunnérite, est intimement mélangée de carbonates en 
 quantité trèes-notable. » 
 
-# Sur la présence d'un carbonate de magnéste el 
+# Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.
 
-Jer cristallisé dans la météorite d'Orqueil. Note de M. Des CLrorzraux, 
-présentée par M. Daubrée. 
-
+## Note de M. Des Cloizeaux, présentée par M. Daubrée.
 
 « La météorite d'Orgueil, déjà si remarquable à tous égards par sa consti- 
 tution physique et chimique, renferme encore dans son intérieur une sub- 
@@ -374,6 +334,12 @@ magnésie.
 nate en cristaux inaltérés, au sein d'une pierre météorique, est une nou- 
 velle preuve que l'intérieur de cette pierre n'a jamais dü être porté à une 
 très-haute température. » 
+
+# Dosage de l'acide carbonique contenu dans la météorite d'Orgueil.
+
+## Notes de M. S. Cloëz, présentée par M. Daubrée.
+
+...
 
 # Analyse chimique de la pierre météorique d'Orgueil.
 
