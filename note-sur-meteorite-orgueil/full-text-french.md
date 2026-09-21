@@ -1,6 +1,6 @@
 # Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
-## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux.
+## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie.
 
 ## Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
 
@@ -34,202 +34,61 @@
 
 ## Par M. S. Cloëz.
 
-« Je dois à l'obligeance de M. le professeur Daubrée d'avoir pu faire un 
-examen rapide, mais encore incomplet, de la nature des principaux élé- 
-ments qui entrent dans la composition de cette pierre. 
+« Je dois à l'obligeance de M. le professeur Daubrée d'avoir pu faire un examen rapide, mais encore incomplet, de la nature des principaux éléments qui entrent dans la composition de cette pierre. »
 
-» Au contact de l'eau froide, la pierre météorique d'Orgueil se délite 
-complétement : elle se divise en particules d'une extrême ténuité qui restent 
-longtemps en suspension dans le liquide, et qui traversent les filtres les 
-plus épais sur lesquels on cherche à les recueillir. Cette action de l'eau est 
-le résultat de la dissolution de matières salines assez abondantes et qui 
-servent en quelque sorte de ciment. 
+« Au contact de l'eau froide, la pierre météorique d'Orgueil se délite complétement : elle se divise en particules d'une extrême ténuité qui restent longtemps en suspension dans le liquide, et qui traversent les filtres les plus épais sur lesquels on cherche à les recueillir. Cette action de l'eau est le résultat de la dissolution de matières salines assez abondantes et qui servent en quelque sorte de ciment. »
 
-» La proportion des substances salines solubles dans l'eau s'élève à 
-5,30 pour 100 environ; on y trouve du chlorhydrate d'ammoniaque, des 
-chlorures de potassium, de sodium, du sulfate de magnésie, du sulfate 
-de chaux, etc. 
+« La proportion des substances salines solubles dans l'eau s'élève à 5,30 pour 100 environ ; on y trouve du chlorhydrate d'ammoniaque, des chlorures de potassium, de sodium, du sulfate de magnésie, du sulfate de chaux, etc. »
 
-» L'alcool absolu se comporte à l'égard de la pierre charbonneuse d'Or- 
-gueil à peu près comme l'eau; cependant il la désagrége beaucoup plus 
-lentement, et les particules ne sont pas aussi divisées, car on peut facilement 
-les réunir sur un filtre, Le liquide évaporé laisse un résidu cristallisé, dans 
-lequel se trouve une substance de nature organique que l'on n'obtiendra 
-probablement pas en quantité suffisante pour en faire une étude appro- 
-fondie. | 
+« L'alcool absolu se comporte à l'égard de la pierre charbonneuse d'Orgueil à peu près comme l'eau ; cependant il la désagrége beaucoup plus lentement, et les particules ne sont pas aussi divisées, car on peut facilement les réunir sur un filtre. Le liquide évaporé laisse un résidu cristallisé, dans lequel se trouve une substance de nature organique que l'on n'obtiendra probablement pas en quantité suffisante pour en faire une étude approfondie. »
 
-» L'action de l'eau et de l'alcool ne permet pas l'emploi de ces liquides 
-pour la détermination de la densité de la pierre; il faut avoir recours à un 
-liquide auxiliaire tel que la benzine ou l'huile de naphte rectifiée. 
+« L'action de l'eau et de l'alcool ne permet pas l'emploi de ces liquides pour la détermination de la densité de la pierre ; il faut avoir recours à un liquide auxiliaire tel que la benzine ou l'huile de naphte rectifiée. »
 
+« En employant la benzine pure, j'ai trouvé pour la densité de la pierre rapportée à celle de l'eau le nombre 2,567. »
 
-( 987.) 
+« Quand on chauffe l'aérolithe d'Orgueil dans un petit tube bouché, on voit de l'eau se condenser dans la partie froide du tube, et si l'on élève suffisamment la température, il apparaît un peu au-dessus de la partie chauffée un dépôt cristallin formé de carbonate et de chlorhydrate d'ammoniaque. »
 
-» En employant la benzine pure, j'ai trouvé pour la densité de la pierre 
-rapportée à celle de l'eau le nombre 2,567. 
+« Le produit chauffé conserve son aspect extérieur, il reste noir. Il faut élever la température jusqu'au rouge blanc pour fondre, ou mieux pour friter un petit fragment du météorite charbonneux. L'expérience réussit parfaitement à la lampe à gaz, en employant un petit creuset conique fait avec un bout de fil de platine tourné en spirale. Le produit frité est encore noir comme si l'on avait chauffé en vase clos. »
 
-» Quand on chauffe l'aérolithe d'Orgueil dans un petit tube bouché, on 
-voit de l'eau se condenser dans la partie froide du tube, et si l'on élève suf- 
-fisamment la température, il apparait un peu au-dessus dela partie chauffée 
-un dépôt cristallin formé de carbonate et de chlorhydrate d'ammoniaque. 
+« A l'air libre, la pierre chauffée change de couleur, elle devient d'un rouge ocreux. »
 
-» Le produit chauffé conserve son aspect extérieur, il reste noir. Il faut 
-élever la température jusqu'au rouge blanc pour fondre, ou mieux pour 
-friter un petit fragment du météorite charbonneux. L'expérience réussit 
-parfaitement à la lampe à gaz, en employant un petit creuset conique fait 
-avec un bout de fil de platine tourné en spirale. Le produit frité est encore 
-noir comme si l'on avait chauffé en vase clos. 
+« L'aspect seul de la pierre faisait présumer qu'elle contenait du carbone à l'état de graphite, et peut-être aussi sous la forme de combinaison organique. L'analyse a été faite dans mon appareil à combustion sans dessiccation préalable de la matière. La quantité d'acide carbonique obtenue s'élève à 21,8 pour 100 du poids du produit brûlé, ce qui fait 5,92 pour 100 de carbone. »
 
-» À l'air libre, la pierre chauffée change de couleur, elle devient d'un 
-rouge oCreux. 
+« La quantité d'eau produite est de 9,06 pour 100, mais il est à remarquer que ce nombre représente à la fois l'eau qui paraît appartenir à la constitution de la pierre, l'eau hygroscopique et l'eau fournie par l'hydrogène du sel ammoniacal. »
 
-» L'aspect seul de la pierre faisait présumer qu'elle contenait du carbone 
-à l'état de graphite, et peut-être aussi sous la forme de combinaison orga- 
-nique. L'analyse a été faite dans mon appareil à combustion sans dessicca- 
-tion préalable de la matière. La quantité d'acide carbonique obtenue 
-s'élève à 21,8 pour 100 du poids du produit brülé, ce qui fait 5,92 pour 100 
-de carbone. 
+« L'acide chlorhydrique dissout en grande partie le météorite d'Orgueil ; il se dégage de l'acide sulfhydrique, et la liqueur se colore en jaune verdâtre ; elle contient à la fois du protoxyde et du sesquioxyde de fer. Le résidu insoluble desséché à 110 a une couleur noire foncée ; sa proportion est de 7,6 pour 100, mais, en le calcinant à l'air, la matière noire se brûle et disparaît ; il reste 2,2 pour 100 d'une substance grise. La différence entre ces nombres est de 5,4, elle représente presque la totalité du carbone trouvée ci-dessus par la combustion directe de la matière. »
 
-» La quantité d'eau produite est de 9,06 pour 100, mais il est à remar- 
-quer que ce nombre représente à la fois l'eau qui paraît appartenir à la 
-constitution de la pierre, l'eau hygrescopique et l'eau fournie par l'hydro- 
-gène du sel ammoniacal. 
+« Le soufre dégagé à l'état d'acide sulfhydrique par l'action de l'acide chlorhydrique a été recueilli et dosé : la proportion conduit à celle du protosulfure de fer appartenant à la matière ; celle-ci est de 4,5 pour 100. »
 
-» l'acide chlorhydrique dissout en grande partie le météorite d'Orgueil; 
-il se dégage de l'acide sulfhydrique, et la liqueur se colore en jaune ver- 
-dâtre ; elle contient à la fois du protoxyde et du sesquioxyde de fer. Le résidu 
-insoluble desséché à 110 a une couleur noire foncée; sa proportion est de 
-7,6 pour 100, mais, en le calcinant à l'air, la matière noire se brûle et dis- 
-paraît ; il reste 2,2 pour 100 d'une substance grise. La différence entre ces 
-nombres est de 5,4, elle représente presque la totalité du carbone trouvée 
-ci-dessus par la combustion directe de la matière. 
+« La dissolution chlorhydrique, débarrassée des sels de fer suroxydés par le succinate d'ammoniaque, prend, par l'addition de l'ammoniaque libre, une couleur bleue à peine sensible : la pierre ne renferme donc qu'une très-faible quantité de nickel. Le résidu insoluble dans l'acide chlorhydrique contient aussi des traces de chrome. »
 
-» Le soufre dégagé à l'état d'acide sulfhydrique par l'action de l'acide 
-chlorhydrique a été recueilli et dosé : la proportion conduit à celle du pro- 
-tosulfure de fer appartenant à la matière; celle-ci est de 4,5 pour 100. 
-
-» La dissolution chlorhydrique, débarrassée des sels de fer suroxydés par 
-lesuccinate d'ammoniaque, prend, par l'addition del'ammoniaque libre, une 
-couleur bleue à peine sensible : la pierre ne renferme donc qu'une tres- 
-
-
-(.988 ) 
-faible quantité de nickel: Le résidu insoluble dans l'acide chlorhydrique 
-contient aussi des traces de chrome. 
-
-» En résumé, la pierre météorique d'Orgueil est remarquable par la 
-manière dont elle se comporte avec l'eau et l'alcool : elle contient beaucoup 
-d'oxyde de fer magnétique, car elle est presque entièrement attirable au 
-barreau aimanté; elle renferme en outre des silicates multiples, du protosul- 
-furé de fer, dés traces de nickel, de chrome, une assez forte proportion de 
-carbone graphitoïde, des sels solubles parmi lesquels se trouvent des sulfates, 
-des chlorures et notamment du chlorhydrate d'ammoniaque, Ce dernier 
-genre de sels n'avait pas été signalé jusqu'ici dans les météorites ; le fait m'a 
-paru intéressant et utile à signaler, avant même d'avoir entierement terminé 
-mon analyse que je poursuis activement et qui sera bientôt achevée. » 
+« En résumé, la pierre météorique d'Orgueil est remarquable par la manière dont elle se comporte avec l'eau et l'alcool : elle contient beaucoup d'oxyde de fer magnétique, car elle est presque entièrement attirable au barreau aimanté ; elle renferme en outre des silicates multiples, du protosulfure de fer, des traces de nickel, de chrome, une assez forte proportion de carbone graphitoïde, des sels solubles parmi lesquels se trouvent des sulfates, des chlorures et notamment du chlorhydrate d'ammoniaque. Ce dernier genre de sels n'avait pas été signalé jusqu'ici dans les météorites ; le fait m'a paru intéressant et utile à signaler, avant même d'avoir entièrement terminé mon analyse que je poursuis activement et qui sera bientôt achevée. »
 
 ---
 
-# Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir. Lettre de M. Léymerte à M. Daubrée. 
+# Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir.
 
-« Le 14 mai dernier, à 8 heures du soir, un météore a traversé notre 
-atmosphère de l'ouest à l'est environ, passant près du zénith de Montau- 
-ban. Les habitants de cette ville le dépeignent comme une masse lumineuse 
-de forme arrondie, un peu plus large en avant qu'en arrière, et d'un vo- 
-lume apparent comparable à celui de la Lune dans son plein, qui a éclairé 
-le pays d'une vive lumière. La trainée qu'il laissait derrière lui était d'abord 
-lumineuse et assez large ; elle s'est transformée ensuite en une nébulosité 
-persistante d'une durée de plusieurs minutes. Ce météore n'était autre chose 
-qu'un bolide qui à éclaté à trois lieues plus loin, au sud-sud-est, au-dessus 
-de la commune d'Orgueil, en faisant entendre, après la dispersion et la 
-chute du météore, un bruit comparable à celui d'un tonnerre lointain et en 
-se divisant en plusieurs fragments qui, d'abord lumineux, n'ont pas tardé 
-à s'éteindre et à tomber sur le sol sous la forme d'une pluie de pierres, ne 
-laissant dans le ciel, comme indice de leur présence, qu'un nuage d'un 
-blanc cendré qui s'est dissipé après quelques minutes, 
+## Lettre de M. Leymerie à M. Daubrée.
 
-» Je ne m'étendrai pas davantage sur les détails de ce phénomène qui 
-n'offrait rien de particulier. Je me contenterai d'ajouter que le champ de 
-son apparition a été assez vaste; car déjà on sait qu'il comprend toute 
-l'Aquitaine et une région qui s'étend au nord au moins jusqu'à Angoulème. 
-Quant à l'espace où s'est répandue Ja pluie de pierres, on n'est pas jusqu'à 
-présent autorisé à le faire dépasser une région d'environ deux lieues car- 
-rées, appartenant au département de Tarn-et-Garonne, comprise entre les 
+« Le 14 mai dernier, à 8 heures du soir, un météore a traversé notre atmosphère de l'ouest à l'est environ, passant près du zénith de Montauban. Les habitants de cette ville le dépeignent comme une masse lumineuse de forme arrondie, un peu plus large en avant qu'en arrière, et d'un volume apparent comparable à celui de la Lune dans son plein, qui a éclairé le pays d'une vive lumière. La traînée qu'il laissait derrière lui était d'abord lumineuse et assez large ; elle s'est transformée ensuite en une nébulosité persistante d'une durée de plusieurs minutes. Ce météore n'était autre chose qu'un bolide qui à éclaté à trois lieues plus loin, au sud-sud-est, au-dessus de la commune d'Orgueil, en faisant entendre, après la dispersion et la chute du météore, un bruit comparable à celui d'un tonnerre lointain et en se divisant en plusieurs fragments qui, d'abord lumineux, n'ont pas tardé à s'éteindre et à tomber sur le sol sous la forme d'une pluie de pierres, ne laissant dans le ciel, comme indice de leur présence, qu'un nuage d'un blanc cendré qui s'est dissipé après quelques minutes. »
 
+« Je ne m'étendrai pas davantage sur les détails de ce phénomène qui n'offrait rien de particulier. Je me contenterai d'ajouter que le champ de son apparition a été assez vaste ; car déjà on sait qu'il comprend toute l'Aquitaine et une région qui s'étend au nord au moins jusqu'à Angoulème. Quant à l'espace où s'est répandue la pluie de pierres, on n'est pas jusqu'à présent autorisé à le faire dépasser une région d'environ deux lieues carrées, appartenant au département de Tarn-et-Garonne, comprise entre les villages d'Orgueil, de Campsas et de Nohic (Tarn-et-Garonne), et de Fronton (Haute-Garonne). La chute principale paraît avoir eu lieu sur le territoire d'Orgueil, village situé sur la rive gauche du Tarn, à 15 kilomètres au sud-sud-est de Montauban, et auquel doit revenir l'honneur de prêter son nom pour la désignation du phénomène. »
 
-( 989.) 
-villages d'Orgueil, de Campsas et de Nohic(Tarn-et-Garonne}, et de Fronton 
-(Haute-Garonne). La chute principale parait avoir eu lieu sur le territoire 
-d'Orgueil, village situé sur la rive gauche du Tarn, à 15 kilomètres au sud- 
-sud-est de Montauban, et auquel doit revenir l'honneur de prêter son nom 
-pour la désignation du phénomène. 
+« Les renseignements que j'ai pris me permettent de dire que le nombre de pierres recueillies dans cet espace dépasse _vingt_. Parmi ces pierres, il y a lieu de distinguer celles qui avaient probablement, avant l'explosion, une forme et une existence individuelle, de celles qui ne sont que des fragments. Les premières se reconnaissent à leur forme extérieure bien accentuée et partout enveloppée de croûte vernissée. Les plus grosses de ces pierres atteignaient peut-être le volume de la tête. La plupart ont un volume inférieur à celui du poing. »
 
-» Les renseignements que j'ai pris me permettent de dire que le nombre 
-de pierres recueillies dans cet espace dépasse vingl. Parmi ces pierres, il y 
-a lieu de distinguer celles qui avaient probablement, avant l'explosion, 
-une forme et une existence individuelle, de celles qui ne sont que des frag- 
-ments. Les premières se reconnaissent à leur forme extérieure bien accen- 
-tuée et partout enveloppée de croûte vernissée. Les plus grosses de ces 
-pierres atteignaient peut-être le volume de la tête. La plupart ont un volume 
-inférieur à celui du poing. 
+« Au moment où j'écris cette Note, j'ai sous les yeux une pierre que M. le curé de Campsas a recueillie lui-même dans son jardin. Elle est presque entière et pèse 210 grammes. Sa forme est extrêmement irrégulière ; ses faces sont plus ou moins déprimées, comme si elles avaient été formées par la pression du pouce dans une matière pâteuse, et les angles semblent avoir été déterminés par un pincement dans une masse analogue. »
 
-» Au moment où j'écris cette Note, j'ai sous les yeux une pierre que 
-M. le curé de Campsas a recueillie lui-même dans son jardin. Elle est presque 
-entière et pèse 210 grammes. Sa forme est extrêmement irréguliere ; ses 
-faces sont plus ou moins déprimées, comme si elles avaient été formées par 
-la pression du pouce dans une matière pâteuse, et les angles semblent avoir 
-été déterminés par un pincement dans une masse analogue. 
+« Toutes les pierres tombées aux environs d'Orgueil ont à peu près le même aspect, et les surfaces naturelles, lorsqu'elles sont conservées, affectent les formes à faces déprimées et à arêtes pincées que nous avons ci-dessus reconnues dans la pierre de Campsas. Ces surfaces d'origine sont d'ailleurs indiquées par une croûte mince, comme vernissée, inégalement chagrinée, qui est un caractère général pour tous les aérolithes. »
 
-» Toutes. les pierres tombées aux environs d'Orgueil ont à peu près le 
-même aspect, et les surfaces naturelles, lorsqu'elles sont conservées, affectent 
-les formes à faces déprimées et à arêtes pincées que nous avons ci-dessus 
-reconnues dans la pierre de Campsas. Ces surfaces d'origine sont d'ailleurs 
-indiquées par une croûte mince, comme vernissée, inégalement chagrinée, 
-qui-est un caractère général pour tous les aérolithes. 
+« Jusqu'à présent on ne voit pas que nos pierres d'Orgueil diffèrent beaucoup des aérolithes ordinaires ; mais si, au lieu de nous arrêter à la surface de ces pierres, nous pénétrons dans l'intérieur, aussitôt une différence frappante nous apparaîtra. En effet, la cassure nous accusera une matière absolument noire et comme charbonneuse, tendre au point de se laisser entailler au couteau avec la plus grande facilité, et même de laisser des traces linéaires sur le papier par une médiocre friction ; la pression du couteau sur les parties entaillées produit des surfaces lisses et brillantes, indice certain de la finesse de la pâte. La consistance de cette matière est si faible, qu'un fragment plongé dans l'eau s'y désagrége immédiatement et donne lieu à un dépôt terreux qui se forme au fond du verre à expérience. »
 
-» Jusqu'à présent on ne voit pas que nos pierres d'Orgueil différent beau- 
-coup des aérolithes ordinaires; mais si, au lieu de nous arrêter à la surface 
-de ces pierres, nous pénétrons dans l'intérieur, aussitôt une différence frap- 
-pante nous apparaîtra. En effet, la cassure nous accusera une matière abso- 
-lument noire et comme charbonneuse, tendre au point de se laisser entailler 
-au couteau avec la plus grande facilité, et même de laisser des traces 
-linéaires sur le papier par une médiocre friction; la pression du couteau 
-sur les parties entaillées produit. des surfaces lisses et brillantes, indice cer- 
-tain de la finesse de la pâte. La consistance de cette matière est si faible, 
-qu'un fragment plongé dans l'eau s'y désagrége immédiatement et donne 
-lieu à un dépôt terreux qui se forme au fond du verre à expérience. 
+« La forme de la cassure est inégale en petit et montre çà et là des parties unies et presque planes un peu luisantes. Enfin la loupe fait apercevoir, au milieu de la masse, de petits points brillants probablement pyriteux. »
 
-» La forme de la cassure est inégale en petit et montre çàet là des par- 
+« L'aérolithe d'Orgueil attire fortement l'aiguille aimantée dans toutes ses parties. Sa densité, que l'on ne pourra prendre exactement qu'en employant beaucoup de précautions, ne paraît pas différer beaucoup de 2. »
 
+« En comparant l'aérolithe d'Orgueil avec ceux qui sont connus par des descriptions, je n'en ai trouvé qu'un qui offre avec celui-ci une analogie marquée sous le rapport minéralogique : c'est la pierre tombée en 1806 dans l'arrondissement d'Alais (Gard), dont M. Thenard a décrit les caractères physiques et chimiques dans les Annales de Chimie et de Physique (t. 59., p. 103). L'analyse de cet illustre chimiste indique un aérolithe magnésien, riche en oxyde de fer et en nickel. Quelques essais que j'ai commencés me porteraient à croire que notre pierre de Tarn-et-Garonne pourrait offrir encore à ce point de vue quelque ressemblance avec celle d'Alais. Cette dernière contenait 2,5 pour 100 de charbon d'après M. Thenard. Il serait intéressant de voir si cette curieuse particularité existe aussi dans la nôtre. C'est aux chimistes qu'il appartient de faire ce genre de recherche et de nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. »
 
-C.R., 1864, 17 Semestre. (T. LVIIT, N° 22.) 129 
-
-
-( 990 ) 
-ties unies et presque planes un peu luisantes. Enfin la loupe fait apercevoir, 
-au milieu de la masse, de petits points brillants probablement pyriteux. 
-
-» L'aérolithe d'Orgueil attire fortement l'aiguille aimantée dans toutes 
-ses parties, Sa densité, que l'on ne pourra prendre exactement qu'en em- 
-ployant beaucoup de précautions, ne parait pas différer beaucoup de 2. 
-
-» En comparant l'aérolithe d'Orgueil avec ceux qui sont connus par des 
-descriptions, je n'en ai trouvé qu'un qui offre avec celui-ci une analogie 
-marquée sous le rapport minéralogique : c'est la pierre tombée en 1806 dans 
-l'arrondissement d'Alais (Gard), dont M. Thenard a décrit les caracteres 
-physiques et chimiques dans les Annales de Chimie et de Physique (t. LIX, 
-p. 103). L'analyse de cet illustre chimiste indique un aérolithe magnésien, 
-riche en oxyde de fer et en nickel. Quelques essais que j'ai commencés me 
-portéraient à croire que notre pierre de Tarn-et-Garonne pourrait offrir 
-encore à ce point de vue quelque ressemblance avec celle d'Alais. Cette der- 
-nière contenait 2,5 pour 100 de charbon d'après M. Thenard. Il serait in- 
-téressant de voir si cette curieuse particularité existe aussi dans la nôtre. 
-C'est aux chimistes qu'il appartient de faire ce genre de recherche et de 
-nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. » 
-
-# Observation sur la présence de la breunnérite dans la météorite d'Orgueil.
-
-## Par M. Daubrée.
+---
 
 # Observation sur la présence de la breunnérite dans la météorite d'Orgueil.
 
