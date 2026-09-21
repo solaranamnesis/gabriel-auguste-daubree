@@ -246,45 +246,11 @@ Eau et matières supposées organiques.|13,89||
 
 ## Note de M. Des Cloizeaux, présentée par M. Daubrée.
 
-« La météorite d'Orgueil, déjà si remarquable à tous égards par sa consti- 
-tution physique et chimique, renferme encore dans son intérieur une sub- 
-stance cristallisée dont la présence n'avait jamais été signalée jusqu'ici dans 
-aucune autre météorite, et qui ne se trouve, à la surface de la terre, que 
-dans des schistes talqueux et dans quelques filons. Cette substance est un 
-carbonate de magnésie et fer. Elle parait du reste assez rare dans la météorite 
-d'Orgueil, car je n'en ai trouvé que quatre petits cristaux dans un résidu. 
-sableux, provenant de la lévigation de 20 à 25 grainmes de météorite, qui 
-m'a été remis par M. Sæmann. Ces cristaux, excessivement petits (+ à à de 
+« La météorite d'Orgueil, déjà si remarquable à tous égards par sa constitution physique et chimique, renferme encore dans son intérieur une substance cristallisée dont la présence n'avait jamais été signalée jusqu'ici dans aucune autre météorite, et qui ne se trouve, à la surface de la terre, que dans des schistes talqueux et dans quelques filons. Cette substance est un carbonate de magnésie et fer. Elle paraît du reste assez rare dans la météorite d'Orgueil, car je n'en ai trouvé que quatre petits cristaux dans un résidu sableux, provenant de la lévigation de 20 à 25 grammes de météorite, qui m'a été remis par M. Sæmann. Ces cristaux, excessivement petits (1/2 à 3/4 de millimètre de côté), avaient l'apparence de parallélipipèdes obliquangles traversés par des fentes qui semblaient indiquer un triple clivage ; l'un d'eux portait une petite troncature triangulaire sur un de ses angles solides obtus ; à l'extérieur, ils offraient un faible éclat nacré, et à l'intérieur quelques places translucides d'une couleur grisâtre à côté de parties opaques et noires. La mesure des incidences n'a pas pu être faite avec une bien grande précision, à cause des ondulations que présentaient les faces ; toutefois, elle a montré que la forme cristalline était en réalité un rhomboèdre obtus de 105 à 107 degrés. »
 
+« D'après la limite supérieure des angles observés, qui n'a jamais dépassé 107 degrés, et d'après la manière très-lente et sans effervescence sensible dont un très-petit éclat s'était dissous dans l'acide chlorhydrique, en donnant par l'ammoniaque un précipité d'oxyde ferrique, j'avais d'abord pensé que la substance était du carbonate de fer ; mais en opérant sur trois des cristaux que j'avais eus entre les mains, M. Pisani a trouvé dans la dissolution acide une quantité considérable de magnésie et de oxyde de fer sans chaux. Les cristaux empâtés dans la météorite d'Orgueil, et dont il a été question dans la Note présentée à l'Institut (séance du 18 juillet 1864) par M. Pisani comme constituant peut-être un feldspath attaquable par les acides, peuvent donc être regardés comme une variété de _breunnérite_ riche en magnésie. »
 
-2 
-millimètre de côté), avaient l'apparence de parallélipipèdes obliquangles 
-traversés par des fentes qui semblaient indiquer un triple clivage; l'un d'eux 
-portait une petite troncature triangulaire sur un de ses angles solides obtus ; 
-à l'extérieur, ils offraient un faible éclat nacré, et à l'intérieur quelques 
-places translucides d'une couleur grisätre à côté de parties opaques et noires. 
-La mesure des incidences n'a pas pu être faite avec une bien grande préci- 
-siou, à cause des ondulations que présentaient les faces; toutefois, elle a 
-montré que la forme cristalline était en réalité un rhomboëdre obtus de 
-105 à 107 degrés. 
-
-» D'après la limite supérieure des angles observés, qui n'a jamais dépassé 
-107 degrés, et d'après la manière très-lente et sans effervescence sensible 
-dont un très-petit éclat s'était dissous dans l'acide chlorhydrique, en don- 
-nant par l'ammoniaque un précipité d'oxyde ferrique, J'avais d'abord pensé 
-que la substance était du carbonate de fer; mais en opérant sur trois des 
-cristaux que j'avais eus entre les mains, M. Pisani a trouvé dans la dissolu- 
-tion acide une quantité considérable de magnésie et de oxyde de fer sans 
-chaux. Les cristaux empâtés dans la météorite d'Orgueil, et dont il a été 
-question dans la Note présentée à l'Institut (séance du 18 juillet 1864) par 
-M. Pisani comme constituant peut-être un feldspath attaquable par les 
-acides, peuvent donc être regardés comme une variété de breunnérite riche en 
-magnésie. 
-
-» Il est à peine besoin de faire remarquer que la présence d'un carbo- 
-nate en cristaux inaltérés, au sein d'une pierre météorique, est une nou- 
-velle preuve que l'intérieur de cette pierre n'a jamais dü être porté à une 
-très-haute température. » 
+« Il est à peine besoin de faire remarquer que la présence d'un carbonate en cristaux inaltérés, au sein d'une pierre météorique, est une nouvelle preuve que l'intérieur de cette pierre n'a jamais dû être porté à une très-haute température. »
 
 ---
 
@@ -304,5 +270,16 @@ très-haute température. »
 
 ## Notes de M. S. Cloëz, présentée par M. Daubrée.
 
-...
+« La présence de l'acide carbonique dans la pierre charbonneuse d'Orgueil n'est pas douteuse d'après la nature des petits cristaux isolés de cette pierre par lévigation, et examinés par M. Des Cloizeaux. »
 
+« Quand on traite la matière délayée dans l'eau par de l'acide chlorhydrique faible, il y a une légère effervescence due au dégagement d'un mélange gazeux contenant toujours de l'acide sulfhydrique et une quantité notable d'acide carbonique. »
+
+« Pour rendre évidente l'existence de cet acide dans la pierre, et en conserver pour ainsi dire la preuve visible, j'ai fait absorber le gaz débarrassé d'acide sulfhydrique par de l'eau de baryte en excès, et j'ai recueilli le précipité formé sur un petit filtre, en évitant l'absorption de l'acide carbonique de l'air. »
+
+« La quantité d'acide carbonique dégagée a pu être évaluée dans la même expérience par deux moyens différents et qui se contrôlent réciproquement. Le premier de ces moyens consiste simplement à prendre l'augmentation de poids du tube à boules contenant l'eau de baryte qui a servi à l'absorption du gaz ; le second s'exécute en recueillant le carbonate de baryte formé sur un filtre taré et en prenant le poids du précipité après une dessiccation complète à une température de 120 degrés. »
+
+« Pour 8 grammes de la météorite, traités par l'acide chlorhydrique étendu, l'augmentation de poids du tube à boules a été de 0,046 gr., soit 0,0057 gr. d'acide carbonique par gramme de matière. Le poids du carbonate de baryte recueilli a été de 0,195 gr., contenant 0,0435 gr. d'acide carbonique, soit 0,00544 gr. par gramme. »
+
+« Les nombres obtenus sont, comme on le voit, assez rapprochés ; ils montrent que la portion de la pierre examinée contient un peu plus de 1/2 pour 100 d'acide carbonique. »
+
+---
