@@ -381,151 +381,81 @@ très-haute température. »
 
 « L'examen approfondi de la nature des substances qui entrent dans la composition de l'aérolithe d'Orgueil a confirmé les premiers résultats que M. Daubrée a eu l'obligeance de communiquer en mon nom à l'Académie. »
 
-« J'ai cherché d'abord à reconnaître sons quel état l'eau est engagée dans 
-cette curieuse météorite, et j'ai constaté facilement qu'une portion s'y trouve 
-retenue à l'état hygroscopique. Il suffit en effet de soumettre la matière à 
-la température ordinaire, dans le vide, au-dessus de l'acide sulfurique, ou 
-de la chauffer dans une étuve à air à la température de ïio degrés, pour 
-'dégager cette eau qui n'appartient pas essentiellement au produit; sa quan- 
-tité a varié de 5,2 à 6,9 pour ïoo. 
+« J'ai cherché d'abord à reconnaître sous quel état l'eau est engagée dans cette curieuse météorite, et j'ai constaté facilement qu'une portion s'y trouve retenue à l'état hygroscopique. Il suffit en effet de soumettre la matière à la température ordinaire, dans le vide, au-dessus de l'acide sulfurique, ou de la chauffer dans une étuve à air à la température de 110 degrés, pour dégager cette eau qui n'appartient pas essentiellement au produit; sa quantité a varié de 5,2 à 6,9 pour 100. »
 
-» Outre Peau hygroscopique, la pierre contient aussi de 8 à ïo pour 100 
-d'eau de combinaison, qui ne se dégage qu'à une température supérieure à 
-200 degrés. Enfin on obtient encore un peu d'eau en brillant dans un tube, 
-à l'aide d'un corps oxydant, la matière préalablement chauffée à 3oo degrés; 
-l'eau fournie dans ce dernier cas provient principalement de la combustion 
-d'une partie de l'hydrogène contenu dans une substance humique d'ori- 
-gine organique. 
+« Outre l'eau hygroscopique, la pierre contient aussi de 8 à 10 pour 100 d'eau de combinaison, qui ne se dégage qu'à une température supérieure à 200 degrés. Enfin on obtient encore un peu d'eau en brûlant dans un tube, à l'aide d'un corps oxydant, la matière préalablement chauffée à 300 degrés; l'eau fournie dans ce dernier cas provient principalement de la combustion d'une partie de l'hydrogène contenu dans une substance humique d'origine organique. »
 
-» Il importait beaucoup de déterminer chimiquement la nature du com- 
-posé charbonneux qui contribue à colorer la pierre en noir. On pouvait se 
-demander à priori si le carbone s'y trouve à l'état libre, cristallisé ou 
-amorphe, ou à l'état d'un composé bitumineux hydrooarboné, ou enfin sous 
-la forme d'un produit plus complexe, contenant à la fois du carbone, de 
-l'hydrogène, de l'oxygène, etc. 
+« Il importait beaucoup de déterminer chimiquement la nature du composé charbonneux qui contribue à colorer la pierre en noir. On pouvait se demander _à priori_ si le carbone s'y trouve à l'état libre, cristallisé ou amorphe, ou à l'état d'un composé bitumineux hydrocarboné, ou enfin sous la forme d'un produit plus complexe, contenant à la fois du carbone, de l'hydrogène, de l'oxygène, etc. »
 
-» Pour résoudre cette question, j'ai eu recours d'abord à l'action des 
-dissolvants neutres, tels que l'éther, l'alcool et l'eau; mais je n'ai obtenu 
-de cette manière aucun résultat satisfaisant. J'ai été plus heureux en exa- 
+« Pour résoudre cette question, j'ai eu recours d'abord à l'action des dissolvants neutres, tels que l'éther, l'alcool et l'eau ; mais je n'ai obtenu de cette manière aucun résultat satisfaisant. J'ai été plus heureux en examinant la partie de la pierre insoluble dans l'acide chlorhydrique bouillant ; ce résidu est un mélange de silice gélatineuse soluble dans une lessive faible de potasse, et du composé charbonneux qui ne paraît pas avoir subi d'altération sensible. »
 
-minant la partie de la pierre insoluble dans l'acide chlorhydrique bouillant; 
-ce résidu est un mélange de silice gélatineuse soluble dans une lessive faible 
-de potasse, et du composé charbonneux qui ne paraît pas avoir subi d'al- 
-tération sensible. 
+« L'examen microscopique montre que ce produit est homogène : il est complétement amorphe et il ressemble à s'y méprendre à la matière humique de certains combustibles terreux ; sa composition d'ailleurs confirme cette ressemblance ; elle est en effet analogue à celle de la partie organique de plusieurs variétés de tourbes et de lignites. »
 
-» L'examen microscopique montre que ce produit est homogène : il est 
-complètement amorphe et il ressemble à s'y méprendre à la matière humique 
-de certains combustibles terreux; sa composition d'ailleurs confirme cette 
-ressemblance; elle est en effet analogue à celle de la partie organique de 
-plusieurs variétés de tourbes et de lignites. 
+« Après sa dessiccation à 110 degrés, la substance humique de l'aérolithe d'Orgueil renferme, pour 100 parties, »
 
-» Après sa dessiccation à no degrés, la substance humique de l'aéro- 
-lithe d'Orgueil renferme, pour ioo parties, 
+Carbone 63,45  
+Hydrogène 5,98  
+Oxygène 30,57  
+100,00
 
-Carbone 63,45 
-Hydrogène 5 ,98 
-Oxygène 30,57 
-100,00 
+« Voici, comme point de comparaison, l'analyse de divers produits d'origine terrestre : »
 
-» Voici, comme point de comparaison, l'analyse de divers produits 
-d'origine terrestre : 
+|Tourbe de Long, vallée de la Somme.|Lignite de Ringkuhl, près de Cassel.|Matière noire séparée du sable des Landes.  
+Carbone|60,06|66,50|60,40  
+Hydrogène|6,21|5,33|5,65  
+Oxygène|33,73|28,17|33,65  
+|100,00|100,00|100,00
 
-Tourbe Lignite Matière noire 
+« Il y a donc une grande analogie entre la composition de ces substances humiques et celle de la partie charbonneuse de l'aérolithe d'Orgueil. »
 
-de Long, de Ringkuhl, séparée 
+« D'après les analyses classiques de M. Wöhler, les parties charbonneuses des météorites de Kaba et de Cold-Bokkeveld ont une nature différente : elles consistent en un mélange de carbone amorphe et de substances bitumineuses solubles dans l'alcool, et semblables à la schéerérite ou à l'ozokérite. L'aérolithe d'Alais contient comme les précédentes un composé charbonneux que Berzélius suppose pouvoir bien être de l'humus, ce qui semblerait indiquer l'existence de substances organiques dans les corps célestes. »
 
-, vallée de la Somme, près de Cassel. dn sable des Landes. 
+« Le fer se trouve en général, dans les météorites, à l'état de protoxyde ; dans la pierre d'Orgueil, il existe en partie à l'état d'oxyde magnétique FeO + Fe₂O₃ ; il est à noter seulement que la quantité absolue de cet oxyde est difficile à évaluer, parce que la pierre contient en même temps du sulfure de fer qui fournit, par l'action de l'acide chlorhydrique, de l'hydrogène sulfuré dont l'action réductrice peut s'exercer sur le sel de peroxyde de fer déjà formé. »
 
-Carbone.... 60,06 66, 5o 60,40 
-Hydrogène 6,21 5,33 5,65 
-Oxygène 33,73 28,17 33 > 65 
-100,00 100,00 100,00 
+« Il n'y a pas de fer ni de nickel à l'état de métal dans l'aérolithe d'Orgueil, il ne se dégage pas la moindre bulle d'hydrogène pendant l'attaque par l'acide chlorhydrique. »
 
-» Il y a donc une grande analogie entre la composition de ces substances 
-humiques et celle de la partie charbonneuse de l'aérolithe d'Orgueil. 
+« On y trouve des traces de phosphore, ainsi qu'une très-faible proportion de cobalt et de chrome. Ce dernier métal ne paraît pas exister à l'état de fer chromé, car il se trouve dissous par l'acide chlorhydrique quand l'action de cet acide a été prolongée. »
 
-» D'après les analyses classiques de M. Wôhler, les parties charbon- 
-neuses des météorites de Raba et de Cold-Bokkeveld ont une nature diffé- 
-rente : elles consistent en un mélange de carbone amorphe et de substances 
-bitumineuses solubles dans l'alcool, et semblables à la schéerérite ou à l'ozo^ 
-kérite. L'aérolithe d'Alais contient comme les précédentes un composé 
-charbonneux que Berzélius suppose pouvoir bien être de l'humus, ce qui 
-semblerait indiquer l'existence de substances organiques dans les corps 
-célestes. 
+« En traitant la pierre par l'alcool rectifié à la température de l'ébullition, on obtient une dissolution qui contient du chlorhydrate d'ammoniaque, des chlorures alcalins, et de plus une très-petite quantité d'une matière molle incristallisable et insoluble dans l'eau. »
 
-» Le fer se trouve en général, dans les météorites* à l'état de protoxyde; 
-dans la pierre d'Orgueil, il existe en partie à l'état d'oxyde magnétique 
-EeO-f-Fe 2 3 ; il est à noter seulement que la quantité absolue de cet oxyde 
-est difficile à évaluer, parce que la pierre contient en même temps du sul- 
-fure de fer qui fournit, par l'action de l'acide chlorhydrique, de l'hydrogène 
-sulfuré dont l'action réductrice peut s'exercer sur le sel de peroxyde de fer 
-déjà formé. 
+« L'eau enlève à la pierre supposée sèche 6,414 pour 100 de son poids de sels solubles formés de chlorures, de sulfates et de sulfures ; ces derniers se changent rapidement au contact de l'air en hyposulfites. »
 
-» Il n'y a pas de fer ni de nickel à l'état de métal dans l'aérolithe d'Orgueil, 
-il ne se dégage pas la moindre bulle d'hydrogène pendant l'attaque par 
-l'acide chlorhydrique. 
+« Voici les résultats directs de l'analyse de la pierre dans son état naturel et à l'état de dessiccation à 100 degrés : »
 
-» On y trouve des traces de phosphore, ainsi qu'une très-faible proportion 
-de cobalt et de chrome. Ce dernier métal ne paraît pas exister à l'état de 
-fer chromé, car il se trouve dissous par l'acide chlorhydrique quand l'ac- 
-tion de cet acide a été prolongée. 
+|Météorite à l'état naturel.|Météorite desséchée à 110°.  
+Eau hygroscopique|5,975|  
+Acide silicique|24,475|26,0310  
+Acide sulfurique|2,195|2,3345  
+Soufre|4,369|4,6466  
+Chlore|0,073|0,0776  
+Phosphore|traces|traces  
+Alumine|1,175|1,2498  
+Oxyde de chrome|0,225|0,2392  
+Peroxyde de fer|13,324|14,2360  
+Protoxyde de fer|17,924|19,0630  
+Oxyde de nickel|2,450|2,6057  
+Oxyde de cobalt|0,085|0,0904  
+Oxyde de manganèse|1,815|1,9302  
+Magnésie|8,163|8,6711  
+Chaux|2,183|2,3220  
+Soude|1,244|1,3230  
+Potasse|0,307|0,3265  
+Ammoniaque|0,098|0,1042  
+Substance humique|6,027|6,4100  
+Eau combinée|7,345|7,8120  
+|96,442|99,472
 
-» En traitant la pierre par l'alcool rectifié à la température de l'ébullition, 
-on obtient une dissolution qui contient du chlorhydrate d'ammoniaque, des 
-chlorures alcalins, et de plus une très-petite quantité d'une matière molle 
-incristallisable et insoluble dans l'eau. 
+« On peut admettre que la partie insoluble est constituée de la manière suivante : »
 
-» L'eau enlève à la pierre supposée sèche 6, 4*4 pour ioo de son poids 
-de sels solubles formés de chlorures, de sulfates et de sulfures; ces derniers 
-se changent rapidement au contact de l'air en hyposulfites. 
+Oxyde de fer magnétique Fe₃O₄ 20,627  
+Sulfure de fer magnétique 7,974  
+Sulfure de nickel 3,169  
+Silicates multiples 45,127  
+Substance humique 6,410  
+Eau combinée 7,812  
+La partie soluble s'élève à 6,414
 
-» Vqici les résultats directs de l'analyse de la pierre dans son état natu- 
-rel et à l'état de dessiccation à i io degrés : 
-
-Météorite Météorite 
-
-à l'état naturel. desséchée à no . 
-
-Eau hygroscopique 5, 97 5 » 
-Acide silicique 24,4^5 a6,o3io 
-Acide sulfurique 2, ig5 2,3345 
-Soufre..... 4,36 9 4,6466 
-Chlore 0,073 0,0776 
-
-Phosphore traces traces 
-
-Alumine 1,175 i,24g8 
-Oxyde de chrome t .. 0,225 o,23g2 
-Peroxyde de fer i3,324 i4,236o 
-Protoxyde de fer 17,924 ig,o63o 
-Oxyde de nickel 2,45o 2,6057 
-Oxyde de cobalt. . , o,o85 o ,0904 
-Oxyde de manganèse 1 ,8i5 1 ,9302 
-Magnésie 8,i63 8,6711 
-Chaux.. 2,i83 2,3220 
-Soude 1,244 i,323o 
-Potasse 0,307 o,3265 
-Ammoniaque 0,098 o, 1042
-Substance humique 6,027 6, 4 100 
-Eau combinée. ..... .• 7>345 7,8120 
-96,442 99î47 2 
-
-» On peut admettre que la partie insoluble est constituée de la manière 
-suivante : 
-
-Oxyde de fer magnétique Fe 3 0'.. ■. . . 40,627 , 
-Sulfure de fer magnétique 7 ,974 
-Sulfure, de nickel 3 , 169 
-Silicates multiples ^5 , 127 
-Substance humique 6,410 
-Eau combinée. 7 ,812 
-La partie soluble s'élève à 6,4i4 
-
-» Dans les silicates multiples l'oxygène de l'acide silicique est sensible- 
-ment le double de l'oxygène des bases réunies. Ce rapport de 2 à 1 
-semble montrer que l'aérolithe analysé ne contient, pas de péridot; on n'y 
-trouve d'ailleurs aucun globule cristallin semblable à ceux qui ont été 
-signalés dans les météorites de Kaba et du Cap. »
+« Dans les silicates multiples l'oxygène de l'acide silicique est sensiblement le double de l'oxygène des bases réunies. Ce rapport de 2 à 1 semble montrer que l'aérolithe analysé ne contient pas de péridot ; on n'y trouve d'ailleurs aucun globule cristallin semblable à ceux qui ont été signalés dans les météorites de Kaba et du Cap. »
 
 # Étude chimique et analyse de l'aérolithe d'Orgueil.
 
