@@ -12,7 +12,9 @@
 
 # [Analyse chimique de la pierre météorique d'Orgueil.](#analyse-chimique-de-la-pierre-météorique-dorgueil-1)
 
-# [Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.](#étude-chimique-et-analyse-de-laérolithe-dorgueil)
+# [Étude chimique et analyse de l'aérolithe d'Orgueil.]()
+
+# [Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.](#sur-la-présence-dun-carbonate-de-magnésie-et-fer-cristallisé-dans-la-météorite-dorgueil-1)
 
 # [Observation sur la présence de la breunnérite dans la météorite d'Orgueil.](#observation-sur-la-présence-de-la-breunnérite-dans-la-météorite-dorgueil-1)
 
