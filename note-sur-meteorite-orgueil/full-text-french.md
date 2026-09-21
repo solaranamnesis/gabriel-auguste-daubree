@@ -2,9 +2,27 @@
 
 ## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie.
 
-## Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
+---
 
-### Par M. Daubrée.
+# [Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).]()
+
+# [Note sur la composition chimique de la pierre météorique d'Orgueil.]()
+
+# [Sur l'aérolithe d'Orgueil (Tarn-et-Garonne), tombé le 14 mai 1864, à 8 heures du soir.]()
+
+# [Analyse chimique de la pierre météorique d'Orgueil.]()
+
+# [Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.]()
+
+# [Observation sur la présence de la breunnérite dans la météorite d'Orgueil.]()
+
+# [Dosage de l'acide carbonique contenu dans la météorite d'Orgueil.]()
+
+---
+
+# Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).
+
+## Par M. Daubrée.
 
 « J'ai l'honneur de mettre sous les yeux de l'Académie l'une des météorites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite du bolide dont le spectacle a fait une si vive impression dans une partie de la France. C'est à la fois un devoir et un plaisir d'adresser de vifs remercîments aux personnes qui ont répondu avec une si grande obligeance à ma demande, notamment à M. A. Debia, secrétaire de la Société des Sciences, Agriculture et Belles-Lettres de Tarn-et-Garonne et Membre du Conseil général ; M. Victor Brun, directeur du Musée d'Histoire naturelle de la ville de Montauban ; M. le préfet de Tarn-et-Garonne, et M. Malfré, maire d'Orgueil. »
 
