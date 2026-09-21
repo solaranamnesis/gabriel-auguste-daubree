@@ -475,18 +475,18 @@ Soufre 5,75
 nombres qu'on peut grouper de la manière suivante :
 
 ||Oxygène.|Rapports.  
-Silice|26,08|12,90|4
-Magnésie|17,00|6,80|
-Protoxyde de fer|7,78|1,73|
-Chaux|1,85|0,53|
-Soude|2,26|0,58|3
-Potasse|0,19|0,03|
-Oxyde de manganèse|0,36|0,08|
-Alumine|0,90|0,42|
-Fer chromé|0,49||
-Fer oxydulé*|15,77||
-Sulfure de fer nickelifère|13,43||
-Eau et matières supposées organiques.|13,89||
+Silice|26,08|12,90|4  
+Magnésie|17,00|6,80|  
+Protoxyde de fer|7,78|1,73|  
+Chaux|1,85|0,53|  
+Soude|2,26|0,58|3  
+Potasse|0,19|0,03|  
+Oxyde de manganèse|0,36|0,08|  
+Alumine|0,90|0,42|  
+Fer chromé|0,49||  
+Fer oxydulé*|15,77||  
+Sulfure de fer nickelifère|13,43||  
+Eau et matières supposées organiques.|13,89||  
 |100,00||
 
 « Il y a donc dans cet aérolithe 56,42 pour 100 de silicates. Si l'on calcule l'alumine comme faisant partie d'un peu d'anorthite, on obtient 2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par lévigation de l'aérolithe, et qu'examine en ce moment M. Des Cloizeaux, pourront établir s'il existe en effet un feldspath attaquable par les acides dans cette météorite. »
