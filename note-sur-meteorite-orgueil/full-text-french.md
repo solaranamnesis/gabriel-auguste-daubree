@@ -6,79 +6,79 @@
 
 ### Par M. Daubrée.
 
-« J'ai l'honneur de mettre sous les yeux de l’Académie l’une des météo- 
+« J'ai l'honneur de mettre sous les yeux de l'Académie l'une des météo- 
 rites qui sont tombées aux environs d'Orgueil le 14 mai dernier, à la suite 
 du bolide dont le spectacle a fait une si vive impression dans une partie de 
-la France. C’est à la fois un devoir et un plaisir d'adresser de vifs remerci- 
+la France. C'est à la fois un devoir et un plaisir d'adresser de vifs remerci- 
 ments aux personnes qui ont répondu avec une si grande obligeance à ma 
 demande, notamment à M. A. Debia, secrétaire de la Société des Sciences, 
 Agriculture et Belles-Lettres de Tarn-et-Garonne et Membre du Conseil 
 général; M. Victor Brun, directeur du Musée d'Histoire naturelle de la 
 ville de Montauban; M. le préfet de Tarn-et-Garonne, et M. Malfré, maire 
-d’Orgueil. 
+d'Orgueil. 
 
 » Sans décrire ici les caractères physiques qui distinguent tout particu- 
-lièérement la météorite d’Orgueil, je dirai que son aspect rappelle singu- 
+lièérement la météorite d'Orgueil, je dirai que son aspect rappelle singu- 
 lièrement certains lignites ternes et terreux. 
 
-». Dans cette masse noire on distingue de petits grains d’une substance à 
-éclat métallique et jaune de bronze, que sa densité permet d’isoler compléte- 
+». Dans cette masse noire on distingue de petits grains d'une substance à 
+éclat métallique et jaune de bronze, que sa densité permet d'isoler compléte- 
 ment par lévigation, En les examinant au microscope avec un grossissement 
 suffisant, j'y ai reconnu des formes cristallines fort nettes, quoique de très- 
 petite dimension (environ + de millimètre de diamètre). Ce sont des tables 
-hexagonales et régulières. Ces petits grains sont d’ailleurs trés-fortement 
+hexagonales et régulières. Ces petits grains sont d'ailleurs trés-fortement 
 attirables au barreau aimanté, et possèdent tous les caractères physiques 
 et chimiques de la pyrite magnétique où pyrrhotine (1). On sait que cette 
 espèce minérale, découverte, il y a près de quarante ans, par M. Gustave 
 Rose, dans la pierre météorique de Juvinas, a été retrouvée depuis lors dans 
-un certain nombre d’autres météorites. 
+un certain nombre d'autres météorites. 
 
 
 (1) Is ressemblent particulièrement à la variété de pyrite magnétique que présentent 
 és gites aurifères de Moro-Vélho, au Brésil. 
 
 ». L'examen chimique de cette substance, entrepris par M. $. Cloëz. 
-dont l’habileté et l’exactitude sont bien connues, à conduit à des résultats 
-qu’il a signalés dans une Notice. | 
+dont l'habileté et l'exactitude sont bien connues, à conduit à des résultats 
+qu'il a signalés dans une Notice. | 
 
 » Je ferai observer que la météorite d'Orgueil diffère de la plupart de 
-celles que l’on connaît. Elle doit en effet être rapportée au type des météo- 
-rites charbonneuses, dont jusqu’à présent trois chutes seulement ont été 
-bien signalées : celle d’Alais (Gard), du 15 mars 1806, dont Thenard et 
+celles que l'on connaît. Elle doit en effet être rapportée au type des météo- 
+rites charbonneuses, dont jusqu'à présent trois chutes seulement ont été 
+bien signalées : celle d'Alais (Gard), du 15 mars 1806, dont Thenard et 
 Foureroy, puis Berzélius, ont fait connaître la composition jusqu'alors 
 sans exemple; une seconde tombée au cap de Bonne-Espérance, à 
 Cold-Bokkeweld, le 13 octobre 1838; enfin une troisième tombée à Kaba, 
 non loin de Debreczin, en Hongrie, le 15 avril 1857. On connait l'étude 
-pleine d’intérêt dont ces deux dernières ont été l’objet de la part de 
+pleine d'intérêt dont ces deux dernières ont été l'objet de la part de 
 M. Faraday et de MM. Wœæbhler et Haidinger. 
 
 » Toutefois la météorite du 14 mai diffère, par plusieurs caracteres im- 
 portants, même de celles que je viens de citer comme les plus analogues, 
 entre autres par la proportion très-notable de chlorures ét surtout de chlor- 
-hydrate d’ammoniaque qu’elle renferme. Elle surpasse aussi les trois autres 
+hydrate d'ammoniaque qu'elle renferme. Elle surpasse aussi les trois autres 
 météorites charbonneuses par sa teneur en carbone. 
 
-» La présence du carbone dans les météorites a paru d’abord si extraor- 
+» La présence du carbone dans les météorites a paru d'abord si extraor- 
 dinaire, qu'on a cherché à l'expliquer en supposant qu'elles avaient pu 
 emprunter ce carbone au sol sur lequel elles étaient tombées, S'il restait 
-encore quelque doute à ce sujet, il serait entierement levé aujourd’hui ; 
-car il est facile de reconnaître que le carbone préexistait dans l’intérieur de 
+encore quelque doute à ce sujet, il serait entierement levé aujourd'hui ; 
+car il est facile de reconnaître que le carbone préexistait dans l'intérieur de 
 chacune de ces dernières masses météoriques, au moment du phénomène 
 calorifique qui en a vitrifié la surface. 
 
 » De plus, ces morceaux à surface fondue et vitrifiée renferment des 
-substances qui sont facilement volatilisables, comme l’eau et le chlorhy- 
-drate d’ammoniaque. Ces deux circonstances en apparence contradictoires 
+substances qui sont facilement volatilisables, comme l'eau et le chlorhy- 
+drate d'ammoniaque. Ces deux circonstances en apparence contradictoires 
 peuvent s'expliquer, ainsi que la fait remarquer M. Wohler pour un cas 
-analogue, si l’on admet que la chaleur qu'elles ont subie a été de si courte 
-durée, qu’ellen’a pu pénétrer dans l’intérieur de la masse, dont la substance 
-est d’ailleurs mauvais conducteur du calorique. Dans le cas qui nous 
+analogue, si l'on admet que la chaleur qu'elles ont subie a été de si courte 
+durée, qu'ellen'a pu pénétrer dans l'intérieur de la masse, dont la substance 
+est d'ailleurs mauvais conducteur du calorique. Dans le cas qui nous 
 occupe, la chaleur aurait dü être en quelque sorte instantanée, et cepen- 
-dant d’une intensité considérable ; car il n’a pas fallu moins de la chaleur 
+dant d'une intensité considérable ; car il n'a pas fallu moins de la chaleur 
 rouge blanc du chalumeau à gaz pour reproduire artificiellement ce vernis 
 de fusion. . 
  » Non-seulement la météorite d'Orgueil est tendre et friable, mais elle 
-se réduit en une poussière impalpable aussitôt qu’elle prend le contact de 
+se réduit en une poussière impalpable aussitôt qu'elle prend le contact de 
 
 
 ( 986) 
@@ -101,31 +101,31 @@ notre globe. »
 # Note sur la composition chimique de la pierre météorique d'Orgueil; par M. S. CLorz. 
 
 
-« Je dois à l’obligeance de M. le professeur Daubrée d’avoir pu faire un 
+« Je dois à l'obligeance de M. le professeur Daubrée d'avoir pu faire un 
 examen rapide, mais encore incomplet, de la nature des principaux élé- 
 ments qui entrent dans la composition de cette pierre. 
 
-» Au contact de l’eau froide, la pierre météorique d’Orgueil se délite 
-complétement : elle se divise en particules d’une extrême ténuité qui restent 
+» Au contact de l'eau froide, la pierre météorique d'Orgueil se délite 
+complétement : elle se divise en particules d'une extrême ténuité qui restent 
 longtemps en suspension dans le liquide, et qui traversent les filtres les 
-plus épais sur lesquels on cherche à les recueillir. Cette action de l’eau est 
+plus épais sur lesquels on cherche à les recueillir. Cette action de l'eau est 
 le résultat de la dissolution de matières salines assez abondantes et qui 
 servent en quelque sorte de ciment. 
 
-» La proportion des substances salines solubles dans l’eau s'élève à 
-5,30 pour 100 environ; on y trouve du chlorhydrate d’ammoniaque, des 
+» La proportion des substances salines solubles dans l'eau s'élève à 
+5,30 pour 100 environ; on y trouve du chlorhydrate d'ammoniaque, des 
 chlorures de potassium, de sodium, du sulfate de magnésie, du sulfate 
 de chaux, etc. 
 
-» L'alcool absolu se comporte à l'égard de la pierre charbonneuse d’Or- 
+» L'alcool absolu se comporte à l'égard de la pierre charbonneuse d'Or- 
 gueil à peu près comme l'eau; cependant il la désagrége beaucoup plus 
 lentement, et les particules ne sont pas aussi divisées, car on peut facilement 
 les réunir sur un filtre, Le liquide évaporé laisse un résidu cristallisé, dans 
-lequel se trouve une substance de nature organique que l’on n’obtiendra 
+lequel se trouve une substance de nature organique que l'on n'obtiendra 
 probablement pas en quantité suffisante pour en faire une étude appro- 
 fondie. | 
 
-» L'action de l’eau et de l'alcool ne permet pas l'emploi de ces liquides 
+» L'action de l'eau et de l'alcool ne permet pas l'emploi de ces liquides 
 pour la détermination de la densité de la pierre; il faut avoir recours à un 
 liquide auxiliaire tel que la benzine ou l'huile de naphte rectifiée. 
 
@@ -133,50 +133,50 @@ liquide auxiliaire tel que la benzine ou l'huile de naphte rectifiée.
 ( 987.) 
 
 » En employant la benzine pure, j'ai trouvé pour la densité de la pierre 
-rapportée à celle de l’eau le nombre 2,567. 
+rapportée à celle de l'eau le nombre 2,567. 
 
-» Quand on chauffe l’aérolithe d'Orgueil dans un petit tube bouché, on 
-voit de l’eau se condenser dans la partie froide du tube, et si l'on élève suf- 
+» Quand on chauffe l'aérolithe d'Orgueil dans un petit tube bouché, on 
+voit de l'eau se condenser dans la partie froide du tube, et si l'on élève suf- 
 fisamment la température, il apparait un peu au-dessus dela partie chauffée 
-un dépôt cristallin formé de carbonate et de chlorhydrate d’ammoniaque. 
+un dépôt cristallin formé de carbonate et de chlorhydrate d'ammoniaque. 
 
 » Le produit chauffé conserve son aspect extérieur, il reste noir. Il faut 
-élever la température jusqu’au rouge blanc pour fondre, ou mieux pour 
+élever la température jusqu'au rouge blanc pour fondre, ou mieux pour 
 friter un petit fragment du météorite charbonneux. L'expérience réussit 
 parfaitement à la lampe à gaz, en employant un petit creuset conique fait 
 avec un bout de fil de platine tourné en spirale. Le produit frité est encore 
-noir comme si l’on avait chauffé en vase clos. 
+noir comme si l'on avait chauffé en vase clos. 
 
-» À l'air libre, la pierre chauffée change de couleur, elle devient d’un 
+» À l'air libre, la pierre chauffée change de couleur, elle devient d'un 
 rouge oCreux. 
 
-» L'aspect seul de la pierre faisait présumer qu’elle contenait du carbone 
-à l’état de graphite, et peut-être aussi sous la forme de combinaison orga- 
+» L'aspect seul de la pierre faisait présumer qu'elle contenait du carbone 
+à l'état de graphite, et peut-être aussi sous la forme de combinaison orga- 
 nique. L'analyse a été faite dans mon appareil à combustion sans dessicca- 
-tion préalable de la matière. La quantité d’acide carbonique obtenue 
+tion préalable de la matière. La quantité d'acide carbonique obtenue 
 s'élève à 21,8 pour 100 du poids du produit brülé, ce qui fait 5,92 pour 100 
 de carbone. 
 
-» La quantité d’eau produite est de 9,06 pour 100, mais il est à remar- 
+» La quantité d'eau produite est de 9,06 pour 100, mais il est à remar- 
 quer que ce nombre représente à la fois l'eau qui paraît appartenir à la 
-constitution de la pierre, l’eau hygrescopique et l’eau fournie par l’hydro- 
+constitution de la pierre, l'eau hygrescopique et l'eau fournie par l'hydro- 
 gène du sel ammoniacal. 
 
 » l'acide chlorhydrique dissout en grande partie le météorite d'Orgueil; 
-il se dégage de l’acide sulfhydrique, et la liqueur se colore en jaune ver- 
+il se dégage de l'acide sulfhydrique, et la liqueur se colore en jaune ver- 
 dâtre ; elle contient à la fois du protoxyde et du sesquioxyde de fer. Le résidu 
 insoluble desséché à 110 a une couleur noire foncée; sa proportion est de 
 7,6 pour 100, mais, en le calcinant à l'air, la matière noire se brûle et dis- 
-paraît ; il reste 2,2 pour 100 d’une substance grise. La différence entre ces 
+paraît ; il reste 2,2 pour 100 d'une substance grise. La différence entre ces 
 nombres est de 5,4, elle représente presque la totalité du carbone trouvée 
 ci-dessus par la combustion directe de la matière. 
 
-» Le soufre dégagé à l’état d’acide sulfhydrique par l’action de l’acide 
+» Le soufre dégagé à l'état d'acide sulfhydrique par l'action de l'acide 
 chlorhydrique a été recueilli et dosé : la proportion conduit à celle du pro- 
 tosulfure de fer appartenant à la matière; celle-ci est de 4,5 pour 100. 
 
 » La dissolution chlorhydrique, débarrassée des sels de fer suroxydés par 
-lesuccinate d’ammoniaque, prend, par l'addition del’ammoniaque libre, une 
+lesuccinate d'ammoniaque, prend, par l'addition del'ammoniaque libre, une 
 couleur bleue à peine sensible : la pierre ne renferme donc qu'une tres- 
 
 
@@ -185,14 +185,14 @@ faible quantité de nickel: Le résidu insoluble dans l'acide chlorhydrique
 contient aussi des traces de chrome. 
 
 » En résumé, la pierre météorique d'Orgueil est remarquable par la 
-manière dont elle se comporte avec l’eau et l'alcool : elle contient beaucoup 
+manière dont elle se comporte avec l'eau et l'alcool : elle contient beaucoup 
 d'oxyde de fer magnétique, car elle est presque entièrement attirable au 
 barreau aimanté; elle renferme en outre des silicates multiples, du protosul- 
 furé de fer, dés traces de nickel, de chrome, une assez forte proportion de 
 carbone graphitoïde, des sels solubles parmi lesquels se trouvent des sulfates, 
-des chlorures et notamment du chlorhydrate d’ammoniaque, Ce dernier 
-genre de sels n’avait pas été signalé jusqu'ici dans les météorites ; le fait m'a 
-paru intéressant et utile à signaler, avant même d’avoir entierement terminé 
+des chlorures et notamment du chlorhydrate d'ammoniaque, Ce dernier 
+genre de sels n'avait pas été signalé jusqu'ici dans les météorites ; le fait m'a 
+paru intéressant et utile à signaler, avant même d'avoir entierement terminé 
 mon analyse que je poursuis activement et qui sera bientôt achevée. » 
 
 
@@ -200,26 +200,26 @@ mon analyse que je poursuis activement et qui sera bientôt achevée. »
 
 
 « Le 14 mai dernier, à 8 heures du soir, un météore a traversé notre 
-atmosphère de l’ouest à l’est environ, passant près du zénith de Montau- 
+atmosphère de l'ouest à l'est environ, passant près du zénith de Montau- 
 ban. Les habitants de cette ville le dépeignent comme une masse lumineuse 
-de forme arrondie, un peu plus large en avant qu’en arrière, et d’un vo- 
+de forme arrondie, un peu plus large en avant qu'en arrière, et d'un vo- 
 lume apparent comparable à celui de la Lune dans son plein, qui a éclairé 
-le pays d’une vive lumière. La trainée qu’il laissait derrière lui était d’abord 
-lumineuse et assez large ; elle s’est transformée ensuite en une nébulosité 
-persistante d’une durée de plusieurs minutes. Ce météore n’était autre chose 
+le pays d'une vive lumière. La trainée qu'il laissait derrière lui était d'abord 
+lumineuse et assez large ; elle s'est transformée ensuite en une nébulosité 
+persistante d'une durée de plusieurs minutes. Ce météore n'était autre chose 
 qu'un bolide qui à éclaté à trois lieues plus loin, au sud-sud-est, au-dessus 
-de la commune d’Orgueil, en faisant entendre, après la dispersion et la 
+de la commune d'Orgueil, en faisant entendre, après la dispersion et la 
 chute du météore, un bruit comparable à celui d'un tonnerre lointain et en 
-se divisant en plusieurs fragments qui, d’abord lumineux, n’ont pas tardé 
-à s’éteindre et à tomber sur le sol sous la forme d’une pluie de pierres, ne 
+se divisant en plusieurs fragments qui, d'abord lumineux, n'ont pas tardé 
+à s'éteindre et à tomber sur le sol sous la forme d'une pluie de pierres, ne 
 laissant dans le ciel, comme indice de leur présence, qu'un nuage d'un 
-blanc cendré qui s’est dissipé après quelques minutes, 
+blanc cendré qui s'est dissipé après quelques minutes, 
 
 » Je ne m'étendrai pas davantage sur les détails de ce phénomène qui 
 n'offrait rien de particulier. Je me contenterai d'ajouter que le champ de 
-son apparition a été assez vaste; car déjà on sait qu’il comprend toute 
-l’Aquitaine et une région qui s'étend au nord au moins jusqu’à Angoulème. 
-Quant à l'espace où s’est répandue Ja pluie de pierres, on n’est pas jusqu’à 
+son apparition a été assez vaste; car déjà on sait qu'il comprend toute 
+l'Aquitaine et une région qui s'étend au nord au moins jusqu'à Angoulème. 
+Quant à l'espace où s'est répandue Ja pluie de pierres, on n'est pas jusqu'à 
 présent autorisé à le faire dépasser une région d'environ deux lieues car- 
 rées, appartenant au département de Tarn-et-Garonne, comprise entre les 
 
@@ -247,23 +247,23 @@ faces sont plus ou moins déprimées, comme si elles avaient été formées par
 la pression du pouce dans une matière pâteuse, et les angles semblent avoir 
 été déterminés par un pincement dans une masse analogue. 
 
-» Toutes. les pierres tombées aux environs d’Orgueil ont à peu près le 
+» Toutes. les pierres tombées aux environs d'Orgueil ont à peu près le 
 même aspect, et les surfaces naturelles, lorsqu'elles sont conservées, affectent 
 les formes à faces déprimées et à arêtes pincées que nous avons ci-dessus 
-reconnues dans la pierre de Campsas. Ces surfaces d’origine sont d’ailleurs 
+reconnues dans la pierre de Campsas. Ces surfaces d'origine sont d'ailleurs 
 indiquées par une croûte mince, comme vernissée, inégalement chagrinée, 
 qui-est un caractère général pour tous les aérolithes. 
 
-» Jusqu'à présent on ne voit pas que nos pierres d’Orgueil différent beau- 
+» Jusqu'à présent on ne voit pas que nos pierres d'Orgueil différent beau- 
 coup des aérolithes ordinaires; mais si, au lieu de nous arrêter à la surface 
-de ces pierres, nous pénétrons dans l’intérieur, aussitôt une différence frap- 
+de ces pierres, nous pénétrons dans l'intérieur, aussitôt une différence frap- 
 pante nous apparaîtra. En effet, la cassure nous accusera une matière abso- 
 lument noire et comme charbonneuse, tendre au point de se laisser entailler 
 au couteau avec la plus grande facilité, et même de laisser des traces 
 linéaires sur le papier par une médiocre friction; la pression du couteau 
 sur les parties entaillées produit. des surfaces lisses et brillantes, indice cer- 
 tain de la finesse de la pâte. La consistance de cette matière est si faible, 
-qu’un fragment plongé dans l’eau s’y désagrége immédiatement et donne 
+qu'un fragment plongé dans l'eau s'y désagrége immédiatement et donne 
 lieu à un dépôt terreux qui se forme au fond du verre à expérience. 
 
 » La forme de la cassure est inégale en petit et montre çàet là des par- 
@@ -276,22 +276,22 @@ C.R., 1864, 17 Semestre. (T. LVIIT, N° 22.) 129
 ties unies et presque planes un peu luisantes. Enfin la loupe fait apercevoir, 
 au milieu de la masse, de petits points brillants probablement pyriteux. 
 
-» L'aérolithe d’Orgueil attire fortement l'aiguille aimantée dans toutes 
-ses parties, Sa densité, que l’on ne pourra prendre exactement qu’en em- 
+» L'aérolithe d'Orgueil attire fortement l'aiguille aimantée dans toutes 
+ses parties, Sa densité, que l'on ne pourra prendre exactement qu'en em- 
 ployant beaucoup de précautions, ne parait pas différer beaucoup de 2. 
 
-» En comparant l’aérolithe d’Orgueil avec ceux qui sont connus par des 
-descriptions, je n’en ai trouvé qu’un qui offre avec celui-ci une analogie 
-marquée sous le rapport minéralogique : c’est la pierre tombée en 1806 dans 
-l'arrondissement d’Alais (Gard), dont M. Thenard a décrit les caracteres 
+» En comparant l'aérolithe d'Orgueil avec ceux qui sont connus par des 
+descriptions, je n'en ai trouvé qu'un qui offre avec celui-ci une analogie 
+marquée sous le rapport minéralogique : c'est la pierre tombée en 1806 dans 
+l'arrondissement d'Alais (Gard), dont M. Thenard a décrit les caracteres 
 physiques et chimiques dans les Annales de Chimie et de Physique (t. LIX, 
 p. 103). L'analyse de cet illustre chimiste indique un aérolithe magnésien, 
-riche en oxyde de fer et en nickel. Quelques essais que j’ai commencés me 
+riche en oxyde de fer et en nickel. Quelques essais que j'ai commencés me 
 portéraient à croire que notre pierre de Tarn-et-Garonne pourrait offrir 
-encore à ce point de vue quelque ressemblance avec celle d’Alais. Cette der- 
-nière contenait 2,5 pour 100 de charbon d’après M. Thenard. Il serait in- 
+encore à ce point de vue quelque ressemblance avec celle d'Alais. Cette der- 
+nière contenait 2,5 pour 100 de charbon d'après M. Thenard. Il serait in- 
 téressant de voir si cette curieuse particularité existe aussi dans la nôtre. 
-C’est aux chimistes qu’il appartient de faire ce genre de recherche et de 
+C'est aux chimistes qu'il appartient de faire ce genre de recherche et de 
 nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. » 
 
 # Observation sur la présence de la breunnérite dans la météorite d'Orgueil.
@@ -302,19 +302,19 @@ nous éclairer sur la valeur des analogies que j'ai ci-dessus indiquées. »
 
 ## Par M. Daubrée.
 
-« C’est dans un résidu pulvérulent provenant du lavage d’un fragment 
-de la météorite d'Orgueil que s’est rencontrée l'espèce minérale dont 
+« C'est dans un résidu pulvérulent provenant du lavage d'un fragment 
+de la météorite d'Orgueil que s'est rencontrée l'espèce minérale dont 
 M. Des Cloizeaux vient de déterminer la nature. Elle y était mélangée de 
 grains de sable quartzeux,.que la météorite avait sans doute enlevés 
-par adhérence an sol sur lequel elle est tombée. Il n’était donc pas impos- 
-sible que cette combinaison carbonatée, dont la présence n’avait encore été 
+par adhérence an sol sur lequel elle est tombée. Il n'était donc pas impos- 
+sible que cette combinaison carbonatée, dont la présence n'avait encore été 
 ‘ signalée dans aucune météorite, provint elle-même, aussi bien que le sable 
 quartzeux, du sol sur lequel la masse avait été recueillie. 
 
 » L'examen des nombreux échantillons qui font partie de la collection 
 du Muséum permet de lever tous les doutes à ce sujet. En effet, deux de ces 
 échantillons renferment des cristaux de breunnérite qui dépassent 3 milli- 
-mètres de longueur. J’en ai également observé deux cristaux sur l’un des 
+mètres de longueur. J'en ai également observé deux cristaux sur l'un des 
 échantillons du Musée de Montauban. Or, tous ces cristaux sont disséminés 
 dans l'intérieur même de morceaux qui sont encore enveloppés de leur 
 croûte ; il est donc certain que le carbonate de magnésie et de fer, connu 
@@ -323,68 +323,209 @@ mesures cristallographiques de M. Des Cloizeaux et par l'examen chimique
 de M. Pisani, fait réellement partie constituante de la météorite charbon- 
 neuse d'Orgueil. 
 
-» D'ailleurs, l’analyse que M. Cloëz a bien voulu faire à ma prière, et dont 
+» D'ailleurs, l'analyse que M. Cloëz a bien voulu faire à ma prière, et dont 
 le résultat est consigné ci-après, parait montrer que cette pâte charbon- 
 neuse, même dans les parties où la loupe ne peut faire découvrir aucun 
 grain discernable de breunnérite, est intimement mélangée de carbonates en 
 quantité trèes-notable. » 
 
-# Sur la présence d’un carbonate de magnéste el 
+# Sur la présence d'un carbonate de magnéste el 
 
-Jer cristallisé dans la météorite d’Orqueil. Note de M. Des CLrorzraux, 
+Jer cristallisé dans la météorite d'Orqueil. Note de M. Des CLrorzraux, 
 présentée par M. Daubrée. 
 
 
 « La météorite d'Orgueil, déjà si remarquable à tous égards par sa consti- 
 tution physique et chimique, renferme encore dans son intérieur une sub- 
-stance cristallisée dont la présence n’avait jamais été signalée jusqu'ici dans 
+stance cristallisée dont la présence n'avait jamais été signalée jusqu'ici dans 
 aucune autre météorite, et qui ne se trouve, à la surface de la terre, que 
 dans des schistes talqueux et dans quelques filons. Cette substance est un 
 carbonate de magnésie et fer. Elle parait du reste assez rare dans la météorite 
-d'Orgueil, car je n’en ai trouvé que quatre petits cristaux dans un résidu. 
+d'Orgueil, car je n'en ai trouvé que quatre petits cristaux dans un résidu. 
 sableux, provenant de la lévigation de 20 à 25 grainmes de météorite, qui 
 m'a été remis par M. Sæmann. Ces cristaux, excessivement petits (+ à à de 
 
 
 2 
 millimètre de côté), avaient l'apparence de parallélipipèdes obliquangles 
-traversés par des fentes qui semblaient indiquer un triple clivage; l’un d'eux 
+traversés par des fentes qui semblaient indiquer un triple clivage; l'un d'eux 
 portait une petite troncature triangulaire sur un de ses angles solides obtus ; 
-à l'extérieur, ils offraient un faible éclat nacré, et à l’intérieur quelques 
+à l'extérieur, ils offraient un faible éclat nacré, et à l'intérieur quelques 
 places translucides d'une couleur grisätre à côté de parties opaques et noires. 
-La mesure des incidences n’a pas pu être faite avec une bien grande préci- 
+La mesure des incidences n'a pas pu être faite avec une bien grande préci- 
 siou, à cause des ondulations que présentaient les faces; toutefois, elle a 
 montré que la forme cristalline était en réalité un rhomboëdre obtus de 
 105 à 107 degrés. 
 
-» D’après la limite supérieure des angles observés, qui n’a jamais dépassé 
-107 degrés, et d’après la manière très-lente et sans effervescence sensible 
-dont un très-petit éclat s’était dissous dans l'acide chlorhydrique, en don- 
-nant par l’ammoniaque un précipité d'oxyde ferrique, J'avais d’abord pensé 
+» D'après la limite supérieure des angles observés, qui n'a jamais dépassé 
+107 degrés, et d'après la manière très-lente et sans effervescence sensible 
+dont un très-petit éclat s'était dissous dans l'acide chlorhydrique, en don- 
+nant par l'ammoniaque un précipité d'oxyde ferrique, J'avais d'abord pensé 
 que la substance était du carbonate de fer; mais en opérant sur trois des 
 cristaux que j'avais eus entre les mains, M. Pisani a trouvé dans la dissolu- 
 tion acide une quantité considérable de magnésie et de oxyde de fer sans 
 chaux. Les cristaux empâtés dans la météorite d'Orgueil, et dont il a été 
-question dans la Note présentée à l’Institut (séance du 18 juillet 1864) par 
+question dans la Note présentée à l'Institut (séance du 18 juillet 1864) par 
 M. Pisani comme constituant peut-être un feldspath attaquable par les 
 acides, peuvent donc être regardés comme une variété de breunnérite riche en 
 magnésie. 
 
-» Il est à peine besoin de faire remarquer que la présence d’un carbo- 
-nate en cristaux inaltérés, au sein d’une pierre météorique, est une nou- 
-
-
-{ 830) 
-velle preuve que l’intérieur de cette pierre n'a jamais dü être porté à une 
-
-
+» Il est à peine besoin de faire remarquer que la présence d'un carbo- 
+nate en cristaux inaltérés, au sein d'une pierre météorique, est une nou- 
+velle preuve que l'intérieur de cette pierre n'a jamais dü être porté à une 
 très-haute température. » 
 
 # Analyse chimique de la pierre météorique d'Orgueil.
 
-## Note de M. S. Cloëz.
+## Note de M. S. Cloëz, présentée par M. Daubrée.
 
-...
+« L'examen approfondi de la nature des substances qui entrent dans la composition de l'aérolithe d'Orgueil a confirmé les premiers résultats que M. Daubrée a eu l'obligeance de communiquer en mon nom à l'Académie. »
+
+« J'ai cherché d'abord à reconnaître sons quel état l'eau est engagée dans 
+cette curieuse météorite, et j'ai constaté facilement qu'une portion s'y trouve 
+retenue à l'état hygroscopique. Il suffit en effet de soumettre la matière à 
+la température ordinaire, dans le vide, au-dessus de l'acide sulfurique, ou 
+de la chauffer dans une étuve à air à la température de ïio degrés, pour 
+'dégager cette eau qui n'appartient pas essentiellement au produit; sa quan- 
+tité a varié de 5,2 à 6,9 pour ïoo. 
+
+» Outre Peau hygroscopique, la pierre contient aussi de 8 à ïo pour 100 
+d'eau de combinaison, qui ne se dégage qu'à une température supérieure à 
+200 degrés. Enfin on obtient encore un peu d'eau en brillant dans un tube, 
+à l'aide d'un corps oxydant, la matière préalablement chauffée à 3oo degrés; 
+l'eau fournie dans ce dernier cas provient principalement de la combustion 
+d'une partie de l'hydrogène contenu dans une substance humique d'ori- 
+gine organique. 
+
+» Il importait beaucoup de déterminer chimiquement la nature du com- 
+posé charbonneux qui contribue à colorer la pierre en noir. On pouvait se 
+demander à priori si le carbone s'y trouve à l'état libre, cristallisé ou 
+amorphe, ou à l'état d'un composé bitumineux hydrooarboné, ou enfin sous 
+la forme d'un produit plus complexe, contenant à la fois du carbone, de 
+l'hydrogène, de l'oxygène, etc. 
+
+» Pour résoudre cette question, j'ai eu recours d'abord à l'action des 
+dissolvants neutres, tels que l'éther, l'alcool et l'eau; mais je n'ai obtenu 
+de cette manière aucun résultat satisfaisant. J'ai été plus heureux en exa- 
+
+minant la partie de la pierre insoluble dans l'acide chlorhydrique bouillant; 
+ce résidu est un mélange de silice gélatineuse soluble dans une lessive faible 
+de potasse, et du composé charbonneux qui ne paraît pas avoir subi d'al- 
+tération sensible. 
+
+» L'examen microscopique montre que ce produit est homogène : il est 
+complètement amorphe et il ressemble à s'y méprendre à la matière humique 
+de certains combustibles terreux; sa composition d'ailleurs confirme cette 
+ressemblance; elle est en effet analogue à celle de la partie organique de 
+plusieurs variétés de tourbes et de lignites. 
+
+» Après sa dessiccation à no degrés, la substance humique de l'aéro- 
+lithe d'Orgueil renferme, pour ioo parties, 
+
+Carbone 63,45 
+Hydrogène 5 ,98 
+Oxygène 30,57 
+100,00 
+
+» Voici, comme point de comparaison, l'analyse de divers produits 
+d'origine terrestre : 
+
+Tourbe Lignite Matière noire 
+
+de Long, de Ringkuhl, séparée 
+
+, vallée de la Somme, près de Cassel. dn sable des Landes. 
+
+Carbone.... 60,06 66, 5o 60,40 
+Hydrogène 6,21 5,33 5,65 
+Oxygène 33,73 28,17 33 > 65 
+100,00 100,00 100,00 
+
+» Il y a donc une grande analogie entre la composition de ces substances 
+humiques et celle de la partie charbonneuse de l'aérolithe d'Orgueil. 
+
+» D'après les analyses classiques de M. Wôhler, les parties charbon- 
+neuses des météorites de Raba et de Cold-Bokkeveld ont une nature diffé- 
+rente : elles consistent en un mélange de carbone amorphe et de substances 
+bitumineuses solubles dans l'alcool, et semblables à la schéerérite ou à l'ozo^ 
+kérite. L'aérolithe d'Alais contient comme les précédentes un composé 
+charbonneux que Berzélius suppose pouvoir bien être de l'humus, ce qui 
+semblerait indiquer l'existence de substances organiques dans les corps 
+célestes. 
+
+» Le fer se trouve en général, dans les météorites* à l'état de protoxyde; 
+dans la pierre d'Orgueil, il existe en partie à l'état d'oxyde magnétique 
+EeO-f-Fe 2 3 ; il est à noter seulement que la quantité absolue de cet oxyde 
+est difficile à évaluer, parce que la pierre contient en même temps du sul- 
+fure de fer qui fournit, par l'action de l'acide chlorhydrique, de l'hydrogène 
+sulfuré dont l'action réductrice peut s'exercer sur le sel de peroxyde de fer 
+déjà formé. 
+
+» Il n'y a pas de fer ni de nickel à l'état de métal dans l'aérolithe d'Orgueil, 
+il ne se dégage pas la moindre bulle d'hydrogène pendant l'attaque par 
+l'acide chlorhydrique. 
+
+» On y trouve des traces de phosphore, ainsi qu'une très-faible proportion 
+de cobalt et de chrome. Ce dernier métal ne paraît pas exister à l'état de 
+fer chromé, car il se trouve dissous par l'acide chlorhydrique quand l'ac- 
+tion de cet acide a été prolongée. 
+
+» En traitant la pierre par l'alcool rectifié à la température de l'ébullition, 
+on obtient une dissolution qui contient du chlorhydrate d'ammoniaque, des 
+chlorures alcalins, et de plus une très-petite quantité d'une matière molle 
+incristallisable et insoluble dans l'eau. 
+
+» L'eau enlève à la pierre supposée sèche 6, 4*4 pour ioo de son poids 
+de sels solubles formés de chlorures, de sulfates et de sulfures; ces derniers 
+se changent rapidement au contact de l'air en hyposulfites. 
+
+» Vqici les résultats directs de l'analyse de la pierre dans son état natu- 
+rel et à l'état de dessiccation à i io degrés : 
+
+Météorite Météorite 
+
+à l'état naturel. desséchée à no . 
+
+Eau hygroscopique 5, 97 5 » 
+Acide silicique 24,4^5 a6,o3io 
+Acide sulfurique 2, ig5 2,3345 
+Soufre..... 4,36 9 4,6466 
+Chlore 0,073 0,0776 
+
+Phosphore traces traces 
+
+Alumine 1,175 i,24g8 
+Oxyde de chrome t .. 0,225 o,23g2 
+Peroxyde de fer i3,324 i4,236o 
+Protoxyde de fer 17,924 ig,o63o 
+Oxyde de nickel 2,45o 2,6057 
+Oxyde de cobalt. . , o,o85 o ,0904 
+Oxyde de manganèse 1 ,8i5 1 ,9302 
+Magnésie 8,i63 8,6711 
+Chaux.. 2,i83 2,3220 
+Soude 1,244 i,323o 
+Potasse 0,307 o,3265 
+Ammoniaque 0,098 o, 1042
+Substance humique 6,027 6, 4 100 
+Eau combinée. ..... .• 7>345 7,8120 
+96,442 99î47 2 
+
+» On peut admettre que la partie insoluble est constituée de la manière 
+suivante : 
+
+Oxyde de fer magnétique Fe 3 0'.. ■. . . 40,627 , 
+Sulfure de fer magnétique 7 ,974 
+Sulfure, de nickel 3 , 169 
+Silicates multiples ^5 , 127 
+Substance humique 6,410 
+Eau combinée. 7 ,812 
+La partie soluble s'élève à 6,4i4 
+
+» Dans les silicates multiples l'oxygène de l'acide silicique est sensible- 
+ment le double de l'oxygène des bases réunies. Ce rapport de 2 à 1 
+semble montrer que l'aérolithe analysé ne contient, pas de péridot; on n'y 
+trouve d'ailleurs aucun globule cristallin semblable à ceux qui ont été 
+signalés dans les météorites de Kaba et du Cap. »
 
 # Étude chimique et analyse de l'aérolithe d'Orgueil.
 
@@ -419,218 +560,37 @@ Soude, ammoniaque, etc., et perte 0,77
 
 « Voici les résultats bruts de l'analyse faite sur la matière séchée à 110 degrés : »
 
-Silice 26,08 
-Magnésie 17 ,00 
-Protoxyde de fer 21 60 
-Peroxyde de fer 8 3o 
-Chaux , ,85 
-Spude 2)2 6 
-Potasse } , g 
-Oxyde de manganèse o, 36 
-Alumine oo 
-Fer chromé -, o 4q 
-Oxyde de nickel (avec cobalt) ... 2 , 26 
-Acide : sulfurique *,5& 
-Acide hyposulfureux o,53 
-Chlore O)0 8 
-Soujfe • •• ,5 )7 5 
- 
-nombres qu'on peut grouper dé la manière suivante : 
+Silice 26,08  
+Magnésie 17,00  
+Protoxyde de fer 21,60  
+Peroxyde de fer 8,30  
+Chaux 1,85  
+Soude 2,26  
+Potasse 0,19  
+Oxyde de manganèse 0,36  
+Alumine 0,90  
+Fer chromé 0,49  
+Oxyde de nickel (avec cobalt) 2,26  
+Acide sulfurique 1,54  
+Acide hyposulfureux 0,53  
+Chlore 0,08  
+Soufre 5,75
 
-Oxygène. Rapports. 
+nombres qu'on peut grouper de la manière suivante :
 
-Silice 26,08 12,90 4 
+||Oxygène.|Rapports.  
+Silice|26,08|12,90|4
+Magnésie|17,00|6,80|
+Protoxyde de fer|7,78|1,73|
+Chaux|1,85|0,53|
+Soude|2,26|0,58|3
+Potasse|0,19|0,03|
+Oxyde de manganèse|0,36|0,08|
+Alumine|0,90|0,42|
+Fer chromé|0,49||
+Fer oxydulé*|15,77||
+Sulfure de fer nickelifère|13,43||
+Eau et matières supposées organiques.|13,89||
+|100,00||
 
-Magnésie..' i 7 , o 6,80 
-
-Protoxyde de fer. .. 7 , 7 8 i, 7 3 
-
-Chaux »• i,85 o,53 
-
-Soude 2,26 o,58 } 10,17 3 
-
-Potasse 0,19 o,o3 
-
-Oxyde de manganèse ,36 0,08 
-
-Alumine o ,90 6,42 
-
-Fer chromé o 4q 
-
-Feroxydulé (i) *5,T1 
-
-Sulfure de fer nickelifère i3 ,43 
-
-Eau et matières supposées organiques. 13,8g 
-
-I0O,00 
-
-» Il y a donc dans cet aérolithe 56,4a pour 100 de silicates. Si l'on cal- 
-culé l'alumine comme faisant partie d'un peu d'anorthïte, On obtient 
-2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par 
-lévigation de l'àérolilhè, et qu'examine en ce moment M. fies tïbizeaùx, 
-pourront établir s'il existé en effet un feldspath attaquable par les acides 
-dans cette météorite. » 
-
-PHYSIQUE. — Note sur la théorie des condensateurs électriques dans telaï 
-variable des tensions ; par M. J.-M. Gaugalv. 
-
-« Mes recherches antérieures sur les condensateurs formés avec des dié- 
-lectriques solides m'ont conduit à considérer les condensateurs de cette es- 
-pèce comme des condensateurs doubles {Comptes rendus, séance du 19 mai 
-1862). Si cette manière de voir est exacte, les lois qui régissent le mouve- 
-ment de l'électricité dans lé cas des condensateiirs formés avec lès diélec- 
-triques solides, et notamment dans le cas des câbles télégraphiques immer- 
-gés, peuvent être déduites de la théorie dès condensateurs doublés, et par 
-conséquent il devient intéressant d'établir cette -théorie. 
-
-» On trouve dans la plupart des Traités de physique dés' formulés qui 
-représentent là charge des batteries en cascade, mais les physiciens qui éé 
-sont occupés de ce sujet ont toujours supposé que lés condensateurs mis 
-
-
-
-(1) II est à remarquer que si le fer oxydulé se trouvait primitivement à l'état de pro- 
-toxyde dans le silicate, on aurait alors exactement les rapports d'un péridot. 
-
-18.. 
-
-
-
-( i36 ) 
-en batterie communiquaient métalliquemerit les uns avec les autres, et par 
-conséquent ils n'ont considéré que l'état d'équilibre. Lorsque les con- 
-densateurs accouplés ne communiquent entre eux que par l'intermé- 
-diaire d'un mauvais conducteur, cet état d'équilibre . ne s'établit qu'au 
-bout d'un temps appréciable, quelquefois même très-long, et l'on peut 
-demander alors quelle est, pour un instant donné de la période variable, 
-la distribution de l'électricité. Telle est la question que je mè suis proposé 
-de résoudre. 
-
-» Concevons d'abord ,un condensateur simple formé de deux plateaux 
-parallèles A et B, séparés par une lame d'air que l'électricité ne puisse fran- 
-chir, et supposons que le plateau A soit mis en communication métallique 
-avec une source de tension constante, le plateau B communiquant avec la 
-terre par le moyen d'un conducteur médiocre tel qu'un fil de coton : on 
-peut demander quelle est la charge de l'un ou de l'autre plateau au bout 
-du temps Q, le temps étant compté à partir de l'instant où le plateau B est 
-mis en rapport avec la terre. Admettons, pour fixer le langage, que la 
-source soit positive, et désignons par q la quantité d'électricité positive qui 
-reste virtuellement sur le plateau B au bout du temps 0, c'est-à-dire la quan- 
-tité d'électricité positive que ce plateau laisserait échapper si, après le 
-temps 0, on le mettait en communication métallique avec la terre : le flux 
-positif qui serait transmis dans l'unité de temps par le fil de coton, si 
-l'écoulement devenait uniforme et conservait la vitesse qu'il possède au bout 
-
-du temps #, sera exprimé par — - -—■> et l'on aura 
-
-M. -S-** 
-
-en désignant par k un coefficient constant directement proportionnel à la 
-conductibilité du fil de coton, et inversement proportionnel à la force con- 
-densante de l' appareil employé. 
-
-» Le principe dont l'équation précédente est la traduction n'est peut- 
-être pas complètement évident ; mais comme les conséquences qui en ré- 
-sultent ont été vérifiées par des expériences nombreuses et variées, on ne 
-peut pas douter de son exactitude, et il résume en quelque sorte la théorie 
-des condensateurs dans l'état variable des tensions. 
-
-» L'intégration de l'équation (i) donne 
-
-
-
-( *1 ) 
-en représentant par q a la quantité d'électricité positive qui se trouve vir- 
-tuellement sur le plateau B à l'origine du temps. 
-
-» La quantité q une fois connue, il est facile d'obtenir la charge de l'un 
-ou de l'autre des plateaux A, B. 
-
-» 11 résulte immédiatement de l'équation (a) que si l'on note à des inter- 
-valles égaux, de minute en minute, par exemple, les valeurs successives 
-de q, ces valeurs forment une progression géométrique, et il est aisé d'en 
-conclure que si l'on note à des intervalles égaux les accroissements de la 
-charge de l'un ou de l'autre plateau, ces accroissements forment égale- 
-ment des progressions géométriques. Cette loi a été vérifiée de plusieurs 
-
-manières. 
-
-» Maintenant la théorie du condensateur double peut être aisément dé- 
-duite du principe qui m'a servi à établir la théorie du condensateur simple. 
-Concevons un système formé de quatre plateaux métalliques A, B, C, D pa- 
-rallèles et séparés les uns des autres par des lames d'air infranchissables 
-à l'électricité ; supposons que l'on mette le plateau supérieur A en communi- 
-cation métallique avec une source positive de tension constante, que le pla- 
-teau inférieur D soit mis en communication métallique avec la terre, enfin 
-que les plateaux moyens B et C soient mis en communication l'un avec 
-l'autre par l'intermédiaire d'un mauvais conducteur tel qu'un fil de coton : 
-il s'agit de déterminer quel est l'état électrique de l'un quelconque des pla- 
-teaux au bout du temps 0, le temps étant compté à partir de l'instant où les 
-plateaux moyens ont été mis en communication l'un avec l'autre. En rai- 
-sonnant à peu près comme dans le cas du condensateur simple, on trouve 
-que la charge positive q-, accumulée sur le plateau C au bout du temps $, est 
-fournie par l'équation 
-
-» m représente le rapport de la charge influençante à la charge influencée 
-dans le condensateur simple formé des plateaux A et B. 
-' » m' représente le même rapport pour le condensateur formé des pla- 
-teaux C et D. 
-
-» k est un coefficient constant proportionnel à la conductibilité du fil 
-
-de coton qui relie les plateaux B et C. 
-
-» La charge q du plateau C étant connue, il est aisé d'obtenir celle des 
-trois autres plateaux. 
-
-» De l'équation (3) il résulte que si l'on note à des intervalles de temps 
-
-
-
-( '38 ) 
-égaux les accroissemeuts successifs de la charge de l'un quelconque des 
-plateaux, ces accroissements forment une progression géométrique» comme 
-dans le cas du condensateur simple; cette conclusion a été vérifiée par des 
-observations directes. 
-
-» Après avoir déterminé, comme je viens de le dire, la loi suivant la- 
-quelle se constitue graduellement la charge d'un condensateur double, j'ai 
-déterminé par un calcul analogue la loi suivant laquelle s'effectue la dé- 
-charge. Le condensateur double étant chargé à saturation, je suppose 
-qu'on le met en décharge en faisant communiquer métailiquement avec le 
-sol les plateaux A et D, les plateaux moyens B et C ne communiquant entre 
-eux que par l'intermédiaire du fil de coton; il s'agit de déterminer la charge 
-que les plateaux conservent au bout du temps 0. J'ai trouvé que la charge q 
-du plateau C était exprimée par la formule 
-
-W logJ( 2 -m 3 -m' 2 )= _*0(a-m 2 - m '«), 
-
-toutes les lettres conservant la même signification que dans l'équa- 
-tion (3). 
-
-» De la comparaison des formules (3) et. (4) on déduit aisément la loi 
-suivante : Lorsqu'un condensateur double chargé à saturation est mis en dé- 
-charge, chacun de ses plateaux perd dans un temps donné une quantité d'é- 
-lectricité égale à celle qui viendrait dans le même temps s'accumuler sur le 
-mêmeplateau, si l'appareil pris à l'état neutre était mis en charge. Je suppose 
-bien entendu que la tension de la source est la même dans les deux cas, et 
-que l'on effectue la charge et la décharge dans les conditions que j'ai défi- 
-nies. Cette dernière loi, comme les précédentes, a été vérifiée par des 
-expériences directes. 
-
-» Je me suis servi, pour exprimer la force condensante, d'un condensa- 
-teur simple de la formule F = l J_ mi * qui se trouve indiquée dans tous les 
-
-Traités de physique. Je sais que l'exactitude de cette formule a été contes- 
-tée dans ces derniers temps par un éminent physicien d'Allemagne, mais je 
-ne crois pas que les objections mises en avant par ce savant soient fondées ; 
-j'ai vérifié à priori les principes sur lesquels est établie la formule dont il 
-s'agit, j'ai vérifié à posteriori la formule elle-même, et je crois qu'on peut 
-continuer à s'en servir avec toute sécurité. » 
-
-
-
-...
-
-
+« Il y a donc dans cet aérolithe 56,42 pour 100 de silicates. Si l'on calcule l'alumine comme faisant partie d'un peu d'anorthite, on obtient 2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par lévigation de l'aérolithe, et qu'examine en ce moment M. Des Cloizeaux, pourront établir s'il existe en effet un feldspath attaquable par les acides dans cette météorite. »
