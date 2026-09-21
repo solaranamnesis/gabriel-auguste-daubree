@@ -192,6 +192,8 @@ La partie soluble s'élève à 6,414
 
 « Dans les silicates multiples l'oxygène de l'acide silicique est sensiblement le double de l'oxygène des bases réunies. Ce rapport de 2 à 1 semble montrer que l'aérolithe analysé ne contient pas de péridot ; on n'y trouve d'ailleurs aucun globule cristallin semblable à ceux qui ont été signalés dans les météorites de Kaba et du Cap. »
 
+---
+
 # Étude chimique et analyse de l'aérolithe d'Orgueil.
 
 ## Note de M. Pisani, présentée par M. Daubrée.
