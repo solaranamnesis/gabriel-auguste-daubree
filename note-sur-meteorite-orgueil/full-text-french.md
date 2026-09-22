@@ -438,87 +438,23 @@ _Lettre de M. Jollois à M. Le Verrier._
 
 ## Par M. Lespiault.
 
-« M. Laussedat a publié dans le Compte rendu du 13 juin dernier une 
-détermination de la trajectoire du bolide du 14 mai, fondée sur l'ensemble 
-des observations qui étaient parvenues à M. Daubrée. Cette détermination 
-repose sur une méthode graphique excellente pour le tracé de la projec- 
-tion horizontale de la trajectoire, mais qui ne me paraît pas susceptible de 
-donner avec la même rigueur la projection verticale. Il est cependant 
-très-important de déterminer aussi exactement que possible les hauteurs 
-auxquelles le bolide a traversé les divers méridiens, à cause des inductions 
-qu'on pourrait en tirer relativement à l'étendue de l'atmosphère. 
+« M. Laussedat a publié dans le _Compte rendu_ du 13 juin dernier une détermination de la trajectoire du bolide du 14 mai, fondée sur l'ensemble des observations qui étaient parvenues à M. Daubrée. Cette détermination repose sur une méthode graphique excellente pour le tracé de la projection horizontale de la trajectoire, mais qui ne me paraît pas susceptible de donner avec la même rigueur la projection verticale. Il est cependant très-important de déterminer aussi exactement que possible les hauteurs auxquelles le bolide a traversé les divers méridiens, à cause des inductions qu'on pourrait en tirer relativement à l'étendue de l'atmosphère. »
 
-» M. Laussedat adopte pour plan fondamental de son tracé un plan pas- 
-sant par Rieumes et par les deux positions qu'a indiquées M. Lajous comme 
-appartenant à la trajectoire. Cette méthode a l'inconvénient d'attribuer une 
-importance trop exclusive à l'une des observations, et cet inconvénient est 
-ici d'autant plus sensible que M. Lajous n'a pas été lui-même témoin: du 
-phénomène et n'a fait que recueillir les indications de personnes dignes de 
-foi. (Voir la lettre de M. Lajous à M. Petit.) La hauteur de 16°30', attri- 
-buée au point d'explosion, me parait en particulier beaucoup trop faible, 
-car elle ne peut se concilier avec les angles beaucoup plus considérables 
-observés à Astaffort, à Nérac, à Agen et sur tout le parcours du bolide. J'en 
-dirai autant de l'observation de M. Pauliet, qui place le point d'explosion 
-vu de Montauban au-dessous de Jupiter, c'est-à-dire presque à l'est et à 8 
-ou 10 degrés de hauteur, tandis que M. Bagel indique la direction du sud- 
-ouest, et 7 degrés de hauteur mesurés au théodolite. Je crains d'ailleurs 
-qu'il ne se soit établi quelque confusion entre la trajectoire indiquée par 
-M. Pauliet à M. Petit, et celle que M. Cruzel a envoyée à la Gironde du 
-18 mai, comme l'ayant cbservée à Tombebœuf. Les deux relations coin- 
-cident en effet dans les moindres détails, et bien qu'une trajectoire très-in- 
-clinée ait pu se projeter en partie pour les deux stations sur les mêmes 
-étoiles, comment concevoir que l'explosion ait paru à Montauban se pro- 
-pi HET de Jupiter, quand à Nérac on la voyait 15 degrés au- 
-essus? 
+« M. Laussedat adopte pour plan fondamental de son tracé un plan passant par Rieumes et par les deux positions qu'a indiquées M. Lajous comme appartenant à la trajectoire. Cette méthode a l'inconvénient d'attribuer une importance trop exclusive à l'une des observations, et cet inconvénient est ici d'autant plus sensible que M. Lajous n'a pas été lui-même témoin du phénomène et n'a fait que recueillir les indications de personnes dignes de foi. (Voir la lettre de M. Lajous à M. Petit.) La hauteur de 16° 30′, attribuée au point d'explosion, me paraît en particulier beaucoup trop faible, car elle ne peut se concilier avec les angles beaucoup plus considérables observés à Astaffort, à Nérac, à Agen et sur tout le parcours du bolide. J'en dirai autant de l'observation de M. Pauliet, qui place le point d'explosion vu de Montauban _au-dessous de Jupiter_, c'est-à-dire presque à l'est et à 8 ou 10 degrés de hauteur, tandis que M. Bagel indique la direction du sudouest, et 75 degrés de hauteur mesurés au théodolite. Je crains d'ailleurs qu'il ne se soit établi quelque confusion entre la trajectoire indiquée par M. Pauliet à M. Petit, et celle que M. Cruzel a envoyée à _la Gironde_ du 18 mai, comme l'ayant observée à Tombebœuf. Les deux relations coïncident en effet dans les moindres détails, et bien qu'une trajectoire _très-inclinée_ ait pu se projeter en partie pour les deux stations sur les mêmes étoiles, comment concevoir que l'explosion ait paru à Montauban se produire au-dessous de Jupiter, quand à Nérac on la voyait 15 degrés au-dessus ? »
 
-» Les observations de M. Lajous et de M. Pauliet sont cependant les seules 
-qui aient porté M. Laussedat à adopter 15 à 20 kilomètres pour la hau- 
-teur du point d'explosion. Les observations combinées de Nérac, d'Astaf- 
-fort et de Montauban m'avaient donné de 29 à 32 kilomètres {Bulletin de 
-l'Observatoire des 11 et 14 juin). Les nouveaux renseignements qui me sont 
-parvenus depuis cette époque, et en particulier les Lettres insérées dans le 
-Compte rendu du. 13 juin, me confirment dans mon Opinion et me porte- 
-raient plutôt à augmenter cette hauteur qu'à la diminuer. Voici, en effet, le 
-tableau comparé des angles observés à diverses stations et des angles cal- 
-culés d'après des hauteurs supposées de 15, 20 et 30 kilomètres. 
+« Les observations de M. Lajous et de M. Pauliet sont cependant les seules qui aient porté M. Laussedat à adopter 15 à 20 kilomètres pour la hauteur du point d'explosion. Les observations combinées de Nérac, d'Astaffort et de Montauban m'avaient donné de 29 à 32 kilomètres (_Bulletin de l'Observatoire_ des 11 et 14 juin). Les nouveaux renseignements qui me sont parvenus depuis cette époque, et en particulier les Lettres insérées dans le _Compte rendu_ du 13 juin, me confirment dans mon opinion et me porteraient plutôt à augmenter cette hauteur qu'à la diminuer. Voici, en effet, le tableau comparé des angles observés à diverses stations et des angles calculés d'après des hauteurs supposées de 15, 20 et 30 kilomètres. »
 
+| Stations.   | Distance à la projection du point supposé d'explosion. (kilom.) | Angles correspondant à 15 kilomètres de hauteur. | Angles correspondant à 20 kilomètres de hauteur. | Angles correspondant à 30 kilomètres de hauteur. | Angles observés. |
+|-------------|-----------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|------------------|
+| Mautauban   | 12                                                              | 50°                                              | 59°                                              | 68°                                              | M. Bagel.        |
+| Astaffort   | 66                                                              | 14°                                              | 18°                                              | 26°                                              | M. de Lafitte,   |
+| Nérac       | 80                                                              | 11°                                              | 14°                                              | 21°                                              | M. Lespiault.    |
+| Bordeaux    | 200                                                             | 4°                                               | 5°                                               | 9°                                               | M. Abria.        |
+| Pont-le-Voy | 370                                                             | 0° 41′                                           | 1° 45′                                           | 3°                                               | M. Laurentie.    |
 
-DISTANCE ANGLES CORRESPONDANT 
-STATIONS. à la projection 
-du point supposé 
+« Les mesures de Bordeaux, qui n'ont pas encore été publiées, ont été prises plusieurs fois par M. Abria, d'après ses souvenirs et ceux des personnes qui l'accompagnaient. Quelques autres témoins du phénomène m'ont donné 15 à 20 degrés pour leur estimation. Malgré la tendance générale qui nous porte à exagérer la grandeur des angles à l'horizon, des évaluations aussi considérables restent encore difficiles à expliquer. »
 
-d'explosion. 
-
-
-CT D CT, I 
-à 15 kilomètres | à 20 kilomètres | à 80 kilomètres 
-de hauteur. de hauteur. de hauteur. 
-
-M. Bagel. 
-M. de Lafitte, 
-M. Lespiault. 
-M. Abria. 
-M. Laurentie. 
-
-»- Les mesures de Bordeaux, qui n'ont pas encore été publiées, ont été 
-prises plusieurs fois par M. Abria, d'après ses souvenirs et ceux des per- 
-sonnes qui l'accompagnaient. Quelques autres témoins du phénomène 
-m'ont donné 15 à 20 degrés pour leur estimation. Malgré la tendance 
-générale qui nous porte à exagérer la grandeur des angles à l'horizon, des 
-évaluations aussi considérables restent encore difficiles à expliquer. 
-
-» En admettant 40 kilomètres pour la hauteur du bolide au-dessus d'Or- 
-gueil et 100 kilomètres au méridien de Nérac, la trajectoire entre ces deux 
-points serait inclinée de 4t degrés à l'horizon. Cette inclinaison est, il est 
-vrai, supérieure à celle qu'indiquent MM. Brongniart et Triger, mais elle 
-est inférieure à l'inclinaison de 65 degrés qui résulte de l'observation de 
-M. Hende à Vannes, même en tenant compte des effets de perspective. 
-D'ailleurs, il faut admettre une forte inclinaison pour expliquer comment 
-toutes les trajectoires, indiquées avec une netteté suffisante pour être rap- 
-portées sur un planisphère mobile, divergent rapidement du point de départ 
-au point d'explosion. » 
-
-C. R., 1864, 19° Semestre. (T. LVIII, N° 96.) 158 
+« En admettant 40 kilomètres pour la hauteur du bolide au-dessus d'Orgueil et 100 kilomètres au méridien de Nérac, la trajectoire entre ces deux points serait inclinée de 41 degrés à l'horizon. Cette inclinaison est, il est vrai, supérieure à celle qu'indiquent MM. Brongniart et Triger, mais elle est inférieure à l'inclinaison de 65 degrés qui résulte de l'observation de M. Hende à Vannes, même en tenant compte des effets de perspective. D'ailleurs, il faut admettre une forte inclinaison pour expliquer comment toutes les trajectoires, indiquées avec une netteté suffisante pour être rapportées sur un planisphère mobile, divergent rapidement du point de départ au point d'explosion. »
 
 ---
 
@@ -526,7 +462,207 @@ C. R., 1864, 19° Semestre. (T. LVIII, N° 96.) 158
 
 ## Par M. Daubrée.
 
-...
+« Nous continuons à publier des extraits des lettres relatives à l'apparition du magnifique bolide qui a passé au-dessus de plusieurs de nos départements du sud-ouest, en éveillant l'attention des personnes instruites et la curiosité de tous. En rapprochant ces nouveaux renseignements de ceux qui ont paru dans les numéros précédents des _Comptes rendus_, on peut déjà se faire une idée assez exacte de la marche du météore, depuis son apparition jusqu'à l'explosion qui a amené la chute d'un certain nombre de météorites. »
+
+« Quelques-unes des Lettres dont les extraits vont suivre nous ont été adressées directement ; d'autres nous ont été communiquées avec la plus grande obligeance par M. Le Verrier, Directeur de l'Observatoire impérial de Paris, par M. Petit, Directeur de l'Observatoire de Toulouse, et par M. Grimaud, de Caux. »
+
+« S'il est difficile de faire concorder absolument toutes les indications déjà recueillies, on en trouve, comme nous le faisions remarquer dans une précédente communication, un grand nombre assez conformes pour qu'on puisse asseoir sur elles certaines conclusions avec quelque certitude. »
+
+« On remarquera que les observations de deux personnes semblent cette fois avoir suivi le bolide au delà de l'instant de l'explosion, qui nous projette quelque chose de lui. M. Bagel surtout paraît l'avoir distingué poursuivant sa marche, mais dépouillé presque entièrement des beaux phénomènes lumineux qui signalent l'arrivée. »
+
+« En tout cas, on doit se féliciter de l'empressement que tant de personnes recommandables ont bien voulu mettre à fournir des renseignements. Avec un pareil concours, on peut espérer parvenir à percer un peu le mystère des phénomènes cosmiques dont le bolide du 14 mai a été l'une des plus brillantes manifestations. »
+
+_M. Lespiault, à Nérac (Lot-et-Garonne)._ (Lettre de M. Lespiault, professeur à la Faculté des Sciences de Bordeaux, son frère, à M. Le Verrier, en date du 29 mai.)
+
+« _Direction : ouest 1/4 nord-ouest à est 1/4 sud-est._ --- Le bolide a paru à 5 degrés environ au sud de Pollux, s'est élancé rapidement du côté du zénith, a passé à quelques degrés de ce point, en longeant la Grande Ourse, a traversé le Bouvier entre Arcturus et ε, au quart de la distance d'ε, et a éclaté près de la Balance, à 15 degrés environ nord de Jupiter et à 25 degrés de l'horizon. »
+
+« Son aspect était celui d'une énorme fusée. La traînée lumineuse qu'il laissait derrière lui est comparée à celle que laisse une allumette phosphorique frottée sur un mur. Un nuage d'un blanc cendré s'est formé entre le zénith et le point où le bolide à fait explosion et a persisté pendant huit ou dix minutes. Sa grandeur apparente était de 12 degrés de long sur 2 degrés de large ; il s'est divisé en deux, s'est aggloméré de nouveau, puis a disparu. »
+
+« L'intervalle de temps écoulé entre l'explosion et le bruit perçu de la détonation a été évalué à trois minutes exactement. Ce bruit est comparé à celui d'un coup de canon suivi d'un roulement prolongé pendant deux ou trois minutes. »
+
+_M. Bagel, agent-voyer en chef à Montauban._ (Lettre de M. Lespiault à M. Le Verrier, du 29 mai.)
+
+« _Direction du nord-ouest au sud-est, passant à 10 degrés du zénith._ --- Un croquis de M. Bagel, qui a observé le phénomène du balcon du Cercle de l'Agriculture, accompagne sa Note, et montre que le météore a croisé le méridien du côté du sud. Le point où l'explosion a eu lieu y est indiqué, mais malheureusement il paraît difficile de mettre d'accord le texte de la Lettre avec les indications du croquis, peut-être par suite d'une erreur de copie. »
+
+« M. Bagel compare la lumière du bolide à une flamme de Bengale assez intense pour éclairer la ville et les environs. Cette lumière, d'abord légèrement rouge, passa au jaune blanc, diminua d'éclat un peu avant l'explosion, qui produisit l'effet d'un magnifique bouquet d'artifice, blanc au centre, légèrement orangé sur les bords. Les éclats en sont projetés dans tous les sens, puis le bolide presque éteint, ayant repris une teinte rougeâtre, continue sa route et reste visible sur un arc assez étendu. »
+
+« Le bolide laissait une traînée lumineuse derrière lui jusqu'à l'instant de l'explosion, où s'est formé un nuage qui a duré dix minutes. »
+
+« L'intervalle de temps écoulé entre l'explosion et le bruit perçu de la détonation à été évalué à quatre-vingts secondes. »
+
+_M. Lajous, à Rieumes (Haute-Garonne)._ (Lettre du 26 mai à M. Petit.)
+
+« D'après les indications recueillies par M. Lajous dès la soirée du 14 et auprès de personnes dignes de foi, deux des directions où a été vu le bolide sont nettement définies par leurs coordonnées azimutales : la première, par un azimut de 24 degrés du nord à l'ouest, et une hauteur apparente de 22 degrés ; et la seconde, qui aboutissait au point où a eu lieu l'explosion, par un azimut de 25 degrés du nord à l'est, et une hauteur apparente de 16 1/2 degrés. Le temps pendant lequel le bolide a parcouru la distance des deux points observés a été évaluée à 3 secondes, et le bruit a été entendu trois minutes environ après l'explosion. »
+
+« M. Lajous indique aussi très-exactement la position géographique et l'altitude du lieu de la station de l'observation. »
+
+« Longitude, 1° 13′ à l'ouest du méridien de Paris.  
+Latitude, 43° 24′.  
+Altitude, 285 mètres. »
+
+_M. Pauliet, régent de Mathématiques à Montauban._ (Lettres du 15 et du 26 mai à M. Petit.)
+
+« Le bolide a été vu d'abord dans la direction du sud-ouest ; après avoir traversé la constellation du Lion, il a passé à gauche (à l'est) de Saturne et de l'Épi de la Vierge, et a éclaté un peu au-dessous de Jupiter. Il a atteint sa plus grande intensité dans le voisinage de Saturne et de l'Épi. Son diamètre et son éclat surpassaient celui de la Lune en plein. Il semblait animé d'un mouvement rapide de rotation et l'on entendait un bruit (une crépitation) semblable à celui de plusieurs fusées. »
+
+« Il a éclaté comme un bouquet d'artifice en produisant une poussière étincelante, puis un nuage de vapeurs ou de fumée resté visible pendant une demi-heure. »
+
+« L'intervalle de temps écoulé entre cette explosion et le bruit qu'elle a produit a été évalué à une ou deux minutes. Ce bruit s'est prolongé et pouvait être comparé aux roulements du tonnerre. »
+
+_M. Jacquot, Ingénieur en chef des mines à Bordeaux, en tournée à l'Isle-Jourdain, le 14 mai._ (Lettre à M. Daubrée, datée du 28 mai.)
+
+« _Direction au nord de l'Isle._ --- Trajectoire presque horizontale embrassant une vaste étendue dans la direction presque exacte de l'ouest vers l'est, un peu nord. »
+
+« Le globe incandescent projetait une vive lumière et était suivi d'une longue traînée d'étincelles. Il éclata et se divisa en un grand nombre de fragments comme une fusée d'artifice. L'illusion était complète. Le météore avait une grande vitesse, mais il laissait, comme trace de son trajet, un léger nuage qui persista pendant plus d'un quart d'heure, se détachant en gris clair sur le fond parfaitement pur de l'atmosphère. »
+
+« C'est tout au plus trois ou quatre minutes après l'explosion qu'on a perçu un bruit sourd ayant quelque analogie avec le grondement du tonnerre dans le lointain, ou mieux encore avec celui qui résulte du roulement, sur une chaussée, d'une diligence lancée au trot, pour un observateur placé à quelque distance. »
+
+_M. Paructeau-Léon, notaire à Cierp (canton de Saint-Béat)._ (Lettres à M. Petit, du 15 et du 25 mai.)
+
+« Le météore a pris naissance à l'ouest pour mourir à l'est en coupant, à peu près à angle droit, le méridien de Cierp. Son diamètre apparent était à peu près celui de la Lune. »
+
+« On aurait entendu trois détonations, deux ou trois minutes après sa disparition. Une traînée de fumée grise est restée sur la ligne parcourue par le météore. Cette fumée, plus lourde que l'air ambiant, s'est laissée tomber dans la nuit et s'est mêlée avec l'atmosphère qui, le lendemain, s'est maintenue poudreuse au nord de Cierp. »
+
+_M. Saint-Amans, au château de Saint-Amans, près Puymirol (Lot-et-Garonne)._ (Lettre à M. Petit, du 15 mai.)
+
+« _Direction du nord-ouest au sud-ouest._ --- Le globe, de la grosseur d'une bombe, se mouvait avec rapidité par un temps calme et serein ; il était suivi d'une assez longue flamme, lançait de vives étincelles de diverses couleurs et semblait passer en sifflant assez près de la Terre. Il laissait après lui dans l'espace comme une trace ignée, souvent interrompue par de violents tourbillons de vapeurs. Il aurait traversé le vallon de Castelcullier comme la foudre, en laissant après lui une odeur pénétrante de soufre. La durée de son apparition a été tout au plus de quelques secondes, et après sa disparition on ne tarda pas à entendre une forte détonation. »
+
+« Le lendemain, il y avait un brouillard épais qui a duré presque toute la journée. »
+
+_M. Laurentie, à Pontlevoy (Loir-et-Cher)._ (Lettre à M. Grimaud, de Caux, du 26 mai.)
+
+« La direction du météore était du nord-ouest au sud-est, ou plutôt au sud-sud-est ; son point de départ a paru être à une hauteur de 50 degrés. La trajectoire du météore était rectiligne, son éclat était considérable ; il éclairait l'intérieur des habitations. Son diamètre apparent était celui de la pleine Lune ; sa vitesse était moindre que celle d'une étoile filante : toutefois la durée de son apparition ne fut pas de plus de cinq à six secondes. Le météore allait grossissant, et avant de toucher l'horizon, à une hauteur d'environ 10 degrés, il laissa échapper comme une gerbe d'étincelles brillantes. L'observateur s'attendait à entendre le bruit d'une détonation ; cela n'arriva pas. »
+
+_M. Cruzel. --- Extrait de la Gironde du 18 mai, par M. Lespiault._
+
+« M. Cruzel gravissait la côte de Tombebœuf, près Miramont, quand il aperçut le bolide. Il observait encore le sillage blanc que le météore avait laissé derrière lui, quand, au bout de deux minutes et demie, il entendit une double détonation, dont il compare le bruit à celui que produirait l'explosion d'une mine chargée de plusieurs livres de poudre. »
+
+« La trajectoire venant de l'ouest-nord-ouest passait au-dessus de la constellation du Lion, à gauche de Saturne et de l'Épi de la Vierge, dont elle s'éloignait de quelques degrés ; elle s'avançait ensuite vers Jupiter. La partie la plus lumineuse (du nuage blanc) était entre Saturne et l'Épi. »
+
+_Extrait d'un journal de Périgueux._
+
+« Le samedi 14 mai, à _Ichoux_ (Landes), vers 8 heures, un globe de feu détaché du ciel et descendant perpendiculairement vers la Terre fit entendre dans sa course trois détonations. Son disque allongé laissait une longue et large traînée moins vive. Toute la contrée a été illuminée. La durée du phénomène a été de quelques secondes. On a cru à la chute d'un aérolithe. Le même bolide, qui avait été vu à Périgueux, l'a été également à _Vérazeil_ ; sa direction était celle de l'ouest à l'est. On a entendu trois détonations semblables au bruit de la foudre. »
+
+Madame la marquise DE PUYLAROQUE, à Beaudanger, commune de Nohic. 
+(Lettre du 1°° juin, à M. Petit.) 
+
+« Au moment où dut avoir lieu la chute des météorites, je me vis, dit 
+madame la marquise, tout entourée de feu ; l'habitation semblait au milieu 
+d'une fournaise. C'était absolument une bombe qui éclate et jette çà et là 
+des étincelles. Une barre de feu parfaitement droite, qui dura deux minutes, 
+se forma à la suite de cette bombe grosse comme la tête, qui devint sombre 
+et abandonnait des flocons nuageux qui se roulaient les uns avec les autres. 
+Cela descendit insensiblement vers l'horizon, et environ quatre minutes 
+après on entendit un roulement qui ressemblait à celui d'armes à feu qui 
+se répondent sans cesse et qui dura de deux à trois minutes. Plusieurs 
+pierres noirâtres sont tombées, quelques-unes de la grosseur d'un œuf, 
+une assez grosse sur la limite de la commune et qui laissa sur la route sa 
+trace, formant comme un gros nid d'oiseau. La plus belle est tombée sur 
+la propriété que nous habitons; elle pèse » kilogrammes. » 
+
+Mer L'Évèque de Montauban. (Lettre du 3 juin, à M. Daubrée.) 
+
+« J'ai vu l'éclair très-blanc, trés-vif, mais plus doux qu'un éclair ordi- 
+naire ; aussi a-t-il attiré tout de suite mon attention, ainsi que celle des per- 
+sonnes qui se trouvaient avec moi. Nous attendions une détonation'; il ny 
+en eut point, à proprement parler; mais on entendit bientôt, à l'ouest, un 
+fort roulement comme un feu de peloton qui se serait passé à quelque 8 ou 
+10 kilomètres : il dura plusieurs minutes et semblait aller alternativement 
+du sud-ouest vers le nord , et réciproquement. 
+
+» On a ramassé des aérolithes à Monthéqui, commune de Grisolles, à 
+l'ouest de Montauban ; à Campsas, à l'est de Monthéqui, dont il est éloigné 
+de 7 à 8 kilomètres; à Orgueil et à Nohic, à 8 ou 10 kilomètres de Campsas. 
+Il ya donc une ligne de 15 à 18 kilomètres, courant de l'ouest à l'est; qui 
+a été parcourue par les éclats du météore. » 
+
+M. Tricer, au Mans. (Lettre du 3 juin, à M. Daubrée.) 
+
+« Le 14 mai, au moment où 8 heures venaient de sonner comme répé- 
+tition à la cathédrale, j'ai vu directement au sud comme une fusée d'un 
+grand diamètre, allant presque en ligne droite de l'ouest à l'est, et s'avan- 
+çant lentement vers l'horizon, sous un angle qui atteignait à peine 20 degrés. 
+La durée du phénomène fut de quelques secondes. Le météore avait une 
+couleur rougeâtre semblable à celle des fusées ordinaires, dont il ne diffé- 
+rait que par un plus grand volume; il était suivi d'une longue traînée de 
+lumière : son aspect est resté le même depuis son apparition jusqu'à sa dis- 
+parition. L'explosion n'a été ni vue ni entendue. » 
+
+M. Hewvs, à Vannes (Morbihan). (Lettre à M. Le Verrier, du 31 mai.) 
+
+« Direction. --- Le météore a paru tomber dans la direction du sud-sud- 
+ouest ; la durée de sa chute a été évaluée à cinq ou six secondes. Il a disparu 
+avant d'atteindre l'horizon, avec lequel il formait un angle de 65 degrés. 
+Il pouvait avoir 1 décimètre de diamètre : on eüùt dit un bloc métallique en 
+fusion. Il présentait diverses couleurs : du rouge, du blanc et du vert 
+violacé. Aucune détonation n'a été entendue. L'observateur a cru que la 
+chute avait eu lieu en mer. » 
+
+» Le météore a encore été vu à Layrac, à Saint-Gaudens, à Angoulème, 
+à Périgueux, à Cognac, à Saintes, à Tulle et sur plusieurs autres points des 
+départements de la Charente, de la Corrèze et du Puy-de-Dôme. 
+
+» À Layrac, les habitants disent l'avoir vu au-dessus de leurs têtes. 
+
+» Le journal l'Indépendant du 21 mai rapporte qu'à Saintes la direction 
+du bolide était de l'ouest-sud-ouest à l'est-nord-est et passant par les 
+constellations du Lion, de la Vierge et de la Balance. La trainée de sa lu- 
+mière était splendide. Il descendait assez lentement, du moins en appa- 
+rence, vers l'horizon où il a éclaté sans détonation et avec une vaste lueur 
+rougeâtre, due peut-être à la brume. Le diamètre apparent du bolide est 
+estimé à la moitié de celui de la Lune. 
+
+» Dans le Corrézien, il est dit qu'à Tulle le météore se dirigeait du nord 
+au sud en grossissant progressivement, et qu'après ? roir acquis un volume 
+considérable et jeté une lumière des plus vives, il s'est divisé en trois parties 
+qui ont disparu en se prolongeant dans des directions différentes et se diri- 
+geant vers la Terre. | 
+
+» De Napoléon-Vendée, le 27 mai, M. Bouchet, docteur en médecine, 
+écrit à M. Daubrée que le 14 courant un grand nombre de personnes ont 
+vu une boule de feu traînant après elle une longue queue lumineuse, et 
+qu'elles ont entendu une détonation suivie d'un bruit sourd et prolongé. 
+' . . . , . 
+On parle de trois aérolithes, mais personne ne peut dire d'une manière 
+positive en quel lieu ils seraient tombés. 
+
+» À Paris, un habitant de la rue des Feuillantines aurait vu un globe de 
+feu au-dessus et à droite de l'Observatoire s'avancer lentement vers l'est 
+en s'abaissant vers l'horizon et en suivant une trajectoire rectiligne. Le 
+bolide, d'abord parfaitement rond, de la grosseur de la Lune, aurait brusque- 
+ment changé de figure au milieu de son parcours et aurait éclaté. Il sem- 
+blait suivi d'une traînée lumineuse, mais formée de fragments distincts sem- 
+blables à de grosses étincelles. Il aurait paru à 15 degrés au-dessus de 
+l'horizon et à 60 degrés environ dans l'ouest et aurait disparu à peu près 
+au méridien. On eût dit qu'il était tombé derrière les fortifications. 
+
+» Enfin, d'aprèsune Lettre de M. Payen, architecte à Santander (Espagne), 
+le bolide du 14 mai a été vu dans cette contrée. C'était une grande lueur 
+rougeâtre qui a semblé disparaître dans la mer. 
+
+» Nous terminerons ces citations par quelques nouveaux renseignements 
+relatifs à la chute des météorites qui a suivi l'apparition du bolide du 14 mai. 
+
+M. LeymrRie, Toulouse. (Lettre du ro juin à M. Daubrée.) 
+
+« Permettez-moi d'insister sur ce point, que toutes les pièces séparées 
+que j'ai pu voir (au nombre de 10) avaient chacune une forme bien accusée 
+et enveloppée partout de vernis. Il est évident pour moi que toutes ces 
+pièces étaient agglomérées et serrées l'une contre l'autre, une seule masse, 
+un essaim, comme dirait M. Haidinger. Après l'explosion, il y a eu sépara- 
+tion et dispersion et non fracture, Il est probable que la masse s'est divisée 
+d'abord en deux parties dont les pièces, en se désunissant ensuite, ont formé 
+les averses d'Orgueil et de Campsas. 
+
+» Les pièces séparées étaient brülantes en arrivant au sol. Je tiens d'un 
+témoin digne de foi que l'une d'elles est tombée dans le grenier d'un paysan 
+qui s'est brülé la main en voulant la saisir. D'un autre côté, un lopin tombé 
+sur un gazon trés-vert l'a fortement froissé et jauni tout autour. 
+
+» Il paraît qu'à Campsas les pierres sont arrivées très-obliquement. On 
+a remarqué que l'une d'elles en agissant par compression sur un sol humide 
+y avait formé une empreinte bordée du côté de l'est par un bourrelet saillunt, 
+comparable à celui que forme le fer d'un cheval lorsqu'il comprime la vase 
+dans le sens de la marche. » 
 
 ---
 
