@@ -1,6 +1,6 @@
 # Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
-## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie, Laussedat, Bourrières, Brongniart, Le Verrier.
+## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie, Laussedat, Bourrières, Brongniart, Le Verrier, Lespiault, Paquerée.
 
 ### _Comptes Rendus_, séances des 16, 23 et 30 mai, 13, 20, 27 juin, 11 juillet et 14 novembre 1864.
 
@@ -21,6 +21,8 @@
 # [Observation sur la présence de la breunnérite dans la météorite d'Orgueil.](#observation-sur-la-présence-de-la-breunnérite-dans-la-météorite-dorgueil-1)
 
 # [Dosage de l'acide carbonique contenu dans la météorite d'Orgueil.](#dosage-de-lacide-carbonique-contenu-dans-la-météorite-dorgueil-1)
+
+# [Météore lumineux observé à Castillon (Gironde).]()
 
 # [Observation d'un météore lumineux à Agen (Lot-et-Garonne).]()
 
@@ -320,11 +322,33 @@ Eau et matières supposées organiques.|13,89||
 
 ---
 
+# Météore lumineux observé à Castillon (Gironde).
+
+## Lettre de M. Paquerée.
+
+« Castillon-sur-Dordogne, 15 mai 1864. »
+
+« Hier samedi 14 mai, à 8 heures du soir, un splendide météore s'est montré à nous dans le voisinage de la lune, à 2 degrés environ au nord de ce satellite, qui était alors à peu près au méridien. Il s'est dirigé vers l'est, avec une légère inclinaison vers le nord. Son apparition a duré environ 5 secondes, pendant lesquelles il a parcouru un arc de plus de 60 degrés. Il a enfin éclaté en étoiles et a disparu à nos yeux. »
+
+« La grosseur apparente du météore a progressivement augmenté. Au moment où il allait disparaître, son diamètre semblait égaler, au moins, la moitié de celui de la lune. Au commencement, sa lumière avait une teinte d'un bleu verdâtre, puis elle est devenue blanche, et a brillé alors d'un tel éclat, que les personnes mal placées pour voir directement le météore ont cru voir le reflet d'un éclair vif et prolongé ; sa couleur enfin est devenue comparable à celle de la planète Mars. Cette dernière couleur trouve son explication dans une brume assez intense qui régnait alors et a dû absorber les rayons complémentaires du rouge, au moment où, le météore s'approchant de l'horizon, la lumière qu'il émettait l'a traversé sous un angle de plus en plus aigu. »
+
+« La trace lumineuse laissée par le météore a disparu après quelques instants, peut-être par suite du demi-jour que nous donnaient à la fois la lune et le crépuscule. »
+
+---
+
 # Observation d'un météore lumineux à Agen (Lot-et-Garonne).
 
 ## Extrait d'une Lettre de M. Bourrières à M. Daubrée.
 
-...
+« Agen, 15 mai 1864. »
+
+« Hier au soir, à 8 heures, un météore lumineux d'une très-grande puissance a passé au-dessus de la ville d'Agen, c'est-à-dire un peu au sud et ayant la direction de l'ouest à l'est ; il a pris naissance un peu au-dessus de l'horizon, a parcouru un cercle de 120 degrés environ, puis s'est éteint. Nous avons été éblouis par une vive lumière, et nous avons vu un globe de feu de 0,25 m. à 0,30 m., d'une couleur blanche légèrement teintée de jaune, traversant le ciel, et ayant une marche que je comparerai à celle d'une fusée de moyenne vitesse, l'intensité de clarté allant en augmentant jusqu'au moment où, arrivé à l'extrémité de sa course, il a produit une vive flamme blanche légèrement bleuâtre, semblable à la lumière électrique. Ce globe de feu s'est divisé en trois globes plus petits qui ont brillé quelques instants, comme les étoiles lancées par une fusée, et tout a disparu. Cependant nous avons remarqué encore longtemps la petite traînée blanche, comme de petits nuages cotonneux, sur tout le parcours du météore. »
+
+« J'étais surpris de ne pas entendre d'explosion, lorsque, environ deux ou trois minutes après la disparition du météore, nous avons entendu un grondement de tonnerre assez violent qui a duré l'espace de trente secondes environ. »
+
+« Ce phénomène s'est produit par un temps et un ciel très-clairs ; il n'existait pas de nuages dans le ciel ; la lune, n'étant qu'au premier quartier, éclairait peu, ce qui a contribué au brillant effet de ce météore, circonstance qui ne se remarque pas lorsque son passage a lieu pendant le jour. Nous avions eu des orages assez violents avec pluie et vent le mercredi et le jendi ; le vendredi le temps s'était un peu calmé, et le samedi la journée avait été fort belle, le soleil très-chaud et lourd ; cependant, dans la soirée, le ciel s'était parfaitement nettoyé. »
+
+« On n'a signalé à ma connaissance aucune chute d'aérolithe. »
 
 ---
 
@@ -332,7 +356,81 @@ Eau et matières supposées organiques.|13,89||
 
 ## Par Mm. Brongniart, Le Verrier, Daubrée.
 
-...
+_Communication de M. Brongniart._
+
+« M. Brongniart étant à la campagne à Bezu-Saint-Éloi, près Gisors (Eure), a pu observer ce météore dans les conditions suivantes : »
+
+« Entre 7 heures 50 minutes et 8 heures du soir, dans la direction sud, un peu vers l'ouest, est apparu un météore lumineux très-brillant et d'un diamètre apparent assez considérable. Il n'était élevé que d'environ 10 à 15 degrés au-dessus de l'horizon, se dirigeait obliquement en formant un angle d'environ 20 à 25 degrés avec l'horizon, derrière lequel il a bientôt disparu ; il était entouré d'un nuage lumineux et suivi d'une sorte de queue lumineuse qui disparaissait promptement. »
+
+_Communication de M. Daubrée, d'après sa correspondance et celle de M. Le Verrier._
+
+« Le brillant météore qui a été observé le 14 mai, vers 8 heures du soir, sur une grande étendue de la France, a été l'objet de diverses communications, adressées à l'Académie des Sciences et à M. le Directeur de l'Observatoire impérial. Les passages principaux de ces Lettres sont reproduits ci-après et font suite aux deux Lettres d'Agen et de Bordeaux qui ont figuré dans le _Compte rendu_ de la séance précédente. On a commencé par les localités les plus voisines du passage du météore et de son explosion finale. »
+
+« Les circonstances que signalent ces différentes Lettres sont remarquablement concordantes quant aux faits principaux ; elles diffèrent pour les détails, comme pour les estimations numériques, ce qui s'explique par la courte durée du phénomène et la surprise qu'il a nécessairement produite chez ceux qui en ont été témoins. »
+
+« Il y a notablement une circonstance sur laquelle il ne peut exister de doute, c'est le long intervalle écoulé entre l'explosion visible du météore et la perception du bruit qui en a été la conséquence. Cet intervalle a été signalé à Saint-Clar (Gers) de deux minutes, à Agen de trois à quatre minutes, à Astaffort (Lot-et-Garonne) de quatre minutes. A raison d'une vitesse du son de 333 mètres par seconde, un intervalle de deux minutes seulement correspondrait à une distance de 40 kilomètres. En réduisant convenablement cette distance pour les localités où l'explosion a eu lieu au zénith, on voit que le phénomène se serait néanmoins passé à une hauteur ou l'air est excessivement raréfié. Or, pour qu'une explosion produite dans des couches d'air aussi raréfiées ait donné lieu à la surface de la Terre à un bruit d'une pareille intensité, et sur une étendue horizontale si considérable, il faut admettre que sa violence dans les hautes régions dépasse tout ce que nous connaissons. »
+
+« L'observation de Gisors (Eure), due à M. Brongniart, est la plus septentrionale qui nous soit parvenue jusqu'à présent. Il résulte de la communication de M. Brongniart, entre autres documents utiles, que le météore a disparu sous l'horizon du lieu avant d'éclater, et cependant on ne saurait douter que ce soit bien le même phénomène. Ce fait aussi peut fournir une limite supérieure de la hauteur qu'occupait le météore au-dessus du sol, au moment où il à fait son explosion finale. En faisant abstraction de la réfraction atmosphérique dans un calcul qui ne peut être que grossièrement approximatif, on trouve que cette hauteur serait de 30 kilomètres environ. »
+
+« A la suite de ce splendide phénomène lumineux, il y a eu chute de pierres météoriques, et ici, comme d'ordinaire, le corps, qui avait manifesté son arrivée par une lumière et par un bruit si imposants, s'est borné à laisser tomber sur notre globe des éclats d'un volume insignifiant, quelques décimètres de diamètre, comme les choses se passeraient si la plus grande partie de la masse météorique ressortait de l'atmosphère pour continuer son orbite, n'abandonnant que quelques parcelles dont la vitesse, à la suite de l'explosion, se serait trouvée amortie. »
+
+« On a recueilli des aérolithes entre Orgueil et Nohic, à 18 kilomètres de Montauban, et dans d'autres localités voisines. Il paraîtrait même, d'après certains renseignements, qu'il en serait tombé, au même instant, dans d'autres régions de la France. L'examen de ces masses sera l'objet d'une communication ultérieure, quand on aura pu examiner les échantillons qui vont sans doute être adressés au Muséum d'Histoire naturelle. Les personnes qui possèdent des fragments de ces aérolithes et qui voudraient bien s'en dessaisir en faveur de la collection spéciale de ces masses que l'on forme au Muséum, dans la galerie de Géologie, où toutes les pierres de différentes chutes peuvent être rapprochées et comparées, rendront service à la science en même temps qu'à notre principale collection nationale. »
+
+_Lettre de M. Vidaillet à M. Le Verrier._
+
+« Nérac, 15 et 16 mai 1864. »
+
+« Hier au soir, vers les huit heures, nous avons vu passer sur Nérac un phénomène céleste que je juge être un corps sidéral, un aérolithe probablement. Il était très-lumineux. Quatre ou cinq minutes après son passage sur notre horizon, nous avons entendu le bruit d'une très-forte détonation accompagnée d'un sourd et sinistre grondement simulant celui du tonnerre, qui a duré une minute à peu près ; si, comme tout l'annonce, un astéroïde est tombé sur le sol, il y est arrivé, d'après mes calculs, à la distance de douze ou quinze lieues d'ici, dans le champ du triangle formé par les villes d'Agen, Auch et Montauban. »
+
+« Peu après son passage sur la ville de Nérac (environ quelques minutes), il poursuivait sa course en vue d'Agen ; il a apparu aussi à Montauban, où, d'après une dépèche télégraphique, on a entendu le bruit de l'énorme explosion que j'ai signalée hier, une centaine de secondes après que cette détonation avait frappé nos oreilles ici, ce qui prouverait qu'elle a eu lieu sur un point sensiblement plus rapproché de cette dernière ville (Montauban) que de Nérac, et, par conséquent, approximativement analogue à celui que j'avais supposé hier. Même éclat, même détonation se sont produits, à ce qu'on raconte, à 12 kilomètres de Nérac, d'où il se précipitait vers Nérac en suivant la direction du nord-ouest au sud-est. En ce cas ne pourrait-on pas admettre qu'il y a déjà eu deux chutes partielles du bolide avant son arrivée sur l'horizon de Montauban, et ne serait-il pas difficile d'expliquer autrement cette double détonation si extraordinairement bruyante ? »
+
+_Lettre de M. d'Esparbès à M. Le Verrier._
+
+« Saint-Clar (Gers). »
+
+« A 8 heures 13 minutes du soir, un effet de lumière prodigieux est venu inonder la ville. Chacun a cru se trouver au milieu des flammes. Cet effet a duré environ cinquante secondes ; il a été produit par quelque chose de la grosseur à peu près de la Lune au plein, qui s'est dirigé comme une étoile filante, laissant à sa suite une traînée de feu légèrement bleuâtre. Cette traînée à disparu aussi peu à peu, et le ciel est redevenu serein ; cependant, dix minutes après, ça produisait encore l'effet d'un long nuage fixe. »
+
+« Deux minutes environ après ce résultat de lumière électrique produit, une détonation comparable au bruit d'une pièce de canon, se prolongeant de quatre-vingts à cent secondes, s'est fait entendre. »
+
+« Il faisait une délicieuse soirée du mois de mai. Le temps était superbe. »
+
+_Lettre de M. P. de Lafitte à M. Le Verrier._
+
+« Astaffort (Lot-et-Garonne), le 16 mai 1864. »
+
+« A 8 heures et quelques minutes du soir, j'étais dans mon jardin. Une très-vive clarté, très-blanche, m'a entouré subitement. Je levai la tête, et, deux ou trois secondes après, je vis apparaître le météore au-dessus d'un massif d'ormeaux ; je le suivis dans la direction du sud-est, où il alla s'éteindre à environ 30 degrés au-dessus de l'horizon. Il laissa sur sa route et bien au-dessus de lui un petit nuage blanc très-éclatant. »
+
+« Il vous est sans doute arrivé d'observer un petit jet instantané de vapeur et de fumée projeté par un morceau de bois brûlant dans la cheminée. C'est exactement l'effet que m'a produit l'émission du petit nuage, et deux ou trois secondes après le météore s'est éteint, non comme une bombe qui éclate, mais comme une lampe qui s'éteint ; vif accroissement de lumière blanche, remplacée par un globe terne et rougeâtre, puis plus rien. »
+
+« Le petit nuage avait alors des contours très-arrêtés, comme au moment de sa formation, et un ruban qui lui serait semblable et qui aurait 3 mètres de long aurait à peu près 20 centimètres de large. J'ai à cet instant regardé ma montre pour voir le temps qu'il durerait : il a commencé par onduler un peu, puis les contours se sont agrandis en largeur en perdant de leur netteté, et, prévoyant qu'il disparaîtrait insensiblement, je ne m'en suis plus occupé. »
+
+« Lorsque s'est produit le bruit détonant dont parle la note du journal, j'ai regardé de nouveau ma montre : il y avait un peu moins, mais très-près de quatre minutes que je l'avais regardée la premiere fois, et j'estime que c'est un peu plus de quatre minutes que le bruit de l'explosion a mis à nous parvenir. »
+
+« Mon frère, qui était à quelques pas de moi vers le nord-ouest, l'a vu en même temps, et il lui a paru passer entre nous deux ou très-sensiblement à notre zénith. »
+
+« Il me semble que pour accorder les directions observées, il faudrait admettre que, au moment de l'émission du petit nuage, le météore a fait un crochet et subi une déviation. »
+
+_Lettre de M. Bergé, curé à la Magdelaine, communiquée par M. le Maréchal Vaillant._
+
+« Je ne sais si vous avez appris qu'un aérolithe est tombé dans notre contrée, samedi dernier, 14 du courant, à 8 heures précises du soir. Il a jeté une lumière si vive, que nous nous sommes tous vus entourés de feu, et nous avons cru, dans notre surprise, à quelque cataclysme. Ce météore a été vu dans plusieurs départements. Jugez de sa beauté, de son éclat et de sa grosseur. D'abord globe de feu gros comme le disque de la Lune, et silencieux comme elle, il s'est ensuite ouvert en gerbe ou en bouquet de fusées répandant des milliers d'étincelles, et marchant toujours. Puis il a disparu laissant un nuage de fumée qui a demeuré longtemps suspendu dans les airs, à la même place. Il ne faisait point de vent. »
+
+« Après sa chute, et pendant cinq ou six minutes, on a entendu un grand bruit, pareil à de fortes détonations d'artillerie lointaines, répétées et prolongées, ou à un tremblement de terre. On a même cru généralement, dans le premier moment, au tremblement de terre. Aussi tout le monde était-il dans la stupeur et la consternation. »
+
+_Lettre de M. Béraul à M. Le Verrier._
+
+« Gouzon (Creuze), le 16 mai 1864. »
+
+« J'étais sur la route départementale n° 9 de Gouzon à Boussac, à 1 kilomètre d'ici, lorsque mon attention fut attirée par une lueur soudaine, quoique faible. En levant les yeux j'aperçus une traînée de feu dans l'air. »
+
+« La longueur du feu paraissait de plus de 1 kilomètre et de 1 mètre de diamètre. Quand le météore s'éteignit, il y eut comme une explosion avec un pétillement d'étincelles formant étoiles de feu comme dans les fusées d'artifice ; la Lune se voyait à notre gauche, à une distance égale à la longueur de la fusée. »
+
+_Lettre de M. Jollois à M. Le Verrier._
+
+« Blois, le 20 mai 1864. »
+
+« Le 14 mai 1864, à 8 heures 8 minutes du soir, temps moyen (heure exacte à une minute près ou deux au plus), j'ai vu un brillant météore dans la direction du sud-sud-ouest. Il avait l'apparence d'une très-forte fasée d'artifice, et se mouvait assez lentement en s'abaissant vers l'horizon, suivant une direction inclinée de 25 degrés environ avec l'horizon. Je ne l'ai vu que pendant quelques secondes. Son éclat et sa couleur ont beaucoup varié pendant ce temps. D'abord d'un blanc éclatant, il laissait derrière lui une petite traînée lumineuse. Puis sa couleur devint rouge, et en même temps il lança un grand nombre d'étincelles et disparut dans la direction du sud, derrière la colline qui forme la rive gauche de la vallée de la Loire. »
+ 
+« La vitesse apparente du météore, non plus que sa direction, ne parut pas changer pendant le temps que je pus l'observer. »
 
 ---
 
@@ -340,7 +438,87 @@ Eau et matières supposées organiques.|13,89||
 
 ## Par M. Lespiault.
 
-...
+« M. Laussedat a publié dans le Compte rendu du 13 juin dernier une 
+détermination de la trajectoire du bolide du 14 mai, fondée sur l'ensemble 
+des observations qui étaient parvenues à M. Daubrée. Cette détermination 
+repose sur une méthode graphique excellente pour le tracé de la projec- 
+tion horizontale de la trajectoire, mais qui ne me paraît pas susceptible de 
+donner avec la même rigueur la projection verticale. Il est cependant 
+très-important de déterminer aussi exactement que possible les hauteurs 
+auxquelles le bolide a traversé les divers méridiens, à cause des inductions 
+qu'on pourrait en tirer relativement à l'étendue de l'atmosphère. 
+
+» M. Laussedat adopte pour plan fondamental de son tracé un plan pas- 
+sant par Rieumes et par les deux positions qu'a indiquées M. Lajous comme 
+appartenant à la trajectoire. Cette méthode a l'inconvénient d'attribuer une 
+importance trop exclusive à l'une des observations, et cet inconvénient est 
+ici d'autant plus sensible que M. Lajous n'a pas été lui-même témoin: du 
+phénomène et n'a fait que recueillir les indications de personnes dignes de 
+foi. (Voir la lettre de M. Lajous à M. Petit.) La hauteur de 16°30', attri- 
+buée au point d'explosion, me parait en particulier beaucoup trop faible, 
+car elle ne peut se concilier avec les angles beaucoup plus considérables 
+observés à Astaffort, à Nérac, à Agen et sur tout le parcours du bolide. J'en 
+dirai autant de l'observation de M. Pauliet, qui place le point d'explosion 
+vu de Montauban au-dessous de Jupiter, c'est-à-dire presque à l'est et à 8 
+ou 10 degrés de hauteur, tandis que M. Bagel indique la direction du sud- 
+ouest, et 7 degrés de hauteur mesurés au théodolite. Je crains d'ailleurs 
+qu'il ne se soit établi quelque confusion entre la trajectoire indiquée par 
+M. Pauliet à M. Petit, et celle que M. Cruzel a envoyée à la Gironde du 
+18 mai, comme l'ayant cbservée à Tombebœuf. Les deux relations coin- 
+cident en effet dans les moindres détails, et bien qu'une trajectoire très-in- 
+clinée ait pu se projeter en partie pour les deux stations sur les mêmes 
+étoiles, comment concevoir que l'explosion ait paru à Montauban se pro- 
+pi HET de Jupiter, quand à Nérac on la voyait 15 degrés au- 
+essus? 
+
+» Les observations de M. Lajous et de M. Pauliet sont cependant les seules 
+qui aient porté M. Laussedat à adopter 15 à 20 kilomètres pour la hau- 
+teur du point d'explosion. Les observations combinées de Nérac, d'Astaf- 
+fort et de Montauban m'avaient donné de 29 à 32 kilomètres {Bulletin de 
+l'Observatoire des 11 et 14 juin). Les nouveaux renseignements qui me sont 
+parvenus depuis cette époque, et en particulier les Lettres insérées dans le 
+Compte rendu du. 13 juin, me confirment dans mon Opinion et me porte- 
+raient plutôt à augmenter cette hauteur qu'à la diminuer. Voici, en effet, le 
+tableau comparé des angles observés à diverses stations et des angles cal- 
+culés d'après des hauteurs supposées de 15, 20 et 30 kilomètres. 
+
+
+DISTANCE ANGLES CORRESPONDANT 
+STATIONS. à la projection 
+du point supposé 
+
+d'explosion. 
+
+
+CT D CT, I 
+à 15 kilomètres | à 20 kilomètres | à 80 kilomètres 
+de hauteur. de hauteur. de hauteur. 
+
+M. Bagel. 
+M. de Lafitte, 
+M. Lespiault. 
+M. Abria. 
+M. Laurentie. 
+
+»- Les mesures de Bordeaux, qui n'ont pas encore été publiées, ont été 
+prises plusieurs fois par M. Abria, d'après ses souvenirs et ceux des per- 
+sonnes qui l'accompagnaient. Quelques autres témoins du phénomène 
+m'ont donné 15 à 20 degrés pour leur estimation. Malgré la tendance 
+générale qui nous porte à exagérer la grandeur des angles à l'horizon, des 
+évaluations aussi considérables restent encore difficiles à expliquer. 
+
+» En admettant 40 kilomètres pour la hauteur du bolide au-dessus d'Or- 
+gueil et 100 kilomètres au méridien de Nérac, la trajectoire entre ces deux 
+points serait inclinée de 4t degrés à l'horizon. Cette inclinaison est, il est 
+vrai, supérieure à celle qu'indiquent MM. Brongniart et Triger, mais elle 
+est inférieure à l'inclinaison de 65 degrés qui résulte de l'observation de 
+M. Hende à Vannes, même en tenant compte des effets de perspective. 
+D'ailleurs, il faut admettre une forte inclinaison pour expliquer comment 
+toutes les trajectoires, indiquées avec une netteté suffisante pour être rap- 
+portées sur un planisphère mobile, divergent rapidement du point de départ 
+au point d'explosion. » 
+
+C. R., 1864, 19° Semestre. (T. LVIII, N° 96.) 158 
 
 ---
 
