@@ -360,7 +360,7 @@ _M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
 « A Ichoux, dans les Landes, on aurait vu le bolide se _détacher_ du ciel et tomber _perpendiculairement_. Cette indication, assez vague en apparence, a peut-être une signification dont on doit tirer parti. Les perspectives de la trajectoire sont extrêmement différentes selon la position du point de vue, et nous avons pensé que l'observation d'Ichoux voulait dire que le plan de la trajectoire passait par le zénith de ce lieu. C'est d'après cette indication que nous avons tracé une troisième ligne intermédiaire qu'il faut peut-être considérer comme représentant jusqu'à présent la trajectoire la plus probable du bolide du 14 mai. »
 
-[Figure.]()
+[Figure.](https://cdn.solaranamnesis.com/Daubree/Orgueil/figure-orgueil.png)
 
 ---
 
