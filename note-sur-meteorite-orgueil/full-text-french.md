@@ -542,127 +542,47 @@ _Extrait d'un journal de Périgueux._
 
 « Le samedi 14 mai, à _Ichoux_ (Landes), vers 8 heures, un globe de feu détaché du ciel et descendant perpendiculairement vers la Terre fit entendre dans sa course trois détonations. Son disque allongé laissait une longue et large traînée moins vive. Toute la contrée a été illuminée. La durée du phénomène a été de quelques secondes. On a cru à la chute d'un aérolithe. Le même bolide, qui avait été vu à Périgueux, l'a été également à _Vérazeil_ ; sa direction était celle de l'ouest à l'est. On a entendu trois détonations semblables au bruit de la foudre. »
 
-Madame la marquise DE PUYLAROQUE, à Beaudanger, commune de Nohic. 
-(Lettre du 1°° juin, à M. Petit.) 
+_Madame la marquise de Puylaroque, à Beaudanger, commune de Nohic._ (Lettre du 1er juin, à M. Petit.)
 
-« Au moment où dut avoir lieu la chute des météorites, je me vis, dit 
-madame la marquise, tout entourée de feu ; l'habitation semblait au milieu 
-d'une fournaise. C'était absolument une bombe qui éclate et jette çà et là 
-des étincelles. Une barre de feu parfaitement droite, qui dura deux minutes, 
-se forma à la suite de cette bombe grosse comme la tête, qui devint sombre 
-et abandonnait des flocons nuageux qui se roulaient les uns avec les autres. 
-Cela descendit insensiblement vers l'horizon, et environ quatre minutes 
-après on entendit un roulement qui ressemblait à celui d'armes à feu qui 
-se répondent sans cesse et qui dura de deux à trois minutes. Plusieurs 
-pierres noirâtres sont tombées, quelques-unes de la grosseur d'un œuf, 
-une assez grosse sur la limite de la commune et qui laissa sur la route sa 
-trace, formant comme un gros nid d'oiseau. La plus belle est tombée sur 
-la propriété que nous habitons; elle pèse » kilogrammes. » 
+« Au moment où dut avoir lieu la chute des météorites, je me vis, dit madame la marquise, tout entourée de feu ; l'habitation semblait au milieu d'une fournaise. C'était absolument une bombe qui éclate et jette çà et là des étincelles. Une barre de feu parfaitement droite, qui dura deux minutes, se forma à la suite de cette bombe grosse comme la tête, qui devint sombre et abandonnait des flocons nuageux qui se roulaient les uns avec les autres. Cela descendit insensiblement vers l'horizon, et environ quatre minutes après on entendit un roulement qui ressemblait à celui d'armes à feu qui se répondent sans cesse et qui dura de deux à trois minutes. Plusieurs pierres noirâtres sont tombées, quelques-unes de la grosseur d'un œuf, une assez grosse sur la limite de la commune et qui laissa sur la route sa trace, formant comme un gros nid d'oiseau. La plus belle est tombée sur la propriété que nous habitons ; elle pèse 2 kilogrammes. »
 
-Mer L'Évèque de Montauban. (Lettre du 3 juin, à M. Daubrée.) 
+_Mgr. l'Évêque de Montauban._ (Lettre du 3 juin, à M. Daubrée.)
 
-« J'ai vu l'éclair très-blanc, trés-vif, mais plus doux qu'un éclair ordi- 
-naire ; aussi a-t-il attiré tout de suite mon attention, ainsi que celle des per- 
-sonnes qui se trouvaient avec moi. Nous attendions une détonation'; il ny 
-en eut point, à proprement parler; mais on entendit bientôt, à l'ouest, un 
-fort roulement comme un feu de peloton qui se serait passé à quelque 8 ou 
-10 kilomètres : il dura plusieurs minutes et semblait aller alternativement 
-du sud-ouest vers le nord , et réciproquement. 
+« J'ai vu l'éclair très-blanc, très-vif, mais plus doux qu'un éclair ordinaire ; aussi a-t-il attiré tout de suite mon attention, ainsi que celle des personnes qui se trouvaient avec moi. Nous attendions une détonation ; il n'y en eut point, à proprement parler ; mais on entendit bientôt, à l'ouest, un fort roulement comme un feu de peloton qui se serait passé à quelque 8 ou 10 kilomètres : il dura plusieurs minutes et semblait aller alternativement du sud-ouest vers le nord, et réciproquement. »
 
-» On a ramassé des aérolithes à Monthéqui, commune de Grisolles, à 
-l'ouest de Montauban ; à Campsas, à l'est de Monthéqui, dont il est éloigné 
-de 7 à 8 kilomètres; à Orgueil et à Nohic, à 8 ou 10 kilomètres de Campsas. 
-Il ya donc une ligne de 15 à 18 kilomètres, courant de l'ouest à l'est; qui 
-a été parcourue par les éclats du météore. » 
+« On a ramassé des aérolithes à Montbéqui, commune de Grisolles, à l'ouest de Montauban ; à Campsas, à l'est de Montbéqui, dont il est éloigné de 7 à 8 kilomètres ; à Orgueil et à Nohic, à 8 ou 10 kilomètres de Campsas. Il y a donc une ligne de 15 à 18 kilomètres, courant de l'ouest à l'est, qui a été parcourue par les éclats du météore. »
 
-M. Tricer, au Mans. (Lettre du 3 juin, à M. Daubrée.) 
+_M. Triger, au Mans._ (Lettre du 3 juin, à M. Daubrée.)
 
-« Le 14 mai, au moment où 8 heures venaient de sonner comme répé- 
-tition à la cathédrale, j'ai vu directement au sud comme une fusée d'un 
-grand diamètre, allant presque en ligne droite de l'ouest à l'est, et s'avan- 
-çant lentement vers l'horizon, sous un angle qui atteignait à peine 20 degrés. 
-La durée du phénomène fut de quelques secondes. Le météore avait une 
-couleur rougeâtre semblable à celle des fusées ordinaires, dont il ne diffé- 
-rait que par un plus grand volume; il était suivi d'une longue traînée de 
-lumière : son aspect est resté le même depuis son apparition jusqu'à sa dis- 
-parition. L'explosion n'a été ni vue ni entendue. » 
+« Le 14 mai, au moment où 8 heures venaient de sonner comme répétition à la cathédrale, j'ai vu directement au sud comme une fusée d'un grand diamètre, allant presque en ligne droite de l'ouest à l'est, et s'avançant lentement vers l'horizon, sous un angle qui atteignait à peine 20 degrés. La durée du phénomène fut de quelques secondes. Le météore avait une couleur rougeâtre semblable à celle des fusées ordinaires, dont il ne différait que par un plus grand volume ; il était suivi d'une longue traînée de lumière : son aspect est resté le même depuis son apparition jusqu'à sa disparition. L'explosion n'a été ni vue ni entendue. »
 
-M. Hewvs, à Vannes (Morbihan). (Lettre à M. Le Verrier, du 31 mai.) 
+_M. Hende, à Vannes (Morbihan)._ (Lettre à M. Le Verrier, du 31 mai.)
 
-« Direction. --- Le météore a paru tomber dans la direction du sud-sud- 
-ouest ; la durée de sa chute a été évaluée à cinq ou six secondes. Il a disparu 
-avant d'atteindre l'horizon, avec lequel il formait un angle de 65 degrés. 
-Il pouvait avoir 1 décimètre de diamètre : on eüùt dit un bloc métallique en 
-fusion. Il présentait diverses couleurs : du rouge, du blanc et du vert 
-violacé. Aucune détonation n'a été entendue. L'observateur a cru que la 
-chute avait eu lieu en mer. » 
+« _Direction._ --- Le météore a paru tomber dans la direction du sud-sud-ouest ; la durée de sa chute a été évaluée à cinq ou six secondes. Il a disparu avant d'atteindre l'horizon, avec lequel il formait un angle de 65 degrés. Il pouvait avoir 1 décimètre de diamètre : on eût dit un bloc métallique en fusion. Il présentait diverses couleurs : du rouge, du blanc et du vert violacé. Aucune détonation n'a été entendue. L'observateur a cru que la chute avait eu lieu en mer. »
 
-» Le météore a encore été vu à Layrac, à Saint-Gaudens, à Angoulème, 
-à Périgueux, à Cognac, à Saintes, à Tulle et sur plusieurs autres points des 
-départements de la Charente, de la Corrèze et du Puy-de-Dôme. 
+« Le météore a encore été vu à Layrac, à Saint-Gaudens, à Angoulême, à Périgueux, à Cognac, à Saintes, à Tulle et sur plusieurs autres points des départements de la Charente, de la Corrèze et du Puy-de-Dôme. »
 
-» À Layrac, les habitants disent l'avoir vu au-dessus de leurs têtes. 
+« A Layrac, les habitants disent l'avoir vu au-dessus de leurs têtes. »
 
-» Le journal l'Indépendant du 21 mai rapporte qu'à Saintes la direction 
-du bolide était de l'ouest-sud-ouest à l'est-nord-est et passant par les 
-constellations du Lion, de la Vierge et de la Balance. La trainée de sa lu- 
-mière était splendide. Il descendait assez lentement, du moins en appa- 
-rence, vers l'horizon où il a éclaté sans détonation et avec une vaste lueur 
-rougeâtre, due peut-être à la brume. Le diamètre apparent du bolide est 
-estimé à la moitié de celui de la Lune. 
+« Le journal _l'Indépendant_ du 21 mai rapporte qu'à Saintes la direction du bolide était de l'ouest-sud-ouest à l'est-nord-est et passant par les constellations du Lion, de la Vierge et de la Balance. La traînée de sa lumière était splendide. Il descendait assez lentement, du moins en apparence, vers l'horizon où il a éclaté sans détonation et avec une vaste lueur rougeâtre, due peut-être à la brume. Le diamètre apparent du bolide est estimé à la moitié de celui de la Lune. »
 
-» Dans le Corrézien, il est dit qu'à Tulle le météore se dirigeait du nord 
-au sud en grossissant progressivement, et qu'après ? roir acquis un volume 
-considérable et jeté une lumière des plus vives, il s'est divisé en trois parties 
-qui ont disparu en se prolongeant dans des directions différentes et se diri- 
-geant vers la Terre. | 
+« Dans _le Corrézien_, il est dit qu'à Tulle le météore se dirigeait du nord au sud en grossissant progressivement, et qu'après avoir acquis un volume considérable et jeté une lumière des plus vives, il s'est divisé en trois parties qui ont disparu en se prolongeant dans des directions différentes et se dirigeant vers la Terre. »
 
-» De Napoléon-Vendée, le 27 mai, M. Bouchet, docteur en médecine, 
-écrit à M. Daubrée que le 14 courant un grand nombre de personnes ont 
-vu une boule de feu traînant après elle une longue queue lumineuse, et 
-qu'elles ont entendu une détonation suivie d'un bruit sourd et prolongé. 
-' . . . , . 
-On parle de trois aérolithes, mais personne ne peut dire d'une manière 
-positive en quel lieu ils seraient tombés. 
+« De Napoléon-Vendée, le 27 mai, M. Bouchet, docteur en médecine, écrit à M. Daubrée que le 14 courant un grand nombre de personnes ont vu une boule de feu traînant après elle une longue queue lumineuse, et qu'elles ont entendu une détonation suivie d'un bruit sourd et prolongé. On parle de trois aérolithes, mais personne ne peut dire d'une manière positive en quel lieu ils seraient tombés. »
 
-» À Paris, un habitant de la rue des Feuillantines aurait vu un globe de 
-feu au-dessus et à droite de l'Observatoire s'avancer lentement vers l'est 
-en s'abaissant vers l'horizon et en suivant une trajectoire rectiligne. Le 
-bolide, d'abord parfaitement rond, de la grosseur de la Lune, aurait brusque- 
-ment changé de figure au milieu de son parcours et aurait éclaté. Il sem- 
-blait suivi d'une traînée lumineuse, mais formée de fragments distincts sem- 
-blables à de grosses étincelles. Il aurait paru à 15 degrés au-dessus de 
-l'horizon et à 60 degrés environ dans l'ouest et aurait disparu à peu près 
-au méridien. On eût dit qu'il était tombé derrière les fortifications. 
+« A Paris, un habitant de la rue des Feuillantines aurait vu un globe de feu au-dessus et à droite de l'Observatoire s'avancer lentement vers l'est en s'abaissant vers l'horizon et en suivant une trajectoire rectiligne. Le bolide, d'abord parfaitement rond, de la grosseur de la Lune, aurait brusquement changé de figure au milieu de son parcours et aurait éclaté. Il semblait suivi d'une traînée lumineuse, mais formée de fragments distincts semblables à de grosses étincelles. Il aurait paru à 15 degrés au-dessus de l'horizon et à 60 degrés environ dans l'ouest et aurait disparu à peu près au méridien. On eût dit qu'il était tombé derrière les fortifications. »
 
-» Enfin, d'aprèsune Lettre de M. Payen, architecte à Santander (Espagne), 
-le bolide du 14 mai a été vu dans cette contrée. C'était une grande lueur 
-rougeâtre qui a semblé disparaître dans la mer. 
+« Enfin, d'après une Lettre de M. Payen, architecte à Santander (Espagne), le bolide du 14 mai a été vu dans cette contrée. C'était une grande lueur rougeâtre qui a semblé disparaître dans la mer. »
 
-» Nous terminerons ces citations par quelques nouveaux renseignements 
-relatifs à la chute des météorites qui a suivi l'apparition du bolide du 14 mai. 
+« Nous terminerons ces citations par quelques nouveaux renseignements relatifs à la chute des météorites qui a suivi l'apparition du bolide du 14 mai. »
 
-M. LeymrRie, Toulouse. (Lettre du ro juin à M. Daubrée.) 
+_M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
-« Permettez-moi d'insister sur ce point, que toutes les pièces séparées 
-que j'ai pu voir (au nombre de 10) avaient chacune une forme bien accusée 
-et enveloppée partout de vernis. Il est évident pour moi que toutes ces 
-pièces étaient agglomérées et serrées l'une contre l'autre, une seule masse, 
-un essaim, comme dirait M. Haidinger. Après l'explosion, il y a eu sépara- 
-tion et dispersion et non fracture, Il est probable que la masse s'est divisée 
-d'abord en deux parties dont les pièces, en se désunissant ensuite, ont formé 
-les averses d'Orgueil et de Campsas. 
+« Permettez-moi d'insister sur ce point, que toutes les pièces séparées que j'ai pu voir (au nombre de 10) avaient chacune une forme bien accusée et enveloppée partout de vernis. Il est évident pour moi que toutes ces pièces étaient agglomérées et serrées l'une contre l'autre, une seule masse, un _essaim_, comme dirait M. Haidinger. Après l'explosion, il y a eu séparation et dispersion et non fracture. Il est probable que la masse s'est divisée d'abord en deux parties dont les pièces, en se désunissant ensuite, ont formé les averses d'Orgueil et de Campsas. »
 
-» Les pièces séparées étaient brülantes en arrivant au sol. Je tiens d'un 
-témoin digne de foi que l'une d'elles est tombée dans le grenier d'un paysan 
-qui s'est brülé la main en voulant la saisir. D'un autre côté, un lopin tombé 
-sur un gazon trés-vert l'a fortement froissé et jauni tout autour. 
+« Les pièces séparées étaient brûlantes en arrivant au sol. Je tiens d'un témoin digne de foi que l'une d'elles est tombée dans le grenier d'un paysan qui s'est brûlé la main en voulant la saisir. D'un autre côté, un lopin tombé sur un gazon très-vert l'a fortement froissé et _jauni_ tout autour. »
 
-» Il paraît qu'à Campsas les pierres sont arrivées très-obliquement. On 
-a remarqué que l'une d'elles en agissant par compression sur un sol humide 
-y avait formé une empreinte bordée du côté de l'est par un bourrelet saillunt, 
-comparable à celui que forme le fer d'un cheval lorsqu'il comprime la vase 
-dans le sens de la marche. » 
+« Il paraît qu'à Campsas les pierres sont arrivées très-obliquement. On a remarqué que l'une d'elles en agissant par compression sur un sol humide y avait formé une empreinte bordée du côté de l'est par un bourrelet saillant, comparable à celui que forme le fer d'un cheval lorsqu'il comprime la vase dans le sens de la marche. »
 
 ---
 
