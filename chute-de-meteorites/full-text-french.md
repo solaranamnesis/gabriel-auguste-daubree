@@ -233,7 +233,11 @@ M. Payen, architecte à Santander, à qui on avait demandé des renseignements c
 
 Tous ces renseignements concordent d'une manière remarquable avec les observations faites antérieurement dans la plupart des stations plus méridionales que le lieu où sont tombées les météorites. M. Payen, pour se les procurer, a pris la peine de parcourir les environs de Santander à 12 ou 14 kilomètres de distance et de consulter un grand nombre de spectateurs (plus de 200) auxquels il a adressé des questions simples et précises. Les directions et les hauteurs apparentes qui lui ont été indiquées ont été mesurées par lui à l'aide d'une boussole armée d'un éclimètre. Il était impossible de s'acquitter de la tâche qu'il avait bien voulu accepter, avec plus de zèle et de succès. C'est là un louable exemple de dévouement à la science.
 
-[Pl. 1., _Météorites de la chute d'Orgueil._ (14 mai 1864.)]() 
+---
+
+[Pl. 1., _Météorites de la chute d'Orgueil._ (14 mai 1864.)](https://cdn.solaranamnesis.com/Daubree/Orgueil/plate-01-color.png)
+
+[Pl. 1., _Météorites de la chute d'Orgueil._ (14 mai 1864.)](https://cdn.solaranamnesis.com/Daubree/Orgueil/plate-01-bw.png)
 
 N. B. Toutes les météorites représentées sur cette figure sont réduites à moitié de la dimension linéaire.
 
@@ -255,4 +259,4 @@ Plusieurs de ces météorites, notamment les n°s 1, 4 et 6, montrent, tout auss
 
 Elle montre que sa croûte brillante a ruisselé à trois reprises, correspondant chacune à des bourrelets parfaitement prononcés, et rappelant d'une manière frappante ceux des météorites charbonneuses d'Orgueil, particulièrement ceux de la figure 3.
 
-[Pl. 2., Carte indiquant les localités d'où l'on a observé le bolide du 14 mai 1864.]()
+[Pl. 2., Carte indiquant les localités d'où l'on a observé le bolide du 14 mai 1864.](https://cdn.solaranamnesis.com/Daubree/Orgueil/plate2-14-mai-1864.png)
