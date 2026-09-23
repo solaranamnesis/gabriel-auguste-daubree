@@ -215,79 +215,44 @@ _Lettre du contre-amiral vicomte Fleuriot de Langle, major général du port de 
 
 Lorient, le 15 juin.
 
-La trajectoire était bien indiquée de l'O. N. 0. vers l'E.S. E. Ason 
-apparition, le globe me parut élevé de 30° au-dessus de l'horizon et la 
-trajectoire inclinée de 15° sur l'horizon. Je ne crois pas me tromper 
-en évaluant à trois secondes la durée de son apparition. Des arbres et 
-des haies m'ont empêché de bien juger les éléments de la trajectoire. 
+La trajectoire était bien indiquée de l'O. N. O. vers l'E. S. E. A son apparition, le globe me parut élevé de 30° au-dessus de l'horizon et la trajectoire inclinée de 15° sur l'horizon. Je ne crois pas me tromper en évaluant à trois secondes la durée de son apparition. Des arbres et des haies m'ont empêché de bien juger les éléments de la trajectoire.
 
-Le bolide à encore été vu dans plusieurs localités différentes de 
-celles qui ont été signalées antérieurement, notamment à Férins 
-(Seine-et-Marne), à Béville (Eure-et-Loir), etc. 
+Le bolide a encore été vu dans plusieurs localités différentes de celles qui ont été signalées antérieurement, notamment à Férins (Seine-et-Marne), à Béville (Eure-et-Loir), etc.
 
-M. Payen, architecte à Santander, à qui on avait demandé des 
-renseignements circonstanciés sur l'apparition du bolide qu'il n'avait 
-fait lui-même qu'apercevoir, s'est livré à une enquête d'où résultent 
-les faits suivants : 
+M. Payen, architecte à Santander, à qui on avait demandé des renseignements circonstanciés sur l'apparition du bolide qu'il n'avait fait lui-même qu'apercevoir, s'est livré à une enquête d'où résultent les faits suivants :
 
-1° La trajectoire paraissait sensiblement droite et verticale. 
+1° La trajectoire paraissait sensiblement droite et verticale.
 
-2° Elle était presque directement dans l'est. 
+2° Elle était presque directement dans l'est.
 
-5' Au moment où le bolide a été vu aux environs de Santander. sa 
-hauteur au-dessus de l'horizon a été évaluée de 20 à 30°. 
+3° Au moment où le bolide a été vu aux environs de Santander, sa hauteur au-dessus de l'horizon a été évaluée de 20 à 30°.
 
-k° La moyenne des indications trés-concordantes fournies par 
-quatre personnes différentes donne 110° 10' pour l'azimut magnétique 
-du point où le bolide a disparu. Or, déduction faite de la déclinaison. 
-l'azimut vrai se trouve être de 8/4°degré 1/2 environ et donne une direc- 
-tion qui passe à très-peu près par Nérac. 
+4° La moyenne des indications très-concordantes fournies par quatre personnes différentes donne 140° 10′ pour l'azimut magnétique du point où le bolide a disparu. Or, déduction faite de la déclinaison, l'azimut vrai se trouve être de 84° degré 1/2 environ et donne une direction qui passe à très-peu près par Nérac.
 
-5° Enfin la lueur était d'un rouge jaunâtre et laissait derrière elle 
-une traînée restée visible pendant au moins une minute. On n'a pas 
-vu l'explosion et on n'a entendu aucun bruit. L'heure de l'observation. 
-donnée par l'horloge de l'une des stations du chemin de fer d'Isa- 
-belle IT, était 7 heures 34 minutes en temps de __ ce qui fait 
-7 heures 58 minutes en temps de Paris. 
+5° Enfin la lueur était d'un rouge jaunâtre et laissait derrière elle une traînée restée visible pendant au moins une minute. On n'a pas vu l'explosion et on n'a entendu aucun bruit. L'heure de l'observation, donnée par l'horloge de l'une des stations du chemin de fer d'Isabelle 2., était 7 heures 34 minutes en temps de Madrid, ce qui fait 7 heures 58 minutes en temps de Paris.
 
-Tous ces renseignements concordent d'une maniére remarquable 
+Tous ces renseignements concordent d'une manière remarquable avec les observations faites antérieurement dans la plupart des stations plus méridionales que le lieu où sont tombées les météorites. M. Payen, pour se les procurer, a pris la peine de parcourir les environs de Santander à 12 ou 14 kilomètres de distance et de consulter un grand nombre de spectateurs (plus de 200) auxquels il a adressé des questions simples et précises. Les directions et les hauteurs apparentes qui lui ont été indiquées ont été mesurées par lui à l'aide d'une boussole armée d'un éclimètre. Il était impossible de s'acquitter de la tâche qu'il avait bien voulu accepter, avec plus de zèle et de succès. C'est là un louable exemple de dévouement à la science.
 
-avec les observations faites antérieurement dans la plupart des sta- 
-tions plus méridionales que le lieu où sont tombées les météorites. 
-M. Payen, pour se les procurer, a pris la peine de parcourir les envi- 
-rons de Santander à 12 ou 14 kilomètres de distance et de consulter 
-un grand nombre de spectateurs (plus de 200) auxquels il a adressé 
-des questions simples et précises. Les directions et les hauteurs appa- 
-rentes qui lui ont été indiquées ont été mesurées par lui à l'aide 
-d'une boussole armée d'un éclimètre. Il était impossible de s'acquitter 
-de la tâche qu'il avait bien voulu accepter, avec plus de zèle et de 
-succès. C'est là un louable exemple de dévouement à la science. 
+[Pl. 1., _Météorites de la chute d'Orgueil._ (14 mai 1864.)]() 
 
-PI. I, Météorites de la chute d'Orgueil. 
+N. B. Toutes les météorites représentées sur cette figure sont réduites à moitié de la dimension linéaire.
 
-(14 mai 1864.) 
+1 et 1 _bis_. Météorite d'Orgueil pesant environ 2 kilogr., donnée au Muséum par M. le maréchal Vaillant.
 
-N. B. Toutes les météorites représentées sur cette figure sont réduites à moitié de la dimension linéaire. 
+2 Météorite d'Orgueil pesant 54 gr. (n° 2Q-235).
 
-1 et 4 bis. Météorite d'Orgueil pesant environ 2 kilogr., donnée au Muséum par M. le maréchal 
-Vaillant. 
+3, 3 _bis_, 3 _ter_. Météorite d'Orgueil pesant 308 gr. (n° 2Q-234).
 
-2 Météorite d'Orgueil pesant 54 gr. (n° 2Q-235). 
+4 et 4 _bis_. Météorite d'Orgueil pesant 360 gr. (n° 2Q-319).
 
-3, 3 bis, 3 ter. Météorite d'Orgueil pesant 308 gr. (n° 2Q-234). 
+5. Météorite d'Orgueil pesant 78 gr. (n° 2Q-240).
 
-4 et 4 bis. Météorite d'Orgueil pesant 360 gr. (n° 2Q-319). 
+6 et 6 _bis_. Météorite d'Orgueil pesant 754 gr. (n° 2Q-238).
 
-5. Météorite d'Orgueil pesant 78 gr. (n° 20-240). 
+Plusieurs de ces météorites, notamment les n°s 1, 4 et 6, montrent, tout aussi bien que les météorites ordinaires, la forme évidemment fragmentaire, en même temps que les cavités alvéolaires.
 
-6 et 6 bis. Météorite d'Orgueil pesant 754 gr. (n° 2Q-238). 
+7. Météorite de Jonzac pesant 754 gr. (n° 2Q-103).
 
-Plusieurs de ces météorites, notamment les n°* 4, 4 et 6, montrent, tout aussi bien que les 
-météorites ordinaires, la forme évidemment fragmentaire, en même temps que les cavités 
-alvéolaires. 
+Elle montre que sa croûte brillante a ruisselé à trois reprises, correspondant chacune à des bourrelets parfaitement prononcés, et rappelant d'une manière frappante ceux des météorites charbonneuses d'Orgueil, particulièrement ceux de la figure 3.
 
-7. Météorite de Jonzac pesant 754 gr. (n° 2Q-103). 
-
-Elle montre que sa croûte brillante a ruisselé à trois reprises, correspondant chacune à des 
-bourrelets parfaitement prononcés, et rappelant d'une manière frappante ceux des météorites 
-charbonneuses d'Orgueil, particulièrement ceux de la figure 3. 
+[Pl. 2., Carte indiquant les localités d'où l'on a observé le bolide du 14 mai 1864.]()
