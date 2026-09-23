@@ -368,73 +368,11 @@ _M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
 ## Note de M. Laussedat en réponse à celle de _M. Lespiault_.
 
-« En indiquant la méthode qui m'a servi pour déterminer la trajectoire 
-du bolide du 14 mai, j'avais eu soin de réunir dans un tableau les obser- 
-vations qui m'ont conduit aux résultats publiés dans le Compte rendu de la 
-séance du 1 3 juin. J'ajoutais que j'avais choisi celles qui étaient le mieux pré- 
-cisées, mais je n'ai eu ni l'intention ni la prétention de contester celles qui 
-ne s'accordaient pas avec le tracé qui m'a paru le plus probable; car, allant 
-au-devant des réclamations, je faisais remarquer qu'un des avantages de la 
-méthode graphique était de permettre à chacun des observateurs « d'ap- 
-» précier le degré d'exactitude de la trajectoire et d'indiquer au besoin les 
-» rectifications qu'il pourrait y avoir lieu de lui faire subir. » 
+« En indiquant la méthode qui m'a servi pour déterminer la trajectoire du bolide du 14 mai, j'avais eu soin de réunir dans un tableau les observations qui m'ont conduit aux résultats publiés dans le _Compte rendu_ de la séance du 13 juin. J'ajoutais que j'avais choisi celles qui étaient le mieux précisées, mais je n'ai eu ni l'intention ni la prétention de contester celles qui ne s'accordaient pas avec le tracé qui m'a paru le plus probable ; car, allant au-devant des réclamations, je faisais remarquer qu'un des avantages de la méthode graphique était de permettre à chacun des observateurs « d'apprécier le degré d'exactitude de la trajectoire et d'indiquer au besoin les rectifications qu'il pourrait y avoir lieu de lui faire subir. »
 
-» Dans une Note insérée dans le Compte rendu de la séance du 27 juin, 
-M. Lespiault, qui juge la méthode que j'ai adoptée « excellente pour le 
- 
-» tracé de la projection horizontale de la trajectoire, » ajoute qu'elle ne lui 
-paraît pas susceptible de donner avec la même rigueur la projection verti- 
-cale. Il me reproche, en outre, d'avoir attribué une importance trop exclu- 
-sive à l'une des observations, celle de Rieumes, et d'avoir préféré, pour la 
-station de Montauban, celle de M. Pauliet à celle de M. Bagel. En ce qui 
-concerne le degré d'exactitude avec lequel on peut déterminer la trajec- 
-toire, il me paraît hors de doute qu'il peut être le même, qu'il s'agisse de la 
-projection verticale ou de la projection horizontale, pourvu que les stations 
-soient convenablement situées par rapport à la trajectoire. Or, l'importance 
-que j'ai cru devoir donner aux observations de Rieumes est précisément jus- 
-tifiée par la position de cette station d'où les rayons visuels partis de Nérac 
-et de Montauban étaient recoupés « sous des angles avantageux. » A. la 
-vérité, M. Lajous, qui a transmis ces observations, n'a pas été lui-même 
-témoin du phénomène et n'a fait que recueillir les indications de personnes 
-dignes de foi ; mais les deux observations dont il s'agit, très-nettement pré- 
-cisées et relevées avec beaucoup de soin, on n'en saurait douter, se sont 
-trouvées confirmées par celle de M. Jacquot, ingénieur en chef des mines, 
-qui, de l'Isle-Jourdain, station très-voisine de Rieumes, a constaté que la 
-trajectoire, très-sensiblement horizontale, allait directement de l'està l'ouest 
-en se relevant seulement un peu vers le nord. M. Lespiault craint qu'il ne 
-se soit établi quelque confusion entre la trajectoire indiquée par M. Pauliet 
-à M. Petit et celle que M. Cruzel a envoyée à la Gironde du 18 mai, comme 
-l'ayant observée à Tombebœuf. Je supprimerais les observations de M. Pau- 
-liet, que, à moins de supprimer du même coup celles de Rieumes, de l'Isle- 
-Jourdain et de Toulouse, il me serait impossible d'arriver aux mêmes con- 
-clusions que M. Lespiault. En adoptant, par exemple, l'observation de 
-M. Bagel, mais en maintenant celle de M. Lajous, la hauteur du point 
-d'explosion resterait encore inférieure à 25 kilomètres. Quant à la très- 
-grande inclinaison de la trajectoire, elle me semble peu vraisemblable, au 
-moins dans la partie comprise entre les méridiens de Nérac et de Mon- 
-tauban, d'après les témoignages réunis de MM. Brongniart, Triger, Jacquot 
-et Lajous, dont les stations étaient situées de manière à bien faire apprécier 
-cette circonstance, si elle s'était présentée. 
+« Dans une Note insérée dans le _Compte rendu_ de la séance du 27 juin, M. Lespiault, qui juge la méthode que j'ai adoptée « excellente pour le tracé de la projection horizontale de la trajectoire, » ajoute qu'elle ne lui paraît pas susceptible de donner avec la même rigueur la projection verticale. Il me reproche, en outre, d'avoir attribué une importance trop exclusive à l'une des observations, celle de Rieumes, et d'avoir préféré, pour la station de Montauban, celle de M. Pauliet à celle de M. Bagel. En ce qui concerne le degré d'exactitude avec lequel on peut déterminer la trajectoire, il me paraît hors de doute qu'il peut être le même, qu'il s'agisse de la projection verticale ou de la projection horizontale, pourvu que les stations soient convenablement situées par rapport à la trajectoire. Or, l'importance que j'ai cru devoir donner aux observations de Rieumes est précisément justifiée par la position de cette station d'où les rayons visuels partis de Nérac et de Montauban étaient recoupés « sous des angles avantageux. » A la vérité, M. Lajous, qui a transmis ces observations, n'a pas été lui-même témoin du phénomène et n'a fait que recueillir les indications de personnes dignes de foi ; mais les deux observations dont il s'agit, très-nettement précisées et relevées avec beaucoup de soin, on n'en saurait douter, se sont trouvées confirmées par celle de M. Jacquot, ingénieur en chef des mines, qui, de l'Isle-Jourdain, station très-voisine de Rieumes, a constaté que la trajectoire, très-sensiblement horizontale, allait directement de l'est à l'ouest en se relevant seulement un peu vers le nord. M. Lespiault craint qu'il ne se soit établi quelque confusion entre la trajectoire indiquée par M. Pauliet à M. Petit et celle que M. Cruzel a envoyée à la _Gironde_ du 18 mai, comme l'ayant observée à Tombebœuf. Je supprimerais les observations de M. Pauliet, que, à moins de supprimer du même coup celles de Rieumes, de l'Isle-Jourdain et de Toulouse, il me serait impossible d'arriver aux mêmes conclusions que M. Lespiault. En adoptant, par exemple, l'observation de M. Bagel, mais en maintenant celle de M. Lajous, la hauteur du point d'explosion resterait encore inférieure à 25 kilomètres. Quant à la très-grande inclinaison de la trajectoire, elle me semble peu vraisemblable, au moins dans la partie comprise entre les méridiens de Nérac et de Montauban, d'après les témoignages réunis de MM. Brongniart, Triger, Jacquot et Lajous, dont les stations étaient situées de manière à bien faire apprécier cette circonstance, si elle s'était présentée. »
 
-» Je ne discuterai pas à mon tour les nombres que M. Lespiault a réunis 
-en tableau. Il convient lui-même que les évaluations considérables de la 
-hauteur du point d'explosion faites à Bordeaux restent encore difficiles à 
-expliquer. L'observation de Pontlevoy serait au moins aussi embarrassante, 
-et il en serait de même de bien d'autres ; enfin, j'avoue que je ne suis pas 
-parvenu a trouver sur la carte un point situé à la fois à ta kilomètres de 
-Montauban, à 66 kilomètres d'Astaffort, à 80 kilomètres de Nérac, et dans 
-le sud-ouest ou même dans l'onest-sud-ouest de Montauban, comme le vou- 
-drait l'observation représentée sur le croquis de M. Bagel, que j'ai eu sous 
-les yeux. Je ne voudrais cependant pas affirmer que l'explosion du bolide 
-n'a pas eu lieu à plus de 20 kilomètres de hauteur, mais je ne trouve pas 
-les probabilités invoquées par M. Lespiàult assez fortes pour accorder qu'il 
-faille doubler ce nombre. Je reconnais du reste, avec M. Lespiauit, qu'il 
-serait très-désirable de parvenir à déterminer le plus exactement possible 
-non-seulement les hauteurs des points où éclatent les bolides, mais celles 
-des points où ils paraissent s'enflammer. C'est précisément dans ce but que 
-j'ai proposé une méthode au moyen de laquelle il est facile de discuter les 
-différentes observations, et que je persiste à croire suffisammertf exacte 
-dans tous les cas analogues à celui qui s'est présenté le 14 niai dernier. » 
+« Je ne discuterai pas à mon tour les nombres que M. Lespiault a réunis en tableau. Il convient lui-même que les évaluations considérables de la hauteur du point d'explosion faites à Bordeaux restent encore difficiles à expliquer. L'observation de Pontlevoy serait au moins aussi embarrassante, et il en serait de même de bien d'autres ; enfin, j'avoue que je ne suis pas parvenu à trouver sur la carte un point situé à la fois à 12 kilomètres de Montauban, à 66 kilomètres d'Astaffort, à 80 kilomètres de Nérac, et dans le sud-ouest ou même dans l'ouest-sud-ouest de Montauban, comme le voudrait l'observation représentée sur le croquis de M. Bagel, que j'ai eu sous les yeux. Je ne voudrais cependant pas affirmer que l'explosion du bolide n'a pas eu lieu à plus de 20 kilomètres de hauteur, mais je ne trouve pas les probabilités invoquées par M. Lespiault assez fortes pour accorder qu'il faille doubler ce nombre. Je reconnais du reste, avec M. Lespiault, qu'il serait très-désirable de parvenir à déterminer le plus exactement possible non-seulement les hauteurs des points où éclatent les bolides, mais celles des points où ils paraissent s'enflammer. C'est précisément dans ce but que j'ai proposé une méthode au moyen de laquelle il est facile de discuter les différentes observations, et que je persiste à croire suffisamment exacte dans tous les cas analogues à celui qui s'est présenté le 14 mai dernier. »
 
 ---
 
