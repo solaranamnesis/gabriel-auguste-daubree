@@ -12,8 +12,6 @@
 
 # [Météore lumineux et chute de pierres météoriques du 14 mai.]()
 
-# [Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).](#note-sur-les-météorites-tombées-le-14-mai-aux-environs-dorgueil-tarn-et-garonne-1)
-
 # [Nouveaux renseignements sur le bolide du 14 mai 1864.]()
 
 # [Note de M. Lespiault à l'occasion du bolide du 14 mai.]()
@@ -21,6 +19,8 @@
 # [Sur la méthode employée pour déterminer la trajectoire du bolide du 14 mai.]()
 
 # [Sur la trajectoire du bolide du 14 mai.]()
+
+# [Note sur les météorites tombées le 14 mai aux environs d'Orgueil (Tarn-et-Garonne).](#note-sur-les-météorites-tombées-le-14-mai-aux-environs-dorgueil-tarn-et-garonne-1)
 
 # [Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.](#sur-la-présence-dun-carbonate-de-magnésie-et-fer-cristallisé-dans-la-météorite-dorgueil-1)
 
