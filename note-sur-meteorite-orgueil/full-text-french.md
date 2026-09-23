@@ -339,78 +339,28 @@ _M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
 « D'après un autre observateur de Montauban, M. Bagel, l'explosion aurait eu lieu beaucoup plus à l'ouest, après quoi le bolide, ayant pris une couleur rouge sombre, aurait continué sa route à l'est. »
 
-« Cette observation doit être rapprochée de celle de M. Bergé, curé de 
-la Magdeleine-près-Bessières, pour qui le globe de feu, après s'être ouvert 
-comme un bouquet d'artifice, marchait toujours, et de celle de M. Pauliet, 
-qui parle d'une crépitation et d'un mouvement rapide de rotation remar- 
-qués avant l'explosion. Enfin, les roulements prolongés qui ont suivi la pre- 
-miere ou les premières détonations, car, en plusieurs endroits, on en à 
-compté deux ou trois, semblent démontrer indubitablement que le phé- 
-uomène de l'explosion n'a pas été instantané, et si l'on a égard à la vitesse 
-considérable du bolide, il ne serait pas impossible que les points de la tra- 
-Jectoire auxquels cette explosion a été rapportée par les différents observa- 
-teurs ne fussent pas rigoureusement les mêmes. 
+« Cette observation doit être rapprochée de celle de M. Bergé, curé de la Magdeleine-près-Bessières, pour qui le globe de feu, après s'être ouvert comme un bouquet d'artifice, _marchait toujours_, et de celle de M. Pauliet, qui parle d'une crépitation et d'un mouvement rapide de rotation remarqués avant l'explosion. Enfin, les roulements prolongés qui ont suivi la première ou les premières détonations, car, en plusieurs endroits, on en a compté deux ou trois, semblent démontrer indubitablement que le phénomène de l'explosion n'a pas été instantané, et si l'on a égard à la vitesse considérable du bolide, il ne serait pas impossible que les points de la trajectoire auxquels cette explosion a été rapportée par les différents observateurs ne fussent pas rigoureusement les mêmes. »
 
-» Néanmoins, l'instant où, de partout, l'on a vu jaillir les premières 
-étincelles et celui où l'on a commencé à percevoir le bruit déterminent un 
-intervalle de temps qui peut servir à évaluer la distance de chaque station 
-au point où le phénomène de l'explosion a commencé à se produire. Un 
-assez grand nombre d'observateurs ayant noté cet intervalle avec soin, 
-nous reproduisons dans le tableau suivant les nombres qu'ils ont donnés, 
-et nous rapprochons des distances qui en résultent celles que l'on peut 
-évaluer sur la carte, en admettant que l'explosion ait eu lieu au-dessus de 
-Nohic, sur la direction donnée par M. Lajous et entre les deux directions 
-données par MM. Lespiault et Pauliet. 
+« Néanmoins, l'instant où, de partout, l'on a vu jaillir les premières étincelles et celui où l'on a commencé à percevoir le bruit déterminent un intervalle de temps qui peut servir à évaluer la distance de chaque station au point où le phénomène de l'explosion a commencé à se produire. Un assez grand nombre d'observateurs ayant noté cet intervalle avec soin, nous reproduisons dans le tableau suivant les nombres qu'ils ont donnés, et nous rapprochons des distances qui en résultent celles que l'on peut évaluer sur la carte, en admettant que l'explosion ait eu lieu au-dessus de Nohic, sur la direction donnée par M. Lajous et entre les deux directions données par MM. Lespiault et Pauliet. »
 
-» On ne pouvait guère espérer et l'on ne devait même pas s'attendre à 
-trouver autant d'accord entre les nombres inscrits dans les deux dernières 
-colonnes de ce tableau, et il paraît fort probable, d'après cela, que l'explo- 
+| Noms des stations. | Noms des observateurs. | Temps écoulé entre l'explosion et le bruit perçu. | Distances déduites de ce temps. | Distances évaluées sur la carte. |
+|--------------------|------------------------|---------------------------------------------------|---------------------------------|----------------------------------|
+| Nérac              | M.Vidaillet            | 4 à 5 m.                                          | 80 à 100 k.                     | 90 k.                            |
+| Nérac              | M. Lespiault           | 3 m.                                              | 60 k.                           | 90 k.                            |
+| Agen               | M. Bourrières          | 2 à 3 m.                                          | 40 à 60 k.                      | 75 k.                            |
+| Astaffort          | M. de Lafitte          | 4 m.                                              | 80 k.                           | 70 k.                            |
+| Montauban          | M.Bagel                | 80 s.                                             | 25 k.                           | 25 k.                            |
+| Montauban          | M. Pauliet             | 1 à 2 m.                                          | 20 à 40 k.                      | 25 k.                            |
+| Rieumes            | M. Lajous              | 3 m.                                              | 60 k.                           | 60 k.                            |
+| L'Isle-Jourdain    | M. Jacquot             | 3 m.                                              | 60 k.                           | 45 k.                            |
 
-sion à réellement eu lieu très-près du point qui correspond verticalement 
-au-dessus de Nohic, ou peut-être un peu à l'ouest et à 15 ou 20 kilomètres 
-de la surface de la Terre. La plupart des météorites trouvées après le passage 
-du bolide ont été recueillies très-près de là, mais il est à présumer que beau- 
-coup d'autres fragments ont été projetés plus à l'est et à d'assez grandes 
-distances de part et d'autre de la direction de la trajectoire. D'après les éva- 
-luations consignées dans plusieurs lettres, nous avons trouvé en moyenne 
-que le bolide avait une vitesse relative de 20 kilomètres par seconde. Le 
-plus grand nombre des observateurs comparent le diamètre apparent du 
-bolide à celui de la Lune; en supposant qu'il füt observé à une distance 
-moyenne de 5o kilomètres, le bolide avec son atmosphère embrasée aurait 
-eu un diamètre réel de 400 à 500 mètres. D'après les observations que nous 
-avons rapportées et les constructions exécutées sur la figure, le météore 
-aurait été vu d'abord à 45 kilomètres de hauteur au-dessus de la surface.de 
-la Terre; mais plusieurs des observations faites au nord d'Agen augmentent 
-considérablement cette hauteur. A Saintes, on aurait vu le bolide à 5o de- 
-grés au-dessus de l'horizon et dans le méridien ; à Castillon-sur-Dordogne, 
-au Verdon, à Bordeaux, à la Réole, le bolide aurait paru se projeter sur la 
-Lune ou passer très-près d'elle. Dans une lettre adressée à M. Le Verrier, 
-M. Lespiault, professeur à la Faculté des Sciences de Bordeaux, remarque 
-avec raison qu'il serait difficile de faire concorder toutes ces observations, à 
-moins de transporter le bolide à une hauteur considérable. Plusieurs per- 
-sonnes, dont les stations étaient très-distantes les unes des autres, ont aussi 
-projeté le météore sur les mêmes constellations du zodiaque, de manière à 
-n'accuser qu'une parallaxe insensible. 
+« On ne pouvait guère espérer et l'on ne devait même pas s'attendre à trouver autant d'accord entre les nombres inscrits dans les deux dernières colonnes de ce tableau, et il paraît fort probable, d'après cela, que l'explosion à réellement eu lieu très-près du point qui correspond verticalement au-dessus de Nohic, ou peut-être un peu à l'ouest et à 15 ou 20 kilomètres de la surface de la Terre. La plupart des météorites trouvées après le passage du bolide ont été recueillies très-près de là, mais il est à présumer que beaucoup d'autres fragments ont été projetés plus à l'est et à d'assez grandes distances de part et d'autre de la direction de la trajectoire. D'après les évaluations consignées dans plusieurs lettres, nous avons trouvé en moyenne que le bolide avait une vitesse relative de 20 kilomètres par seconde. Le plus grand nombre des observateurs comparent le diamètre apparent du bolide à celui de la Lune ; en supposant qu'il fût observé à une distance moyenne de 50 kilomètres, le bolide avec son atmosphère embrasée aurait eu un diamètre réel de 400 à 500 mètres. D'après les observations que nous avons rapportées et les constructions exécutées sur la figure, le météore aurait été vu d'abord à 45 kilomètres de hauteur au-dessus de la surface de la Terre ; mais plusieurs des observations faites au nord d'Agen augmentent considérablement cette hauteur. A Saintes, on aurait vu le bolide à 50 degrés au-dessus de l'horizon et dans le méridien ; à Castillon-sur-Dordogne, au Verdon, à Bordeaux, à la Réole, le bolide aurait paru se projeter sur la Lune ou passer très-près d'elle. Dans une lettre adressée à M. Le Verrier, M. Lespiault, professeur à la Faculté des Sciences de Bordeaux, remarque avec raison qu'il serait difficile de faire concorder toutes ces observations, à moins de transporter le bolide à une hauteur considérable. Plusieurs personnes, dont les stations étaient très-distantes les unes des autres, ont aussi projeté le météore sur les mêmes constellations du zodiaque, de manière à n'accuser qu'une parallaxe insensible. »
 
-» Il a bien fallu renoncer à se servir de ces observations. Toutefois, en 
-comhinant, comme l'a fait M. Lespiault, une observation faite à Nérac 
-par son frère, et qui transporte la trajectoire au nord de cette station, avec 
-une autre observation faite à Tombebœuf, près Miramornt, par M. Cluzel, 
-on trouve que le bolide devait se trouver dans le voisinage du méridien de 
-Nérac, a 100 kilomètres de hauteur environ. Cette seconde trajectoire, 
-également représentée sur la figure, aurait eu une très-forte inclinaison sur 
-l'horizon, et cependant les observations éloignées, celles de M. Brongniart, 
-dans l'Eure, de M. Triger, au Mans, etc., semblent contredire ce fait. 
+« Il a bien fallu renoncer à se servir de ces observations. Toutefois, en combinant, comme l'a fait M. Lespiault, une observation faite à Nérac par son frère, et qui transporte la trajectoire au nord de cette station, avec une autre observation faite à Tombebœuf, près Miramont, par M. Cluzel, on trouve que le bolide devait se trouver dans le voisinage du méridien de Nérac, a 100 kilomètres de hauteur environ. Cette seconde trajectoire, également représentée sur la figure, aurait eu une très-forte inclinaison sur l'horizon, et cependant les observations éloignées, celles de M. Brongniart, dans l'Eure, de M. Triger, au Mans, etc., semblent contredire ce fait. »
 
-» À Ichoux, dans les Landes, on aurait vu le bolide se détacher du ciel 
-et tomber perpendiculairement. Cette indication, assez vague en apparence, a 
-peut-être une signification dont on doit tirer parti. Les perspectives de la 
-trajectoire sont extrêmement différentes selon la position du point de vue, 
-et nous avons pensé que l'observation d'Ichoux voulait dire que le plan 
-de la trajectoire passait par le zénith de ce lieu. C'est d'après cette indica- 
-tion que nous avons tracé une troisième ligne intermédiaire qu'il faut peut- 
-être considérer comme représentant jusqu'à présent la trajectoire la plus 
-probable du bolide du 14 mai. » 
+« A Ichoux, dans les Landes, on aurait vu le bolide se _détacher_ du ciel et tomber _perpendiculairement_. Cette indication, assez vague en apparence, a peut-être une signification dont on doit tirer parti. Les perspectives de la trajectoire sont extrêmement différentes selon la position du point de vue, et nous avons pensé que l'observation d'Ichoux voulait dire que le plan de la trajectoire passait par le zénith de ce lieu. C'est d'après cette indication que nous avons tracé une troisième ligne intermédiaire qu'il faut peut-être considérer comme représentant jusqu'à présent la trajectoire la plus probable du bolide du 14 mai. »
+
+[Figure.]()
 
 ---
 
