@@ -1,6 +1,6 @@
 # Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne).
 
-## Par Mm. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie, Laussedat, Bourrières, Brongniart, Le Verrier, Lespiault, Paquerée.
+## Par MM. Daubrée, Cloëz, Pisani, Des Cloizeaux, Leymerie, Laussedat, Bourrières, Brongniart, Le Verrier, Lespiault, Paquerée.
 
 ### _Comptes Rendus_, séances des 16, 23 et 30 mai, 13, 20, 27 juin, 11 juillet et 14 novembre 1864.
 
@@ -306,7 +306,111 @@ _M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
 ## Note de M. Laussedat, présentée par M. Daubrée.
 
-...
+(Commissaires, MM. Le Verrier, Serret, Daubrée.) 
+
+« M. Daubrée, à qui ont été remis la plupart des renseignements recueillis sur le bolide du 14 mai dernier, a bien voulu me faire l'honneur de me les communiquer, en m'exprimant le désir d'avoir, le plus tôt possible, une idée un peu exacte de la marche du météore. La méthode expéditive dont j'ai fait l'essai, pour répondre aux vues du savant académicien, me paraissant à la fois très-simple et suffisamment exacte, j'ai pensé qu'il pourrait être utile d'en indiquer ici le principe. »
+
+« Les directions des points de la trajectoire apparente d'un corps qui traverse rapidement l'espace sont généralement rapportées aux constellations les plus connues ou aux planètes qui se trouvent au-dessus de l'horizon. J'admets que la précision de ce genre de détermination ne dépasse guère 1 degré, surtout quand les observations sont faites à l'improviste. Cela étant, au moyen d'un globe céleste de 0,20 m. à 0,25 m. de diamètre, disposé d'après la latitude du lieu et l'heure de l'observation (heure sidérale déduite de l'heure moyenne), je détermine l'azimut et la hauteur apparente de chacun des points du ciel qui ont servi de repère. Cette opération est répétée pour les différentes stations d'où le phénomène a été observé. Les résultats en sont ensuite rapportés sur une carte géographique à grande échelle, sur laquelle les stations sont elles-mêmes marquées d'après leurs longitudes et leurs latitudes. Il est même bon d'inscrire à côté de chaque station sa cote d'altitude. Si les stations ne sont pas éloignées de plus d'un degré, on peut, sans inconvénient, négliger la courbure de la Terre et considérer les verticales de ces stations comme parallèles et la carte comme un plan horizontal. On exécute alors sur le dessin ainsi préparé, et par la méthode ordinaire des projections cotées, toutes les constructions nécessaires. Les différents problèmes relatifs au mouvement du corps dont on a obtenu la trajectoire, en projection horizontale d'une part et en projection verticale par les cotes de hauteurs de quelques-uns de ses points, se résolvent ensuite avec la plus grande facilité. »
+
+« Cette méthode, purement graphique, a encore ce très-grand avantage que chacun des observateurs peut, en la retournant, apprécier le degré d'exactitude de la trajectoire et indiquer au besoin les rectifications qu'il pourrait y avoir lieu de lui faire subir. On peut en effet déduire inversement du tracé de cette trajectoire sa perspective sur la sphère céleste pour une station quelconque, et reconnaître les écarts plus on moins considérables de cette perspective, comparée à celle qui a été observée. »
+
+« Les données qui ont servi au tracé de la courbe pleine de la figure ont été réunies dans le tableau suivant : »
+
+| Noms des stations. | Noms des observateurs. | Indication des directions observées.                                                               | Azimut.          | Hauteur apparente. |
+|--------------------|------------------------|----------------------------------------------------------------------------------------------------|------------------|--------------------|
+| Rieumes            | M. Lajous              | 1er point, défini par ses deux coordonnées.                                                        | 24° du N. à l'O. | 22°                |
+|                    |                        | 2e point, celui où a eu lieu l'explosion.                                                          | 25° du N. à l'E. | 16° 30′            |
+|                    |                        | Durée du trajet d'un point à l'autre : 3 secondes                                                  |                  |                    |
+| Nérac              | M. Lespiault           | 1er point, à 5° au S. de Pollux (apparition).                                                      | 87° du S. à l'O. | 38°                |
+|                    |                        | 2e point, entre Arcturus et ε Bouvier, à 1/4 de la distance à partir d'ε.                          | 75° du S. à l'E. | 45°                |
+|                    |                        | 3e point, à 15° au N. de Jupiter (explosion). (Le bolide passe à quelques degrés au N. du zénith.) | 65° du S. à l'E. | 20° ?              |
+| Montauban          | M. Pauliet             | 1er point, constellation du Lion                                                                   | 0°               | 55° ?              |
+|                    |                        | 2e point, à gauche (à l'E.) de Saturne et de l'Épi de la Vierge.                                   | 35° du S. à l'E. | 36°                |
+|                    |                        | 3e point, un peu au-dessous de Jupiter.                                                            | 55° du S. à l'E. | 8 à 10° ?          |
+| Agen               | M. Bourrières          | Au-dessus de la ville, un peu au S.                                                                |                  |                    |
+| Layrac             | Journal _l'Aigle_      | Près du zénith.                                                                                    |                  |                    |
+| Astaffort          | M. de Lafitte          | Au zénith, direction N.-O. au S.-E.                                                                |                  |                    |
+| Toulouse           |                        | Dans une Lettre adressée à M. Petit                                                                |                  | 30°                |
+| L'Isle-Jourdain    | M. Jacquot             | Trajectoire horizontale de l'O. à l'E. se relevant un peu vers le N.                               |                  |                    |
+
+« Les deux directions nettement définies par M. Lajous, de Rieumes, déterminent un plan dont le bolide n'a pas dû beaucoup s'éloigner dans la partie de sa trajectoire visible des stations représentées sur la carte. C'est du moins ce qui semble résulter de l'indication fournie par M. Jacquot, dont la station n'était pas très-éloignée de Rieumes. A défaut donc d'une troisième observation plus occidentale qui aurait sans doute donné une surface conique et par conséquent plus de précision, on s'est servi de ce plan qui rencontrait les rayons visuels partis de Nérac et de Montauban sous des angles avantageux. La courbe continue passant par quatre des points d'intersection ainsi obtenus satisfait à la plupart des observations faites des stations situées au sud d'Agen, et dont nous avons rapporté celles qui étaient le mieux précisées dans le tableau précédent. »
+
+« Cette courbe prolongée rencontre la direction indiquée par M. Lajous comme celle où aurait eu lieu l'explosion, à peu près à égale distance de celles qui résultent des observations de MM. Lespiault et Pauliet, dont les stations étaient peut-être moins favorablement situées, leurs rayons visuels formant avec la trajectoire des angles très-aigus. »
+
+« D'après un autre observateur de Montauban, M. Bagel, l'explosion aurait eu lieu beaucoup plus à l'ouest, après quoi le bolide, ayant pris une couleur rouge sombre, aurait continué sa route à l'est. »
+
+« Cette observation doit être rapprochée de celle de M. Bergé, curé de 
+la Magdeleine-près-Bessières, pour qui le globe de feu, après s'être ouvert 
+comme un bouquet d'artifice, marchait toujours, et de celle de M. Pauliet, 
+qui parle d'une crépitation et d'un mouvement rapide de rotation remar- 
+qués avant l'explosion. Enfin, les roulements prolongés qui ont suivi la pre- 
+miere ou les premières détonations, car, en plusieurs endroits, on en à 
+compté deux ou trois, semblent démontrer indubitablement que le phé- 
+uomène de l'explosion n'a pas été instantané, et si l'on a égard à la vitesse 
+considérable du bolide, il ne serait pas impossible que les points de la tra- 
+Jectoire auxquels cette explosion a été rapportée par les différents observa- 
+teurs ne fussent pas rigoureusement les mêmes. 
+
+» Néanmoins, l'instant où, de partout, l'on a vu jaillir les premières 
+étincelles et celui où l'on a commencé à percevoir le bruit déterminent un 
+intervalle de temps qui peut servir à évaluer la distance de chaque station 
+au point où le phénomène de l'explosion a commencé à se produire. Un 
+assez grand nombre d'observateurs ayant noté cet intervalle avec soin, 
+nous reproduisons dans le tableau suivant les nombres qu'ils ont donnés, 
+et nous rapprochons des distances qui en résultent celles que l'on peut 
+évaluer sur la carte, en admettant que l'explosion ait eu lieu au-dessus de 
+Nohic, sur la direction donnée par M. Lajous et entre les deux directions 
+données par MM. Lespiault et Pauliet. 
+
+» On ne pouvait guère espérer et l'on ne devait même pas s'attendre à 
+trouver autant d'accord entre les nombres inscrits dans les deux dernières 
+colonnes de ce tableau, et il paraît fort probable, d'après cela, que l'explo- 
+
+sion à réellement eu lieu très-près du point qui correspond verticalement 
+au-dessus de Nohic, ou peut-être un peu à l'ouest et à 15 ou 20 kilomètres 
+de la surface de la Terre. La plupart des météorites trouvées après le passage 
+du bolide ont été recueillies très-près de là, mais il est à présumer que beau- 
+coup d'autres fragments ont été projetés plus à l'est et à d'assez grandes 
+distances de part et d'autre de la direction de la trajectoire. D'après les éva- 
+luations consignées dans plusieurs lettres, nous avons trouvé en moyenne 
+que le bolide avait une vitesse relative de 20 kilomètres par seconde. Le 
+plus grand nombre des observateurs comparent le diamètre apparent du 
+bolide à celui de la Lune; en supposant qu'il füt observé à une distance 
+moyenne de 5o kilomètres, le bolide avec son atmosphère embrasée aurait 
+eu un diamètre réel de 400 à 500 mètres. D'après les observations que nous 
+avons rapportées et les constructions exécutées sur la figure, le météore 
+aurait été vu d'abord à 45 kilomètres de hauteur au-dessus de la surface.de 
+la Terre; mais plusieurs des observations faites au nord d'Agen augmentent 
+considérablement cette hauteur. A Saintes, on aurait vu le bolide à 5o de- 
+grés au-dessus de l'horizon et dans le méridien ; à Castillon-sur-Dordogne, 
+au Verdon, à Bordeaux, à la Réole, le bolide aurait paru se projeter sur la 
+Lune ou passer très-près d'elle. Dans une lettre adressée à M. Le Verrier, 
+M. Lespiault, professeur à la Faculté des Sciences de Bordeaux, remarque 
+avec raison qu'il serait difficile de faire concorder toutes ces observations, à 
+moins de transporter le bolide à une hauteur considérable. Plusieurs per- 
+sonnes, dont les stations étaient très-distantes les unes des autres, ont aussi 
+projeté le météore sur les mêmes constellations du zodiaque, de manière à 
+n'accuser qu'une parallaxe insensible. 
+
+» Il a bien fallu renoncer à se servir de ces observations. Toutefois, en 
+comhinant, comme l'a fait M. Lespiault, une observation faite à Nérac 
+par son frère, et qui transporte la trajectoire au nord de cette station, avec 
+une autre observation faite à Tombebœuf, près Miramornt, par M. Cluzel, 
+on trouve que le bolide devait se trouver dans le voisinage du méridien de 
+Nérac, a 100 kilomètres de hauteur environ. Cette seconde trajectoire, 
+également représentée sur la figure, aurait eu une très-forte inclinaison sur 
+l'horizon, et cependant les observations éloignées, celles de M. Brongniart, 
+dans l'Eure, de M. Triger, au Mans, etc., semblent contredire ce fait. 
+
+» À Ichoux, dans les Landes, on aurait vu le bolide se détacher du ciel 
+et tomber perpendiculairement. Cette indication, assez vague en apparence, a 
+peut-être une signification dont on doit tirer parti. Les perspectives de la 
+trajectoire sont extrêmement différentes selon la position du point de vue, 
+et nous avons pensé que l'observation d'Ichoux voulait dire que le plan 
+de la trajectoire passait par le zénith de ce lieu. C'est d'après cette indica- 
+tion que nous avons tracé une troisième ligne intermédiaire qu'il faut peut- 
+être considérer comme représentant jusqu'à présent la trajectoire la plus 
+probable du bolide du 14 mai. » 
 
 ---
 
