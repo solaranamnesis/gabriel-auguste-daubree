@@ -75,446 +75,145 @@ Comme toutes les météorites, chacune de celles qui sont tombées à Orgueil es
 
 Si on examine certaines de ces météorites qui ont conservé en totalité la surface qu'elles avaient en arrivant sur le sol, on peut remarquer que leur croûte externe n'a pas un aspect uniforme. Sur une partie de son étendue cette croûte est excessivement mince, unie et souvent irisée, tandis que, sur une autre partie du même échantillon, elle est notablement plus épaisse, rugueuse et comme chagrinée. L'écorce épaisse se détache sur lécorce mince par une sorte de rebord ou de bourrelet qui annonce qu'elle est postérieure à cette dernière, puisqu'elle s'est étendue à sa surface.
 
-Les rugosités et ondulations de cette seconde écorce indiquent la 
-manière dont elle s'est étendue pendant le mouvement de la météo- 
-rite, en ruisselant sur sa surface. Elle peut même servir à reconnaître 
-la direction que suivait cette sorte de projectile dans son mouvement. 
-Quelques échantillons, dont la forme rappelle celle d'un projectile 
-Cylindro-conique, ont dû subir la fusion d'abord sur la partie convexe 
-qui, dans le mouvement rapide de translation, se trouvait en avant : 
-c'est de cette partie antérieure que la fusion s'est étendue vers la sur- 
-face d'arrière, en rayonnant et en formant un bourrelet continu. Entre 
-autres météorites, celles représentées, pl. I, fig. 2, 3 et 3 bis mon- 
-trent clairement cette disposition . 
+Les rugosités et ondulations de cette seconde écorce indiquent la manière dont elle s'est étendue pendant le mouvement de la météorite, en ruisselant sur sa surface. Elle peut même servir à reconnaître la direction que suivait cette sorte de projectile dans son mouvement. Quelques échantillons, dont la forme rappelle celle d'un projectile cylindro-conique, ont dû subir la fusion d'abord sur la partie convexe qui, dans le mouvement rapide de translation, se trouvait en avant : c'est de cette partie antérieure que la fusion s'est étendue vers la surface d'arrière, en rayonnant et en formant un bourrelet continu. Entre autres météorites, celles représentées, pl. 1., fig. 2, 3 et 3 _bis_ montrent clairement cette disposition.*
 
-D'après la manière uniforme dont la seconde croûte s'est éten- 
-due, on doit supposer que les météorites ne possédaient pas un mou- 
-vement de rotation régulier au moment de la fritte et de la liquéfac- 
-tion qui s'en est suivie. Cette conclusion est conforme à celle que 
-M. Fleuriau de Bellevue a déjà déduite de l'examen qu'il a fait avec 
-beaucoup de sagacité des météorites tombées le 43 juin 4819 à Jonzac 
-(Charente-Inférieure). 
-
-L'existence et la disposition relative des deux croûtes conduisent 
-encore à une autre conclusion : c'est que les météorites qui les pré- 
-sentent ont, depuis leur entrée dans l'atmosphère, subi deux fusions 
-successives de leur surface. 
-
-D'abord une fritte générale, qui s'est étendue uniformément sur la 
-totalité, et qui correspond peut-être à la chaleur qui a accompagné 
-l'explosion. 
-
-Ensuite une recrudescence de fusion, mais seulement sur la par- 
-tie qui frappait l'air, en le refoulant avec intensité, à raison de l'énorme 
-vitesse. L'air ainsi refoulé à fait éprouver comme un coup de chalu- 
-meau à la partie antérieure de chaque éclat. A raison de son épais- 
-seur, cette seconde fritte correspond à une action moins rapide ou 
-plus intense que la première *. 
-
-Ilest encore à remarquer que les parties de la surface, à cavités 
-alvéolaires, présentent en général l'écorce de nature mince, et qu'elles 
-devaient par conséquent se trouver pour la plupart à l'arrière dans 
+D'après la manière uniforme dont la seconde croûte s'est étendue, on doit supposer que les météorites ne possédaient pas un mouvement de rotation régulier au moment de la fritte et de la liquéfaction qui s'en est suivie. Cette conclusion est conforme à celle que M. Fleuriau de Bellevue a déjà déduite de l'examen qu'il a fait avec beaucoup de sagacité des météorites tombées le 13 juin 1819 à Jonzac (Charente-Inférieure).
 
+L'existence et la disposition relative des deux croûtes conduisent encore à une autre conclusion : c'est que les météorites qui les présentent ont, depuis leur entrée dans l'atmosphère, subi deux fusions successives de leur surface.
 
-1. Comme exemples, je citerai aussi deux échantillons du musée de Montauban, l'un pesant 
-. 1300 gr., ramassé à Orgueil, l'autre pesant 82 gr., provenant de Campsas. 
+D'abord une fritte générale, qui s'est étendue uniformément sur la totalité, et qui correspond peut-être à la chaleur qui a accompagné l'explosion.
 
-2. Les différences dans la croûte, que présente la pierre tombée à Gross-Divina, en Hongrie, 
-le 24 juillet 1837, sont tout à fait du même genre. 
+Ensuite une recrudescence de fusion, mais seulement sur la partie qui frappait l'air, en le refoulant avec intensité, à raison de l'énorme vitesse. L'air ainsi refoulé a fait éprouver comme un coup de chalumeau à la partie antérieure de chaque éclat. A raison de son épaisseur, cette seconde fritte correspond à une action moins rapide ou plus intense que la première.*
 
-le mouvement. Cette conclusion est tout à fait d'accord avec l'observa- 
-tion déjà connue, rappelée à l'occasion du fer de Sarepta par mon émi- 
-nent ami, M. de Haidinger. Le côté d'avant ou de poitrine (Brustseite) 
-différe du côté d'arrière ou de dos (Ruckseite), par l'absence presque 
-totale de ces cavités caractéristiques ‘ 
+Il est encore à remarquer que les parties de la surface, à cavités alvéolaires, présentent en général l'écorce de nature mince, et qu'elles devaient par conséquent se trouver pour la plupart à l'arrière dans le mouvement. Cette conclusion est tout à fait d'accord avec l'observation déjà connue, rappelée à l'occasion du fer de Sarepta par mon éminent ami, M. de Haidinger. Le côté d'avant ou de poitrine (Brustseite) diffère du côté d'arrière ou de dos (Ruckseite), par l'absence presque totale de ces cavités caractéristiques.*
 
-Les deux écorces dont il vient d'être question ne sont pas égale- 
-ment distinctes sur tous les échantillons. 
+*) Comme exemples, je citerai aussi deux échantillons du musée de Montauban, l'un pesant 1300 gr., ramassé à Orgueil, l'autre pesant 82 gr., provenant de Campsas.
 
+*) Les différences dans la croûte, que présente la pierre tombée à Gross-Divina, en Hongrie, le 24 juillet 1837, sont tout à fait du même genre.
 
-Les météorites d'Orgueil sont arrivées froides dans l'atmosphère. 
+Les deux écorces dont il vient d'être question ne sont pas également distinctes sur tous les échantillons.
 
+_Les météorites d'Orgueil sont arrivées froides dans l'atmosphère._
 
-La nature essentiellement impressionnable des météorites d'Or- 
-gueil permet de conclure que la chaleur à laquelle elles ont été sou- 
-mises n'a été que de très-courte durée. 
+La nature essentiellement impressionnable des météorites d'Orgueil permet de conclure que la chaleur à laquelle elles ont été soumises n'a été que de très-courte durée.
 
-Ces météorites se distinguent, en effet, de toutes celles qu'on a 
-ordinairement l'occasion d'examiner, en ce qu'elles contiennent en- 
-core des matières volatiles, qu'une chaleur de quelque durée eût né- 
-cessairement fait disparaître. Or, d'après l'examen que M. Cloëz a bien 
-voulu faire sur ma demande, les parties voisines de l'écorce renfer- 
-ment encore de ces matières volatiles; mais, comme on pouvait le pré- 
-voir, dans une moindre proportion que les parties intérieures. Chacune 
-de ces météorites était donc non-seulement solide, mais à une tempé- 
-rature très-peu élevée au moment où sa surface, devenue incandes- 
-cente, est entrée en fusion, au moins pour quelques instants. 
+Ces météorites se distinguent, en effet, de toutes celles qu'on a ordinairement l'occasion d'examiner, en ce qu'elles contiennent encore des matières volatiles, qu'une chaleur de quelque durée eût nécessairement fait disparaître. Or, d'après l'examen que M. Cloëz a bien voulu faire sur ma demande, les parties voisines de l'écorce renferment encore de ces matières volatiles ; mais, comme on pouvait le prévoir, dans une moindre proportion que les parties intérieures. Chacune de ces météorites était donc non-seulement solide, mais à une température très-peu élevée au moment où sa surface, devenue incandescente, est entrée en fusion, au moins pour quelques instants.
 
-D'après l'analogie étroite existant entre les chutes de météorites 
-de tous les types, on doit supposer que les météorites ordinaires, elles 
-aussi, arrivent froides dans notre atmosphère. 
+D'après l'analogie étroite existant entre les chutes de météorites de tous les types, on doit supposer que les météorites ordinaires, elles aussi, arrivent froides dans notre atmosphère.
 
+Les études récentes sur la production mécanique de la chaleur ont amené plusieurs savants à supposer que la chaleur des météorites est due à la perte de leur force vive. Les météorites charbonneuses contredisent cette hypothèse ; car, au lieu d'être chaudes jusque dans leur centre, comme elles le devraient dans cette manière de voir, elles renferment des substances qu'une faible élévation de température eut altérées ou dissipées. Ce serait donc plutôt dans le frottement qui doit résulter d'une telle vitesse, et dans l'électricité que ce frottement énergique peut provoquer, qu'il faudrait chercher une cause de chaleur. Rien ne prouve d'ailleurs que ces petits corps planétaires ne soient pas pourvus d'une atmosphère propre ou, plus généralement, d'une enveloppe de nature inflammable.
 
-Les études récentes sur la production mécanique de la chaleur 
+*) Haidinger, Meteoreisen von Sarepta Sitzungsbericht der Academie der Wissenschaften, t. 46, 1862, 24 juillet.
 
+_C'est seulement à l'arrivée dans l'atmosphère que paraît avoir lieu l'explosion, cause de la forme fragmentaire._
 
-1. Haidinger, Meteoreisen von Sarepta Sitzungsbericht der Academie der Wissenschaften. 
-t. 46, 1862, 2% juillet. 
+Le gros échantillon que le Muséum tient de la libéralité de M. le maréchal Vaillant fournit, entre autres remarques intéressantes, un fait digne d'attention.
 
-ont amené plusieurs savants à supposer que la chaleur des météorites 
-est due à la perte de leur force vive. Les météorites charbonneuses 
-contredisent cette hypothèse; car, au lieu d'être chaudes jusque dans 
-leur centre, comme elles le devraient dans cette manière de voir, elles 
-renferment des substances qu'une faible élévation de température eut 
-altérées ou dissipées. Ce serait donc plutôt dans le frottement qui doit 
-résulter d'une telle vitesse, et dans l'électricité que ce frottement éner- 
-gique peut provoquer, qu'il faudrait chercher une cause de chaleur. 
-Rien ne prouve d'ailleurs que ces petits corps planétaires ne soient 
-pas pourvus d'une atmosphère propre ou. plus généralement, d'une 
-enveloppe de nature inflammable. 
+La disposition de son écorce et de son bourrelet, ainsi que celle de sa partie alvéolaire, permettent de reconnaître la position qu'il avait en traversant l'atmosphère. Or cet éclat, qui ressemble à une écaille épaisse détachée d'une surface courbe, au lieu de fendre l'air dans le sens de son épaisseur comme le ferait une pierre plate lancée violemment, a, au contraire, exécuté son trajet en refoulant l'air par sa grande surface. Ce fait paraît indiquer que le fragment a été projeté au moment de l'explosion avec une vitesse trop considérable, pour qu'il ait pu changer sa position initiale contre une situation de moindre résistance, au moins dans les premiers moments. On pourrait supposer qu'il a donc été contraint à prendre cette position anormale comme l'est un éclat de bombe, au moment de l'explosion du projectile.
 
+Rien n'autorise d'ailleurs à admettre, comme on l'a dit, que les diverses météorites d'une même chute voyagent dans les espaces séparées les unes des autres, en société et comme par essaim. Outre diverses considérations qu'on pourrait invoquer, le fait qui vient d'être signalé paraît fournir une preuve que les météorites d'une même chute formaient une masse unique, jusqu'à l'instant où, après son entrée dans l'atmosphère terrestre, elle a été brisée par suite de l'explosion.
 
-C'est seulement à l'arrivée dans l'atmosphère que paraît avoir lieu 
+_Carte indiquant les localités d'où l'on a observé le bolide du 14 mai 1864, ainsi que les principaux phénomènes physiques qui l'ont accompagné._
 
+La carte qui est figurée planche 2 résume d'une manière synoptique les principaux phénomènes physiques qui ont accompagné l'apparition du bolide du 14 mai 1864, et complète utilement les diverses communications faites sur ce sujet à l'Académie des sciences.
 
-l'explosion, cause de la forme fragmentaire. 
+Elle montre les principales stations d'où le phénomène a été observé ; la plus septentrionale est celle de Gisors (Eure) qui est située à environ 600 kilomètres vers le nord.
 
+La grandeur de l'étendue sur laquelle le bruit de l'explosion s'est fait entendre, étendue qui n'a pas moins de 280 kilomètres de diamètre, est un fait très-digne de remarque. On y voit aussi la limite au delà de laquelle l'explosion n'a pas été entendue, et celle au delà de laquelle on n'a pas pu la voir, si la hauteur trouvée est exacte. Ces deux lignes (CC et DD) sont respectivement à des distances de 430 et 520 kilomètres du lieu de la chute.
 
-Le gros échantillon que le Muséum tient de la libéralité de M. le 
-maréchal Vaillant fournit, entre autres remarques intéressantes, un 
-fait digne d'attention. 
+Sur un diamètre de 200 kilomètres, comme le montre la carte, ce bruit a même été entendu d'une manière très-intense ; les lignes AA et BB indiquent l'étendue de ces deux surfaces.
 
-La disposition de son écorce et de son bourrelet, ainsi que celle 
-de sa partie alvéolaire, permettent de reconnaitre la position qu'il 
-avait en traversant l'atmosphère. Or cet éclat, qui ressemble à une 
-écaille épaisse détachée d'une surface courbe, au lieu de fendre l'air 
-dans le sens de son épaisseur comme le ferait une pierre plate lancée 
-violemment, a, au contraire, exécuté son trajet en refoulant l'air par 
-sa grande surface. Ce fait paraît indiquer que le fragment a été pro- 
-jeté au moment de l'explosion avec une vitesse trop considérable. 
-pour qu'il ait pu changer sa position initiale contre une situation de 
-moindre résistance, au moins dans les premiers moments. On pourrait 
-supposer qu'il a donc été contraint à prendre cette position anormale 
+Cette dernière circonstance est très-digne d'intérêt ; car l'explosion a certainement eu lieu dans une région très-élevée, où la raréfaction de l'atmosphère rend la propagation du son très-difficile. Cette hauteur, comme on l'a montré antérieurement, est un peu moindre de 40 kilomètres au-dessus de la terre.
 
-comme l'est un éclat de bombe, au moment de l'explosion du pro- 
-jectile. 
+Pour qu'une explosion produite dans des couches d'air aussi raréfiées ait donné lieu, à la surface de la terre, à un bruit d'une pareille force sur une étendue si considérable, il faut admettre que son intensité, dans les hautes régions, a dépassé tout ce que nous connaissons.
 
-Rien n'autorise d'ailleurs à admettre, comme on l'a dit, que les 
-diverses météorites d'une même chute voyagent dans les espaces 
-séparées les unes des autres, en société et comme par essaim. Outre 
-diverses considérations qu'on pourrait invoquer, le fait qui vient 
-d'être signalé paraît fournir une preuve que les météorites d'une 
-même chute formaient une masse unique, jusqu'à l'instant où, après 
-son entrée dans l'atmosphère terrestre, elle a été brisée par suite de 
+_Distribution topographique des météorites recueillies._
 
+M. Abrial, ingénieur des ponts et chaussées à Montauban, a bien voulu, à ma prière, faire relever avec soin, par l'un de ses agents, tous les points où l'on a découvert de ces masses.
 
-l'explosion. 
+Quel que soit le soin avec lequel ait été faite cette enquête, ce tableau ne peut pas être complet, car un certain nombre de pierres sont certainement restées et resteront sans doute à jamais inconnues, parce qu'elles ont été entièrement délayées par les pluies, avant que l'enlèvement de la moisson ait mis le sol à découvert.
 
+Toutefois, l'examen de ce relevé conduit à quelques conclusions dont voici la principale* :
 
-Carte indiquant les localités d'où l'on a observé le bolide du Al mai 1864, 
+D'abord, l'aire de projection forme un ovale très-allongé compris entre le Tarn et la Garonne, ainsi qu'on le voit sur la carte ci-annexée, planche 1. Cet ovale a 20 kilomètres de longueur sur 4 de largeur.* Sa principale dimension s'étend dans la direction de l'est à l'ouest, c'est-à-dire à peu près dans le sens du mouvement du bolide, et à peu de distance au delà du point où paraît avoir eu lieu l'explosion principale à laquelle se rattache sans doute leur dispersion.
 
+*) La carte jointe à ce mémoire porte des numéros qui signalent les points où les échantillons ont été recueillis. Les numéros ne doivent, du reste, être considérés que comme de simples signaux indicatifs. Ils correspondent à un catalogue qu'il serait sans intérêt de reproduire ici.
 
-ainsi que les principaux phénomènes physiques qui l'ont accompagné. 
+*) D'après une communication obligeante de M. Victor Brun, on a aussi trouvé à Faux, commune de Saint-Maurice, canton de Beauville (Lot-et-Garonne), des débris noirs charbonneux, ayant de l'analogie avec le produit que fournissent les météorites d'Orgueil, après avoir été délayées par l'eau ; mais l'identité n'a pas pu être démontrée.
 
+Quant à la grosseur des météorites, elle n'est pas irrégulièrement répartie sur l'aire de projection. Les plus nombreuses, d'un poids moyen d'environ 100 grammes, ont été ramassées aux environs de Campsas. Les plus petites, dont quelques-unes ne pesaient que 15 grammes, ont éte trouvées dans la partie occidentale, notamment aux environs de Montbéqui, tandis qu'au contraire c'est dans la partie la plus orientale que se sont trouvées les plus volumineuses. Aussi les échantillons pesant au delà de 1 kilogramme ont tous été recueilis à l'est de la route de Montauban à Toulouse, passant par Frontin, et le plus gros pesant 2 kilogrammes, et qui est tombé au château de Beaudanger, occupe précisément la position la plus avancée de toutes vers l'est.
 
-La carte qui est figurée planche 2 résume d'une maniere synop- 
-tique les principaux phénomènes physiques qui ont accompagné l'ap- 
-parition du bolide du 44 mai 1864, et complète utilement les diverses 
-communications faites sur ce sujet à l'Académie des sciences. 
+Ce triage a été évidemment produit par l'inégale résistance que l'air opposait à ces projectiles selon leur masse : ce qui s'accorde avec la supposition qu'ils arrivaient, suivant la même direction et très-rapprochés les uns des autres.
 
-Elle montre les principales stations d'où le phénomène a été 
-observé; la plus septentrionale est celle de Gisors (Eure) qui est située 
-à environ 600 kilomètres vers le nord. 
+Un caractère remarquable présenté par les météorites, c'est l'identité qui existe entre les échantillons d'une même chute ; cette identité est d'autant plus digne d'attention dans le cas particulier, que les météorites sont d'une nature rare, et qu'on pourrait croire, d'après leur nature charbonneuse, hydratée et hétérogène, provenir des parties superficielles d'un corps planétaire où, pour la position, mais non pour l'origine, elles correspondraient en quelque sorte à la terre végétale.
 
-La grandeur de l'étendue sur laquelle le bruit de l'explosion s'est 
-fait entendre, étendue qui n'a pas moins de 280 kilomètres de dia- 
-mètre, est un fait très-digne de remarque. On y voit aussi la limite 
-au delà de laquelle l'explosion n'a pas été entendue, et celle au delà 
-de laquelle on n'a pas pu la voir, si la hauteur trouvée est exacte. Ces 
-deux lignes (CC et DD) sont respectivement à des distances de 430 et 
-520 kilomètres du lieu de la chute. 
+Remarquons d'un autre côté que si, par une circonstance quelconque, une explosion détachait des éclats de la croûte terrestre, ceux-ci ne présenteraient pas une telle homogénéité.
 
-Sur un diamètre de 200 kilomètres, comme le montre la carte, ce 
-bruit a même été entendu d'une manière très-intense; les lignes 
-AA et BB indiquent l'étendue de ces deux surfaces. 
+_Une partie de la masse du bolide ne ressort-elle pas de l'atmosphère après l'explosion ?_
 
+Le faible poids des morceaux qui tombent sur le globe, comparé aux apparences du phénomène qui précède les chutes, conduit à une supposition que je crois devoir présenter, malgré l'incertitude inhérente à un pareil sujet.
 
-Cette dernière circonstance est très-digne d'intérêt; car l'explo- 
-sion a certainement eu lieu dans une région très-élevée, où la raré- 
-faction de l'atmosphère rend la propagation du son très-difficile. Cette 
-hauteur, comme on l'a montré antérieurement, est un peu moindre de 
-40 kilomètres au-dessus de la terre. 
+Bien que tous les fragments aient été recherchés avec le plus grand soin par les cultivateurs qui trouvaient à les vendre très-avantageusement, le poids total de tout ce qui a été réuni ne peut guère être estimé a plus de 15 kilogrammes, ce qui formerait au plus quelques décimètres cubes. Quand même on décuplerait ce chiffre pour tenir compte des masses inaperçues, on aurait encore un poids bien insignifiant, par rapport aux manifestations si grandioses du phénomène qui à été aperçu simultanément de régions situées au nord de Paris et de plusieurs points de l'Espagne.
 
-Pour qu'une explosion produite dans des couches d'air aussi 
-raréfiées ait donné lieu, à la surface de la terre, à un bruit d'une 
-pareille force sur une étendue si considérable, il faut admettre 
-que son intensité, dans les hautes régions, a dépassé tout ce que 
-nous COnNaissOns. 
+Il est vrai que la chaleur intense et l'énorme frottement qu'éprouvent ces masses, lors de leur passage dans l'atmosphère terrestre, sont assez puissants pour déterminer à la fois la combustion de certains éléments et la pulvérisation de certains autres.
 
+C'est en effet la manière la plus simple d'expliquer cette traînée nuageuse, d'un gris cendré, et assez brillante pour avoir été qualifiée par plus d'un observateur de _nébulosité_. Une pareille traînée, pour conserver un état lumineux pendant plusieurs minutes, comme cela s'est vu dans la chute d'Orgueil, devait tenir en suspension des matières incandescentes très-fines, à moins toutefois qu'on ne préfère recourir à l'intervention, peut-être gratuite, de phénomènes électriques.
 
-Distribution topographique des météorites recueillies. 
+Ainsi, en résumé, les bolides nous abandonneraient de leur substance de trois manières différentes : 1° par combustion et réduction à l'état de gaz et de vapeur ; 2° par dispersion de poussières qui retombent en général sans être observées et analogues à celles qui ont été recueillies à la suite de certains météores ; 3° enfin par la dispersion de fragments qui se détachent au moment de l'explosion.
 
+En tenant compte de ce qui vient d'être dit, il est bien difficile d'admettre, comme on l'a fait quelquelois, et notamment à propos de la météorite du 14 mai 1864, que les fragments qui tombent représentent, avec les parties brûlées ou disséminées, la masse totale du bolide.
 
-M. Abrial, ingénieur des ponts et chaussées à Montauban, a bien 
-voulu, à ma prière, faire relever avec soin, par l'un de ses agents, 
-tous les points où l'on a découvert de ces masses. 
+En effet, à moins qu'une masse ne possède une densité et une ténacité comparables à celles du fer, il faut bien qu'elle ait un volume considérable pour se frayer ainsi un passage dans l'air, malgré l'énorme résistance qu'il lui oppose, et ne pas dépenser pendant un aussi long trajet la quantité de mouvement dont elle était animée.
 
-Quel que soit le soin avec lequel ait été faite cette enquête, ce 
-tableau ne peut pas être complet, car un certain nombre de pierres 
-sont certainement restées et resteront sans doute à jamais inconnues, 
-parce qu'elles ont été entièrement délayées par les pluies, avant que 
-l'enlèvement de la moisson ait mis le sol à découvert. 
+Toute personne qui maniera un échantillon des météorites d'Orgueil concevra à l'instant qu'une masse peu considérable d'une substance aussi éminemment fragile et incohérente, formant comme un agrégat hétérogène à peine cimenté, n'aurait pu vaincre la résistance énorme que lui opposait l'atmosphère, sans être en quelque sorte entièrement réduite en poussière.
 
-Toutefois, l'examen de ce relevé conduit à quelques conclusions 
-dont voici la principale * : 
+Il serait donc possible que le bolide fût formé, en général, d'un noyau résistant, et qu'après nous avoir projeté, par une ou plusieurs explosions, sa partie superficielle, il continuât sa trajectoire.
 
-D'abord, l'aire de projection forme un ovale très-allongé compris 
-entre le Tarn et la Garonne, ainsi qu'on le voit sur la carte ci-annexée. 
-planche 4. Cet ovale a 20 kilomètres de longueur sur 4 de largeur *. 
+Et ce qui prouve que cette manière de voir n'est pas une pure spéculation, c'est que plusieurs témoins dignes de foi, après l'incandescence éblouissante qui a suivi la seconde explosion, ont distingué le bolide continuant sa course, mais réduit seulement à l'éclat d'un rouge sombre et diminuant graduellement de grandeur jusqu'à ce qu'il ne fût plus visible ; ce qui se conçoit, attendu son rapide éloignement et la décroissance de sa chaleur et de sa lumière, par son retour dans les espaces, en traversant des couches atmosphériques de moins en moins denses.
 
+Quand on voit la facilité avec laquelle un boulet ricoche sur l'eau, on peut comprendre comment un bolide pareil ricoche habituellement sur les couches supérieures de l'atmosphère. Dans ce dernier cas, la plus faible résistance de l'air se trouverait compensée par l'énorme vitesse du projectile.
 
-. 
+En résumé, le corps qui avait manifesté son arrivée par un splendide phénomène lumineux et par un bruit si imposant s'est borné à lancer sur notre globe des éclats d'un volume insignifiant.
 
-1. La carte jointe à ce mémoire porte des numéros qui signalent les points où les échan- 
-tillons ont été recueillis. Les numéros ne doivent, du reste, être considérés que comme de simples 
-signaux indicatifs. Ils correspondent à un catalogue qu'il serait sans intérêt de reproduire ici. 
+Les choses se passent donc comme si la plus grande partie de la masse météorique ressortait de l'atmosphère pour continuer sa trajectoire, n'abandonnant que quelques parcelles dont la vitesse, à la suite de l'explosion, se trouvait amortie.
 
-2. D'après une communication obligeante de M. Victor Brun, on a aussi trouvé à Faux. 
+Quant à l'explosion elle-même, la manière la plus simple de l'expliquer par analogie avec ce qui se passe sous nos yeux consiste à admettre que les couches superficielles du bolide éclatent sous la chaleur rapide et intense qui se développe, comme le fait une pierre silicatée sous l'action brusque du chalumeau.*
 
-Sa principale dimension s'étend dans la direction de l'est à l'ouest, 
-c'est-à-dire à peu près dans le sens du mouvement du bolide, et à peu 
-de distance au delà du point où paraît avoir eu lieu l'explosion princi- 
-pale à laquelle se rattache sans doute leur dispersion. 
+*) C'est ce que j'ai montré par l'expérience, dans une note sur la décrépitation des roches les plus dures, _Annales des Mines_, 5e série, t. 19., p. 23, 1861.
 
-Quant à la grosseur des météorites, elle n'est pas irrégulière- 
-ment répartie sur l'aire de projection. Les plus nombreuses, d'un 
-poids moyen d'environ 100 grammes, ont été ramassées aux environs 
-de Campsas. Les plus petites, dont quelques-unes ne pesaient que 15 
-grammes, ont éte trouvées dans la partie occidentale, notamment aux 
-environs de Montbéqui, tandis qu'au contraire c'est dans la partie la 
-plus orientale que se sont trouvées les plus volumineuses. Aussi les 
-échantillons pesant au delà de 1 kilogramme ont tous été recueilis 
-à l'est de la route de Montauban à Toulouse, passant par Frontin, et le 
-plus gros pesant 2 kilogrammes, et qui est tombé au château de Beau- 
-danger, occupe précisément la position la plus avancée de toutes vers 
-l'est. 
+Sans doute, par l'effet de l'énorme chaleur à laquelle est soumis le bolide, des matières hydrocarbonées comme celles que contiennent les météorites d'Orgueil doivent subir une sorte de distillation, ou une évaporation de liquides volatils et inflammables, à la manière du pétrole, d'où résulteraient des gaz inflammables dans l'oxygène atmosphérique. D'ailleurs, rien ne prouve qu'à part cette exhalaison momentanée ces petits corps planétaires ne soient pas pourvus d'une atmosphère propre, qu'à la vérité ils abandonnent bientôt en entrant dans notre atmosphère. Ces gaz, quelle qu'en soit l'origine, peuvent bien par leur combustion contribuer à l'éclat du météore ; mais, comme ils brûleraient d'une manière continue, il faut avouer qu'ils laissent sans explication le fait de l'explosion qui précède toute chute de météorites, sans parler de la difficulté spéciale que présente une suite de détonations, comme on l'observe fréquemment, de manière à faire penser à des recharges successives de l'appareil explosif.*
 
-Le triage à été évidemment produit par l'inégale résistance que 
-l'air opposait à ces projectiles selon leur masse : ce qui s'accorde avec 
-la Supposition qu'ils arrivaient, suivant la même direction et très- 
-rapprochés les uns des autres. 
+*) Lors de la chute d'Orgueil, on a entendu, à une fraction de seconde d'intervalle, deux explosions, la seconde incomparablement plus forte que la première.
 
-Un caractère remarquable présenté par les météorites, c'est l'iden- 
-tité qui existe entre les échantillons d'une même chute; cette identité 
-est d'autant plus digne d'attention dans le cas particulier, que les mé- 
-téorites sont d'une nature rare, et qu'on pourrait croire, d'après leur 
-nature charbonneuse, hydratée et hétérogène, provenir des parties su- 
-pertficielles d'un corps planétaire où. pour la position, mais non pour 
-l'origine, elles correspondraient en quelque sorte à la terre végétale. 
+---
 
-Remarquons d'un autre côté que si, par une circonstance quelcon- 
+## Extraits de quelques lettres formant le complément de celles qui ont été antérieurement publiées dans les Comptes rendus de l'Académie des sciences.
 
+_Lettre de M. Boisgiraud aîné, ancien professeur de physique à la Faculté de Toulouse._
 
-commune de Saint-Maurice, canton de Beauville (Lot-et-Garonne), des débris noirs charbonneux, 
-ayant de l'analogie avec le produit que fournissent les météorites d'Orgueil, après avoir été dé- 
-layées par l'eau ; mais l'identité n'a pas pu être démontrée. 
+Gémozac, le 12 juin 1864. (Charente-Inférieure.)
 
-que, une explosion détachait des éclats de la croûte terrestre, ceux-ci 
-ne présenteraient pas une telle homogénéité. 
+Je ne me suis aperçu de l'apparition lumineuse qu'au moment de l'explosion. Le bolide était alors divisé en plusieurs fragments descendant vers la terre et projetant une vive lumière. J'ai évalué la hauteur à une trentaine de degrés au-dessus de l'horizon. Pensant que la division du bolide était due à une explosion, j'ai écouté attentivement pendant quelques minutes, et je n'ai rien entendu.
 
+_Lettre de M. Fournet, correspondant de l'Institut._
 
-Une partie de la masse du bolide ne ressort-elle pas de l'atmosphère 
+Lyon, le 19 juin 1864.
 
+Le bolide a été vu d'une station située un peu au-dessous de Vourles, au sud de Brignais, par M. Joannon qui donne les détails suivants :
 
-après l'explosion ? 
+A partir du moment où il a attiré les regards, le météore a semblé parcourir deux ou trois kilomètres. Sa course était horizontale, à peine aussi rapide que celle des étoiles filantes ordinaires. Comme niveau, il a paru dépasser de peu les montagnes de Mornant qui bornent l'horizon occidental. La couleur du bolide était blanche, peut-être un peu  rougeâtre dans le noyau, lorsqu'il éclata. Nous n'avons pas entendu de détonation. D'après les altitudes de la station et des sommets des montagnes de Saint-André-la-Côte et de Priverie qui dominent Mornant, la trajectoire du bolide aurait eu en moyenne une hauteur de 4 ou 5 degrés environ au-dessus de l'horizon.
 
-
-Le faible poids des morceaux qui tombent sur le globe, comparé 
-aux apparences du phénomène qui précède les chutes, conduit à une 
-supposition que je crois devoir présenter, malgré l'incertitude inhé- 
-rente à un pareil sujet. 
+_Lettre de M. Amédée Guillemin._
 
-Bien que tous les fragments aient été recherchés avec le plus 
-grand soin par les cultivateurs qui trouvaient à les vendre trés-avan- 
-tageusement, le poids total de tout ce qui a été réuni ne peut guère 
-être estimé a plus de 15 kilogrammes, ce qui formerait au plus quel- 
-ques décimètres cubes. Quand même on décuplerait ce chiffre pour 
-tenir compte des masses inaperçues, on aurait encore un poids bien 
-insignifiant, par rapport aux manifestations si grandioses du phéno- 
-mène qui à été aperçu simultanément de régions situées au nord de 
-Paris et de plusieurs points de l'Espagne. 
-
-Il'est vrai que la chaleur intense et l'énorme frottement qu'éprou- 
-vent ces masses, lors de leur passage dans l'atmosphère terrestre, sont 
-assez puissants pour déterminer à la fois la combustion de certains 
-éléments et la pulvérisation de certains autres. 
+Fontainebleau, le 17 juin.
 
-C'est en effet la manière la plus simple d'expliquer cette traînée 
-nuageuse, d'un gris cendré, et assez brillante pour avoir été qualifiée 
-par plus d'un observateur de nébulosité. Une pareille traînée, pour 
-conserver un état lumineux pendant plusieurs minutes, comme cela 
-s'est vu dans la chute d'Orgueil, devait tenir en suspension des 
-matières incandescentes très-fines, à moins toutefois qu'on ne préfère 
-recourir à l'intervention, peut-être gratuite, de phénomènes élec- 
-triques. 
+C'est dans la direction du S. S. O. qu'est apparu le globe lumineux, se mouvant lentement dans la direction de l'ouest à l'est, suivant une ligne légèrement courbe et inclinée vers l'horizon. Sa hauteur au-dessus de l'horizon était de 4 à 5 degrés* ; sa forme était celle d'un globe enflammé terminé par une longue traînée allant en s'amincissant du côté opposé au globe. Il disparut sous l'horizon à peu près dans le méridien, et après avoir décrit un arc d'environ 50 ou 60 degrés ; mais une partie de sa trajectoire avait été masquée par un bouquet d'arbres. Les personnes qui m'ont donné ces détails estiment que la grosseur de la tête du bolide était notablement moindre que le disque lunaire.
 
-Ainsi, en résumé, les bolides nous abandonneraient de leur sub- 
-stance de trois manières différentes : 4° par combustion et réduction à 
-l'état de gaz et de vapeur; 2° par dispersion de poussières qui retom- 
-bent en général sans être observées et analogues à celles qui ont été 
-recueillies à la suite de certains météores; 3° enfin par la dispersion 
-de fragments qui se détachent au moment de lexplosion. 
+*) Un croquis accompagnant cette explication semblerait donner une hauteur un peu plus considérable à la trajectoire.
 
-En tenant compte de ce qui vient d'être dit, il est bien difficile 
-d'admettre, comme on l'a fait quelquelois, et notamment à propos de 
-la météorite du 14 mai 1864, que les fragments qui tombent repré- 
-sentent, avec les parties brûlées ou disséminées, la masse totale du 
-bolide. 
+_Lettre du contre-amiral vicomte Fleuriot de Langle, major général du port de Lorient._
 
-En effet, à moins qu'une masse ne possède une densité et une 
-ténacité comparables à celles du fer, il faut bien qu'elle ait un 
-volume considérable pour se frayer ainsi un passage dans l'air, mal- 
-gré l'énorme résistance qu'il lui oppose, et ne pas dépenser pendant 
-un aussi long trajet la quantité de mouvement dont elle était ani- 
-mée. 
-
-Toute personne qui maniera un échantillon des météorites d'Or- 
-gueil concevra à l'instant qu'une masse peu considérable-d'une sub- 
-stance aussi éminemment fragile et incohérente, formant comme un 
-agrégat hétérogène à peine cimenté, n'aurait pu vaincre la résistance 
-énorme que lui opposait l'atmosphère, sans être en quelque sorte 
-entièrement réduite en poussière. 
-
-Il serait donc possible que le bolide fût formé, en général, d'un 
-noyau résistant, el qu'après nous avoir projeté, par une ou plusieurs 
-explosions, sa partie superficielle, il continuât sa trajectoire. 
-
-Et ce qui prouve que cette manière de voir n'est pas une pure 
-spéculation, c'est que plusieurs témoins dignes de foi, après l'incan- 
-
-
-descence éblouissante qui a suivi la seconde explosion, ont distingué 
-
-le bolide continuant sa course, mais réduit seulement à l'éclat d'un 
-rouge sombre et diminuant graduellement de grandeur jusqu'à ce qu'il 
-ne fût plus visible; ce qui se conçoit, attendu son rapide éloignement 
-et la décroissance de sa chaleur et de sa lumière, par son retour dans 
-les espaces, en traversant des couches atmosphériques de moins en 
-moins denses. 
-
-Quand on voit la facilité avec laquelle un boulet ricoche sur l'eau, 
-on peut comprendre comment un bolide pareil ricoche habituellement 
-sur les couches supérieures de l'atmosphère. Dans ce dernier cas, la 
-plus faible résistance de l'air se trouverait compensée par l'énorme 
-vitesse du projectile. 
-
-En résumé, le corps qui avait manifesté son arrivée par un splen- 
-dide phénomène lumineux et par un bruit si imposant s'est borné à 
-lancer sur notre globe des éclats d'un volume insignifiant. 
-
-Les choses se passent donc comme si la plus grande partie de la 
-masse météorique ressortait de l'atmosphère pour continuer sa trajec- 
-toire, n'abandonnant que quelques parcelles dont la vitesse. à la suite 
-de l'explosion, se trouvait amortie. 
-
-Quant à l'explosion elle-même, la manière la plus simple de l'ex- 
-pliquer par analogie avec ce qui se passe sous nos yeux consiste à 
-admettre que les couches superficielles du bolide éclatent sous la cha- 
-leur rapide et intense qui se développe, comme le fait une pierre sili- 
-catée sous l'action brusque du chalumeau !. 
-
-Sans doute, par l'effet de l'énorme chaleur à laquelle est soumis 
-le bolide, des matières hydrocarbonées comme celles que contiennent 
-les météorites d'Orgueil doivent subir une sorte de distillation, ou 
-une évaporation de liquides volatils et inflammables, à la manière du 
-pétrole, d'où résulteraient des gaz inflammables dans l'oxygène 
-
-
-1. C'est ce que j'ai montré par l'expérience, dans une note sur la décrépitation des roches 
-les plus dures, Annales des Mines, 5° série, t. XIX, p. 23, 1864. 
-
-atmosphérique. D'ailleurs, rien ne prouve qu'à part cette exhalaison 
-momentanée ces petits corps planétaires ne soient pas pourvus d'une 
-atmosphère propre, qu'à la vérité ils abandonnent bientôt en entrant 
-dans notre atmosphère. Ces gaz, quelle qu'en soit l'origine, peuvent 
-bien par leur combustion contribuer à l'éclat du météore ; mais, comme 
-ils brûleraient d'une manière continue, il faut avouer qu'ils laissent 
-sans explication le fait de l'explosion qui précède toute chute de mé- 
-téorites, sans parler de la difficulté spéciale que présente une suite de 
-détonations, comme on l'observe fréquemment, de manière à faire 
-penser à des recharges successives de l'appareil explosif 1. 
-
-
-Extraits de quelques lettres formant le complément de celles qui ont été antérieurement 
-publiées dans les Comptes rendus de l'Académie des'sciences. 
-
-
-Lettre de M. Boisgiraud aïné, ancien professeur de physique à la Faculté 
-de Toulouse. 
-
-
-Gémozac, le 42 juin 4864. {Charente-Inférieure. 
-
-
-Je ne me suis aperçu de l'apparition lumineuse qu'au moment de 
-l'explosion. Le bolide était alors divisé en plusieurs fragments des- 
-cendant vers la terre et projetant une vive lumière. J'ai évalué la hau- 
-teur à une trentaine de degrés au-dessus de l'horizon. Pensant que la 
-division du bolide était due à une explosion, j'ai écouté attentivement 
-pendant quelques minutes, et je n'ai rien entendu. 
-
-
-Lettre de M. Fournet, correspondant de l'Institut. 
-Lyon, le 49 juin 14864. 
-Le bolide a été vu d'une station située un peu au-dessous de 
-Vourles, au sud de Brignais, par M. Joannon qui donne les détails sui- 
-vants : 
-
-
-4. Lors de la chute d'Orgueil, on a entendu, à une fraction de seconde d'intervalle, deux 
-explosions, la seconde incomparablement plus forte que la première. 
-
-À partir du moment où il a attiré les regards, le météore a semblé 
-parcourir deux ou trois kilomètres. Sa course était horizontale. à peine 
-aussi rapide que celle des étoiles filantes ordinaires. Comme niveau, 
-il a paru dépasser de peu les montagnes de Mornant qui bornent l'ho- 
-rizon occidental, La couleur du bolide était blanche, peut-être un peu : 
-rougeñtre dans le noyau, lorsqu'il éclata. Nous n'avons pas entendu | 
-de détonation. D'après les altitudes de la station et des sommets des 
-montagnes de Saint-André-la-Côte et de Priverie qui dominent Mor- 
-nant, la trajectoire du bolide aurait eu en moyenne une hauteur de 
-h ou 5 degrés environ au-dessus de l'horizon. 
-
-
-Lettre de M. Amédée Guillemin. 
-Fontainebleau, le 47 juin. 
-
-
-C'est dans la direction du $S. S. O. qu'est apparu le globe lumi- 
-neux, se mouvant lentement dans la direction de l'ouest à l'est, sui- 
-vant une ligne légèrement courbe et inclinée vers l'horizon. Sa hau- 
-teur au-dessus de l'horizon était de 4 à 5 degrés ‘ ; sa forme était celle 
-d'un globe enflammé terminé par une longue traînée allant en s'amin- 
-cissant du côté opposé au globe. Il disparut sous l'horizon à peu près 
-dans le méridien, et après avoir décrit un arc d'environ 50 ou 60 degrés ; 
-mais une partie de sa trajectoire avait été masquée par un bouquet 
-d'arbres. Les personnes qui m'ont donné ces détails estiment que la 
-grosseur de la tête du bolide était notablement moindre que le disque 
-lunaire. 
-
-
-4. Un croquis accompagnant cette explication semblerait donner une hauteur un peu plus 
-considérable à la trajectoire. 
-
-
-lil, +4 
-
-Lettre du contre-amiral vicomte Fleuriot de Langle, major général 
-du port de Lorient. 
-
-
-Lorient, le 45 juin. 
-
+Lorient, le 15 juin.
 
 La trajectoire était bien indiquée de l'O. N. 0. vers l'E.S. E. Ason 
 apparition, le globe me parut élevé de 30° au-dessus de l'horizon et la 
@@ -564,15 +263,11 @@ d'une boussole armée d'un éclimètre. Il était impossible de s'acquitter
 de la tâche qu'il avait bien voulu accepter, avec plus de zèle et de 
 succès. C'est là un louable exemple de dévouement à la science. 
 
-
 PI. I, Météorites de la chute d'Orgueil. 
-
 
 (14 mai 1864.) 
 
-
 N. B. Toutes les météorites représentées sur cette figure sont réduites à moitié de la dimension linéaire. 
-
 
 1 et 4 bis. Météorite d'Orgueil pesant environ 2 kilogr., donnée au Muséum par M. le maréchal 
 Vaillant. 
