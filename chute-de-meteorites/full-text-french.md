@@ -37,136 +37,51 @@ Comme les météorites alumineuses, elle contient de la pyrite magnétique très
 
 Mais elle se distingue, au point de vue chimique, des météorites ordinaires par la présence d'une matière charbonneuse, d'ammoniaque en partie à l'état de chlorhydrate, d'un silicate hydraté ; enfin d'un carbonate appartenant à l'espèce breunérite, carbonate double de magnésie et de protoxyde de fer.
 
-Une composition aussi complexe et aussi hétérogène paraît indi- 
-quer que le mode de formation des météorites d'Orgueil diffère, à cer- 
-tains égards, de celui des météorites ordinaires. 
+Une composition aussi complexe et aussi hétérogène paraît indiquer que le mode de formation des météorites d'Orgueil diffère, à certains égards, de celui des météorites ordinaires.
 
-Celles-ci, en effet, paraissent avoir été formées en quelque sorte 
-. d'un seul jet, et il semble qu'il en a été tout autrement de la masse 
-dont les météorites d'Orgueil sont les éclats. 
+Celles-ci, en effet, paraissent avoir été formées en quelque sorte d'un seul jet, et il semble qu'il en a été tout autrement de la masse dont les météorites d'Orgueil sont les éclats.
 
-Comment comprendre que les minéraux de nature si variée qui 
-composent cette météorite (silicates magnésiens hydratés, carbonate. 
-pyrite magnétique cristallisée) , et qui, d'après l'état actuel de la 
-science, ne paraissent pas pouvoir se former dans les mêmes condi- 
-tions, aient pris naissance simultanément, comme les météorites du 
+Comment comprendre que les minéraux de nature si variée qui composent cette météorite (silicates magnésiens hydratés, carbonate, pyrite magnétique cristallisée), et qui, d'après l'état actuel de la science, ne paraissent pas pouvoir se former dans les mêmes conditions, aient pris naissance simultanément, comme les météorites du type commun, qui ont tous pour caractère d'être susceptibles d'être reproduits à haute température par la voie sèche ?
 
-type commun, qui ont tous pour caractère d'être susceptibles d'être 
-reproduits à haute température par la voie sèche? 
+C'est comme si les minéraux formant la météorite d'Orgueil résultaient de phases successives subies par une matière primitive plus simple, et comme si cette météorite constituait ainsi l'un des termes avancés d'une véritable évolution.
 
-C'est comme si les minéraux formant la météorite d'Orgueil résul- 
-taient de phases successives subies par une matière primitive plus 
-simple, et comme si cette météorite constituait ainsi l'un des termes 
-avancés d'une véritable évolution. | 
+Certains échantillons de la chute d'Orgueil présentent de petits grains d'une matière parfaitement blanche, qui se distinguent par conséquent avec beaucoup de netteté sur la couleur noire de la pâte, malgré leur petitesse. Leur diamètre excède rarement un millimètre. Ils sont friables, et leur poussière, transparente et incolore, ne présente, à l'examen microscopique, que des formes anguleuses et fragmentaires.
 
-Certains échantillons de la chute d'Orgueil présentent de petits 
-grains d'une matière parfaitement blanche, qui se distinguent par 
-conséquent avec beaucoup de netteté sur la couleur noire de la pâte, 
-malgré leur petitesse. Leur diamètre excède rarement un millimètre. 
-Is sont friables, et leur poussière, transparente et incolore, ne pré- 
-sente, à l'examen microscopique, que des formes anguleuses et frag- 
-mentaires. 
+Cette matière est inattaquable par l'acide chlorhydrique concentré et bouillant. Chauffé au blanc sur un fil de platine à la lampe de Bunsen, chaque grain conserve ses arêtes tout à fait vives. Au chalumeau avec le sel de phosphore, elle ne se dissout pas ; avec le carbonate de soude, elle fond en un verre transparent.
 
-Cette matière est inattaquable par l'acide chlorbydrique concen- 
-tré et bouillant. Chauffé au blanc sur un fil de platine à la lampe de 
-Bunsen, chaque grain conserve ses arêtes tout à fait vives. Au chalu- 
-meau avec le sel de phosphore, elle ne se dissout pas; avec le carbo- 
-nate de soude, elle fond en un verre transparent. 
+La petite quantité de substance dont on pouvait disposer n'a pas permis d'en faire un examen plus approfondi, mais les réactions qui précèdent montrent qu'elle à tous les caractères de l'acide silicique.
 
-La petite quantité de substance dont on pouvait disposer n'a pas 
-permis d'en faire un examen plus approfondi, mais les réactions qui 
-précèdent montrent qu'elle à tous les caractères de l'acide silicique. 
+Elle paraît d'ailleurs inactive sur la lumière polarisée, comme les variétés de quartz amorphe et comme l'opale.
 
-Elle parait d'ailleurs inactive sur la lumière polarisée, comme les 
-variétés de quartz amorphe et comme l'opale. | 
+Jusqu'à présent le quartz n'a pas été rencontré dans les pierres météoriques : le seul exemple de cette substance qui ait été signalé se rapporte au fer météorique de Toluca, où il a été observé par M. Gustave Rose.
 
-Jusqu'à présent le quartz n'a pas été rencontré dans les pierres 
-météoriques : le seul exemple de cette substance qui ait été signalé se 
-rapporte au fer météorique de Toluca, où il a été observé par M. Gus- 
-tave Rose. 
+La singularité de la présence de l'acide silicique libre au milieu d'un silicate aussi basique que celui qui constitue la météorite d'Orgueil, peut s'expliquer par cette circonstance que cet acide silicique ne se serait pas formé en même temps que la pâte, mais qu'il paraîtrait s'en être séparé ultérieurement, par un effet de décomposition du silicate. Son apparition est comparable peut-être à celle des efflorescences de sulfates à bases de magnésie, de chaux et de protoxyde de fer qui se produisent rapidement par l'exposition des échantillons à l'air humide.*
 
-La singularité de la présence de l'acide silicique libre au milieu 
-d'un silicate aussi basique que celui qui constitue la météorite d'Or- 
-gueil, peut s'expliquer par cette circonstance que cet acide silicique 
-ne se serait pas formé en même temps que la pâte, mais qu'il parai- 
-trait s'en être séparé ultérieurement, par un effet de décomposition du 
-silicate. Son apparition est comparable peut-être à celle des efflores- 
-cences de sulfates à bases de magnésie, de chaux et de protoxyde de 
-fer qui se Rrofnisene rapidement par l'exposition des échantillons à 
-l'air humide ". | 
+Parmi les météorites charbonneuses connues, aucune ne ressemble plus à celle d'Orgueil que la météorite d'Alais. La ressemblance est si grande, qu'on pourrait les prendre pour des échantillons d'une même chute.
 
-Parmi les météorites charbonneuses connues, aucune ne res- 
-semble plus à celle d'Orgueil que la météorite d'Alais. La ressem- 
-blance est si grande, qu'on pourrait les prendre pour des échantillons 
-d'une même chute. 
+Il faut toutefois remarquer que la comparaison ne pourrait être poussée dans les moindres détails, puisque la pierre d'Alais, d'une nature évidemment altérable, ne possède plus exactement ses caractères originels.
 
-Il faut toutefois remarquer que la comparaison ne pourrait être 
-poussée dans les moindres détails, puisque la pierre d'Alais, d'une 
-nature évidemment altérable, ne possède plus exactement ses carac- 
-tères originels. | 
+Faisons observer que les météorites qui nous occupent nous offrent encore cet intérêt, pour le géologue non moins que pour le chimiste, qu'elles nous montrent une combinaison charbonneuse dans un corps planétaire où rien ne prouve jusqu'ici l'existence d'êtres organisés, animaux ou végétaux.
 
-Faisons observer que les météorites qui nous occupent nous 
-offrent encore cet intérêt, pour le géologue non moins que pour le 
-chimiste, qu'elles nous montrent une combinaison charbonneuse dans 
-un corps planétaire où rien ne prouve jusqu'ici l'existence d'êtres 
-organisés, animaux ou végétaux. 
+Ce sont des météorites d'une constitution à la fois aussi caractéristique et aussi rare, dont le retour permettra peut-être plus tard d'éclairer la nature du mouvement de ces corps, en faisant découvrir une certaine périodicité entre des chutes analogues.
 
-Ce sont des météorites d'une constitution à la fois aussi caracté- 
-ristique et aussi rare, dont le retour permettra peut-être plus tard 
-d'éclairer la nature du mouvement de ces corps, en faisant découvrir 
-une certaine périodicité entre des chutes analogues. 
+Les météorites charbonneuses nous apprennent encore, par leur composition essentiellement différente des matières volcaniques, que l'on n'est pas autorisé à revenir à l'ancienne hypothèse, renouvelée avec beaucoup de talent par M. Laurence Smith, et d'après laquelle les météorites seraient lancées par les volcans lunaires.
 
-Les météorites charbonneuses nous apprennent encore, par leur 
-composition essentiellement différente des matières volcaniques, que 
+*) Pour conserver sans altération les météorites d'Orgueil, il importe de les soustraire au contact de l'air humide, par exemple en les maintenant sous une cloche hermétiquement fermée en présence de potasse caustique ; ce moyen est employé au Muséum. D'autres échantillons sont placés sous des cloches où l'on a fait le vide aussi exactement que possible. Ce moyen paraît préférable au précédent, puisqu'il n'est pas démontré que l'air sec soit absolument sans action sur les météorites charbonneuses. Un autre échantillon a été déposé dans un vase à parois de glace et fermé avec du baume, de telle sorte que la petite quantité d'air qu'il contient ne puisse se renouveler.
 
+_Différence d'épaisseur que présente la croûte vitrifiée. Double croûte annonçant deux actions distinctes et successives._
 
-1. Pour conserver sans altération les météorites d'Orgueil, il importe de les soustraire au 
-contact de l'air humide, par exemple en les maintenant sous une cloche hermétiquement 
-fermée en présence de potasse caustique; ce moyen est employé au Muséum. D'autres échan- 
-tillons sont placés sous des cloches où l'on a fait le vide aussi exactement que possible. 
-Ce moyen paraît préférable au précédent, puisqu'il n'est pas démontré que l'air sec soit 
-absolumen: sans action sur les météorites charbonneuses. Un autre échantillon a été déposé dans 
-un vase à parois de glace et fermé avec du baume, de telle sorte que la petite quantité d'air qu'il 
-contient ne puisse se renouveler.
+Comme toutes les météorites, chacune de celles qui sont tombées à Orgueil est recouverte d'une croûte vitrifiée. Cette croûte présente la plus grande ressemblance avec celle que l'on peut produire artificiellement sur cette pierre, en la soumettant à la chaleur du chalumeau ; elle résulte certainement de la fusion superficielle qui s'est opérée sur chacune de ces météorites, par suite de l'incandescence qu'elles ont subie en traversant notre atmosphère.
 
-l'on n'est pas autorisé à revenir à l'ancienne hypothèse, renouvelée 
-avec beaucoup de talent par M. Laurence Smith, et d'après laquelle 
-les météorites seraient lancées par les volcans lunaires. 
-
-
-Différence d'épaisseur que présente la croûte vitrifiée. Double croûte 
-annonçant deux actions distincles et successives. 
-
-
-Comme toutes les météorites, chacune de celles qui sont tombées 
-à Orgueil est recouverte d'une croûte vitrifiée. Cette croûte présente 
-la plus grande ressemblance avec celle que l'on peut produire artifi- 
-ciellement sur cette pierre, en la soumettant à la chaleur du chalu- 
-meau; elle résulte certainement de la fusion superficielle qui s'est 
-opérée sur chacune de ces météorites, par suite de l'incandescence 
-qu'elles ont subie en traversant notre atmosphère. 
-
-Si on examine certaines de ces météorites qui ont conservé en 
-totalité la surface qu'elles avaient en arrivant sur le sol, on peut 
-remarquer que leur croûte externe n'a pas un aspect uniforme. Sur 
-une partie de son étendue cette croûte est excessivement mince, unie 
-et souvent irisée, tandis que, sur une autre partie du même échantil- 
-lon, elle est notablement plus épaisse, rugueuse et comme chagrinée. 
-L'écorce épaisse se détache sur lécorce mince par une sorte de 
-rebord ou de bourrelet qui annonce qu'elle est postérieure à cette 
-dernière, puisqu'elle s'est étendue à sa surface. 
+Si on examine certaines de ces météorites qui ont conservé en totalité la surface qu'elles avaient en arrivant sur le sol, on peut remarquer que leur croûte externe n'a pas un aspect uniforme. Sur une partie de son étendue cette croûte est excessivement mince, unie et souvent irisée, tandis que, sur une autre partie du même échantillon, elle est notablement plus épaisse, rugueuse et comme chagrinée. L'écorce épaisse se détache sur lécorce mince par une sorte de rebord ou de bourrelet qui annonce qu'elle est postérieure à cette dernière, puisqu'elle s'est étendue à sa surface.
 
 Les rugosités et ondulations de cette seconde écorce indiquent la 
 manière dont elle s'est étendue pendant le mouvement de la météo- 
 rite, en ruisselant sur sa surface. Elle peut même servir à reconnaître 
 la direction que suivait cette sorte de projectile dans son mouvement. 
-
 Quelques échantillons, dont la forme rappelle celle d'un projectile 
 Cylindro-conique, ont dû subir la fusion d'abord sur la partie convexe 
-
-
 qui, dans le mouvement rapide de translation, se trouvait en avant : 
-
 c'est de cette partie antérieure que la fusion s'est étendue vers la sur- 
 face d'arrière, en rayonnant et en formant un bourrelet continu. Entre 
 autres météorites, celles représentées, pl. I, fig. 2, 3 et 3 bis mon- 
