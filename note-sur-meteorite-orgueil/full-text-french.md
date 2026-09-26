@@ -616,6 +616,8 @@ Eau et matières supposées organiques.|13,89||
 
 « Il y a donc dans cet aérolithe 56,42 pour 100 de silicates. Si l'on calcule l'alumine comme faisant partie d'un peu d'anorthite, on obtient 2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par lévigation de l'aérolithe, et qu'examine en ce moment M. Des Cloizeaux, pourront établir s'il existe en effet un feldspath attaquable par les acides dans cette météorite. »
 
+*) Il est à remarquer que si le fer oxydulé se trouvait primitivement à l'état de protoxyde dans le silicate, on aurait alors exactement les rapports d'un péridot.
+
 ---
 
 # Sur la présence d'un carbonate de magnésie et fer cristallisé dans la météorite d'Orgueil.
