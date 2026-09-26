@@ -54,7 +54,7 @@
 
 # Observation d'un météore lumineux à Agen (Lot-et-Garonne).
 
-## Extrait d'une lettre de M. Bourrières à M. Daubrée.
+## Extrait d'une Lettre de M. Bourrières à M. Daubrée.
 
 « Agen, 15 mai 1864. »
 
