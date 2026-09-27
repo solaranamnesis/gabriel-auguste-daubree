@@ -14,4 +14,4 @@ French - PDF
 English - Plain Text  
 English - PDF  
 [French - Plain Text](chute-de-meteorites/full-text-french.md)  
-French - PDF  
+[French - PDF](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french.pdf) | [Atkinson](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-atkinson.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-biolinum.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-kerkis.pdf)  
