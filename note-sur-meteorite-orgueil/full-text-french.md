@@ -565,7 +565,7 @@ Partie soluble 3,35 pour 100.
 « Elle contient : »
 
 Acide hyposulfureux 0,48  
-Acide sulfurique, 1,40  
+Acide sulfurique 1,40  
 Chlore 0,08  
 Magnésie 0,30  
 Chaux 0,16  
