@@ -2,5 +2,5 @@
 
 English - Plain Text  
 English - PDF  
-[French - Plain Text](full-text-french.md)  
+[French - Plain Text](full-text-french.md) | [French - (GFM) Plain Text](full-text-french-gfm.md)   
 [French - PDF](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french.pdf) | [Atkinson](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-atkinson.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-biolinum.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-kerkis.pdf)  
