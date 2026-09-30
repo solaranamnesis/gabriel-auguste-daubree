@@ -190,7 +190,7 @@ _Lettre de M. Jollois à M. Le Verrier._
 
 _M. Lespiault, à Nérac (Lot-et-Garonne)._ (Lettre de M. Lespiault, professeur à la Faculté des Sciences de Bordeaux, son frère, à M. Le Verrier, en date du 29 mai.)
 
-« _Direction : ouest 1/4 nord-ouest à est 1/4 sud-est._ --- Le bolide a paru à 5 degrés environ au sud de Pollux, s'est élancé rapidement du côté du zénith, a passé à quelques degrés de ce point, en longeant la Grande Ourse, a traversé le Bouvier entre Arcturus et ε, au quart de la distance d'ε, et a éclaté près de la Balance, à 15 degrés environ au nord de Jupiter et à 25 degrés de l'horizon. »
+« _Direction : ouest 1/4 nord-ouest à est 1/4 sud-est._ — Le bolide a paru à 5 degrés environ au sud de Pollux, s'est élancé rapidement du côté du zénith, a passé à quelques degrés de ce point, en longeant la Grande Ourse, a traversé le Bouvier entre Arcturus et ε, au quart de la distance d'ε, et a éclaté près de la Balance, à 15 degrés environ au nord de Jupiter et à 25 degrés de l'horizon. »
 
 « Son aspect était celui d'une énorme fusée. La traînée lumineuse qu'il laissait derrière lui est comparée à celle que laisse une allumette phosphorique frottée sur un mur. Un nuage d'un blanc cendré s'est formé entre le zénith et le point où le bolide a fait explosion et a persisté pendant huit ou dix minutes. Sa grandeur apparente était de 12 degrés de long sur 2 degrés de large ; il s'est divisé en deux, s'est aggloméré de nouveau, puis a disparu. »
 
@@ -198,7 +198,7 @@ _M. Lespiault, à Nérac (Lot-et-Garonne)._ (Lettre de M. Lespiault, professeur 
 
 _M. Bagel, agent-voyer en chef à Montauban._ (Lettre de M. Lespiault à M. Le Verrier, du 29 mai.)
 
-« _Direction du nord-ouest au sud-est, passant à 10 degrés du zénith._ --- Un croquis de M. Bagel, qui a observé le phénomène du balcon du Cercle de l'Agriculture, accompagne sa Note, et montre que le météore a croisé le méridien du côté du sud. Le point où l'explosion a eu lieu y est indiqué, mais malheureusement il paraît difficile de mettre d'accord le texte de la Lettre avec les indications du croquis, peut-être par suite d'une erreur de copie. »
+« _Direction du nord-ouest au sud-est, passant à 10 degrés du zénith._ — Un croquis de M. Bagel, qui a observé le phénomène du balcon du Cercle de l'Agriculture, accompagne sa Note, et montre que le météore a croisé le méridien du côté du sud. Le point où l'explosion a eu lieu y est indiqué, mais malheureusement il paraît difficile de mettre d'accord le texte de la Lettre avec les indications du croquis, peut-être par suite d'une erreur de copie. »
 
 « M. Bagel compare la lumière du bolide à une flamme de Bengale assez intense pour éclairer la ville et les environs. Cette lumière, d'abord légèrement rouge, passa au jaune blanc, diminua d'éclat un peu avant l'explosion, qui produisit l'effet d'un magnifique bouquet d'artifice, blanc au centre, légèrement orangé sur les bords. Les éclats en sont projetés dans tous les sens, puis le bolide presque éteint, ayant repris une teinte rougeâtre, continue sa route et reste visible sur un arc assez étendu. »
 
@@ -226,7 +226,7 @@ _M. Pauliet, régent de Mathématiques à Montauban._ (Lettres du 15 et du 26 ma
 
 _M. Jacquot, Ingénieur en chef des mines à Bordeaux, en tournée à l'Isle-Jourdain, le 14 mai._ (Lettre à M. Daubrée, datée du 28 mai.)
 
-« _Direction au nord de l'Isle._ --- Trajectoire presque horizontale embrassant une vaste étendue dans la direction presque exacte de l'ouest vers l'est, un peu nord. »
+« _Direction au nord de l'Isle._ — Trajectoire presque horizontale embrassant une vaste étendue dans la direction presque exacte de l'ouest vers l'est, un peu nord. »
 
 « Le globe incandescent projetait une vive lumière et était suivi d'une longue traînée d'étincelles. Il éclata et se divisa en un grand nombre de fragments comme une fusée d'artifice. L'illusion était complète. Le météore avait une grande vitesse, mais il laissait, comme trace de son trajet, un léger nuage qui persista pendant plus d'un quart d'heure, se détachant en gris clair sur le fond parfaitement pur de l'atmosphère. »
 
@@ -240,7 +240,7 @@ _M. Paructeau-Léon, notaire à Cierp (canton de Saint-Béat)._ (Lettres à M. P
 
 _M. Saint-Amans, au château de Saint-Amans, près de Puymirol (Lot-et-Garonne)._ (Lettre à M. Petit, du 15 mai.)
 
-« _Direction du nord-ouest au sud-ouest._ --- Le globe, de la grosseur d'une bombe, se mouvait avec rapidité par un temps calme et serein ; il était suivi d'une assez longue flamme, lançait de vives étincelles de diverses couleurs et semblait passer en sifflant assez près de la Terre. Il laissait après lui dans l'espace comme une trace ignée, souvent interrompue par de violents tourbillons de vapeurs. Il aurait traversé le vallon de Castelcullier comme la foudre, en laissant après lui une odeur pénétrante de soufre. La durée de son apparition a été tout au plus de quelques secondes, et après sa disparition on ne tarda pas à entendre une forte détonation. »
+« _Direction du nord-ouest au sud-ouest._ — Le globe, de la grosseur d'une bombe, se mouvait avec rapidité par un temps calme et serein ; il était suivi d'une assez longue flamme, lançait de vives étincelles de diverses couleurs et semblait passer en sifflant assez près de la Terre. Il laissait après lui dans l'espace comme une trace ignée, souvent interrompue par de violents tourbillons de vapeurs. Il aurait traversé le vallon de Castelcullier comme la foudre, en laissant après lui une odeur pénétrante de soufre. La durée de son apparition a été tout au plus de quelques secondes, et après sa disparition on ne tarda pas à entendre une forte détonation. »
 
 « Le lendemain, il y avait un brouillard épais qui a duré presque toute la journée. »
 
@@ -248,7 +248,7 @@ _M. Laurentie, à Pontlevoy (Loir-et-Cher)._ (Lettre à M. Grimaud, de Caux, du 
 
 « La direction du météore était du nord-ouest au sud-est, ou plutôt au sud-sud-est ; son point de départ a paru être à une hauteur de 50 degrés. La trajectoire du météore était rectiligne, son éclat était considérable ; il éclairait l'intérieur des habitations. Son diamètre apparent était celui de la pleine Lune ; sa vitesse était moindre que celle d'une étoile filante : toutefois la durée de son apparition ne fut pas de plus de cinq à six secondes. Le météore allait grossissant, et avant de toucher l'horizon, à une hauteur d'environ 10 degrés, il laissa échapper comme une gerbe d'étincelles brillantes. L'observateur s'attendait à entendre le bruit d'une détonation ; cela n'arriva pas. »
 
-_M. Cruzel. --- Extrait de la Gironde du 18 mai, par M. Lespiault._
+_M. Cruzel. — Extrait de la Gironde du 18 mai, par M. Lespiault._
 
 « M. Cruzel gravissait la côte de Tombebœuf, près de Miramont, quand il aperçut le bolide. Il observait encore le sillage blanc que le météore avait laissé derrière lui, quand, au bout de deux minutes et demie, il entendit une double détonation, dont il compare le bruit à celui que produirait l'explosion d'une mine chargée de plusieurs livres de poudre. »
 
@@ -274,7 +274,7 @@ _M. Triger, au Mans._ (Lettre du 3 juin, à M. Daubrée.)
 
 _M. Hende, à Vannes (Morbihan)._ (Lettre à M. Le Verrier, du 31 mai.)
 
-« _Direction._ --- Le météore a paru tomber dans la direction du sud-sud-ouest ; la durée de sa chute a été évaluée à cinq ou six secondes. Il a disparu avant d'atteindre l'horizon, avec lequel il formait un angle de 65 degrés. Il pouvait avoir 1 décimètre de diamètre : on eût dit un bloc métallique en fusion. Il présentait diverses couleurs : du rouge, du blanc et du vert violacé. Aucune détonation n'a été entendue. L'observateur a cru que la chute avait eu lieu en mer. »
+« _Direction._ — Le météore a paru tomber dans la direction du sud-sud-ouest ; la durée de sa chute a été évaluée à cinq ou six secondes. Il a disparu avant d'atteindre l'horizon, avec lequel il formait un angle de 65 degrés. Il pouvait avoir 1 décimètre de diamètre : on eût dit un bloc métallique en fusion. Il présentait diverses couleurs : du rouge, du blanc et du vert violacé. Aucune détonation n'a été entendue. L'observateur a cru que la chute avait eu lieu en mer. »
 
 « Le météore a encore été vu à Layrac, à Saint-Gaudens, à Angoulême, à Périgueux, à Cognac, à Saintes, à Tulle et sur plusieurs autres points des départements de la Charente, de la Corrèze et du Puy-de-Dôme. »
 
