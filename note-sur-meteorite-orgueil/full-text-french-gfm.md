@@ -384,9 +384,7 @@ _M. Leymerie, Toulouse._ (Lettre du 10 juin à M. Daubrée.)
 
 « Sans décrire ici les caractères physiques qui distinguent tout particulièrement la météorite d'Orgueil, je dirai que son aspect rappelle singulièrement certains lignites ternes et terreux. »
 
-« Dans cette masse noire on distingue de petits grains d'une substance à éclat métallique et jaune de bronze, que sa densité permet d'isoler complètement par lévigation. En les examinant au microscope avec un grossissement suffisant, j'y ai reconnu des formes cristallines fort nettes, quoique de très petites dimensions (environ 1/20 de millimètre de diamètre). Ce sont des tables hexagonales et régulières. Ces petits grains sont d'ailleurs très fortement attirables au barreau aimanté, et possèdent tous les caractères physiques et chimiques de la _pyrite magnétique_ ou pyrrhotine.* On sait que cette espèce minérale, découverte, il y a près de quarante ans, par M. Gustave Rose, dans la pierre météorique de Juvinas, a été retrouvée depuis lors dans un certain nombre d'autres météorites. »
-
-*) Ils ressemblent particulièrement à la variété de pyrite magnétique que présentent les gîtes aurifères de Moro-Velho, au Brésil.
+« Dans cette masse noire on distingue de petits grains d'une substance à éclat métallique et jaune de bronze, que sa densité permet d'isoler complètement par lévigation. En les examinant au microscope avec un grossissement suffisant, j'y ai reconnu des formes cristallines fort nettes, quoique de très petites dimensions (environ 1/20 de millimètre de diamètre). Ce sont des tables hexagonales et régulières. Ces petits grains sont d'ailleurs très fortement attirables au barreau aimanté, et possèdent tous les caractères physiques et chimiques de la _pyrite magnétique_ ou pyrrhotine.[^1] On sait que cette espèce minérale, découverte, il y a près de quarante ans, par M. Gustave Rose, dans la pierre météorique de Juvinas, a été retrouvée depuis lors dans un certain nombre d'autres météorites. »
 
 « L'examen chimique de cette substance, entrepris par M. S. Cloëz, dont l'habileté et l'exactitude sont bien connues, a conduit à des résultats qu'il a signalés dans une Notice. »
 
@@ -609,14 +607,12 @@ Potasse|0,19|0,03|
 Oxyde de manganèse|0,36|0,08|  
 Alumine|0,90|0,42|  
 Fer chromé|0,49||  
-Fer oxydulé*|15,77||  
+Fer oxydulé[^2]|15,77||  
 Sulfure de fer nickelifère|13,43||  
 Eau et matières supposées organiques.|13,89||  
 |100,00||
 
 « Il y a donc dans cet aérolithe 56,42 pour 100 de silicates. Si l'on calcule l'alumine comme faisant partie d'un peu d'anorthite, on obtient 2,42 pour 100 de ce feldspath. De petits cristaux transparents retirés par lévigation de l'aérolithe, et qu'examine en ce moment M. Des Cloizeaux, pourront établir s'il existe en effet un feldspath attaquable par les acides dans cette météorite. »
-
-*) Il est à remarquer que si le fer oxydulé se trouvait primitivement à l'état de protoxyde dans le silicate, on aurait alors exactement les rapports d'un péridot.
 
 ---
 
@@ -661,3 +657,7 @@ Eau et matières supposées organiques.|13,89||
 « Les nombres obtenus sont, comme on le voit, assez rapprochés ; ils montrent que la portion de la pierre examinée contient un peu plus de 1/2 pour 100 d'acide carbonique. »
 
 ---
+
+[^1]: Ils ressemblent particulièrement à la variété de pyrite magnétique que présentent les gîtes aurifères de Moro-Velho, au Brésil.
+
+[^2]: Il est à remarquer que si le fer oxydulé se trouvait primitivement à l'état de protoxyde dans le silicate, on aurait alors exactement les rapports d'un péridot.
